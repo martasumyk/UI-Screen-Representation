@@ -1,0 +1,303 @@
+{
+    "name": "Numi",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "standard window",
+    "value": "None",
+    "children": [
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Numi",
+            "children": [],
+            "bbox": [
+                336,
+                18,
+                72,
+                34
+            ],
+            "visible_bbox": [
+                336,
+                18,
+                72,
+                34
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXUnknown",
+            "description": "Add calculation",
+            "role_description": "unknown",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                636,
+                12,
+                44,
+                44
+            ],
+            "visible_bbox": [
+                636,
+                12,
+                44,
+                44
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXUnknown",
+            "description": "All calculations",
+            "role_description": "unknown",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                680,
+                14,
+                44,
+                40
+            ],
+            "visible_bbox": [
+                680,
+                14,
+                44,
+                40
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXScrollArea",
+            "description": "None",
+            "role_description": "scroll area",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXTextArea",
+                    "description": "None",
+                    "role_description": "text entry area",
+                    "value": "# Sample\n8 / (45 - 20%)\n5 inches in cm\n$9 in Euro",
+                    "children": [],
+                    "bbox": [
+                        52,
+                        76,
+                        660,
+                        566
+                    ],
+                    "visible_bbox": [
+                        52,
+                        76,
+                        660,
+                        566
+                    ]
+                }
+            ],
+            "bbox": [
+                52,
+                76,
+                660,
+                566
+            ],
+            "visible_bbox": [
+                52,
+                76,
+                660,
+                566
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXUnknown",
+            "description": "Settings",
+            "role_description": "unknown",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                22,
+                666,
+                32,
+                32
+            ],
+            "visible_bbox": [
+                22,
+                666,
+                32,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXUnknown",
+            "description": "Export",
+            "role_description": "unknown",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                678,
+                662,
+                40,
+                40
+            ],
+            "visible_bbox": [
+                678,
+                662,
+                40,
+                40
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Add calculation",
+            "children": [],
+            "bbox": [
+                270,
+                662,
+                200,
+                34
+            ],
+            "visible_bbox": [
+                270,
+                662,
+                200,
+                34
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXUnknown",
+            "description": "Total",
+            "role_description": "unknown",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                350,
+                658,
+                40,
+                50
+            ],
+            "visible_bbox": [
+                350,
+                658,
+                40,
+                50
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXToolbar",
+            "description": "None",
+            "role_description": "toolbar",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                0,
+                0,
+                740,
+                76
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                740,
+                76
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "close button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                24,
+                22,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                24,
+                22,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "full screen button",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        104,
+                        22,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        104,
+                        22,
+                        28,
+                        32
+                    ]
+                }
+            ],
+            "bbox": [
+                104,
+                22,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                104,
+                22,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "minimize button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                64,
+                22,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                64,
+                22,
+                28,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        740,
+        720
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        740,
+        720
+    ]
+}

@@ -1,0 +1,548 @@
+{
+    "name": "Session Pomodoro Focus Timer",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXGroup",
+            "description": null,
+            "role_description": "group",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        836,
+                        -290,
+                        0,
+                        28
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Close",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        844,
+                        -296,
+                        40,
+                        40
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "00:39",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        0,
+                        200,
+                        94,
+                        96
+                    ],
+                    "visible_bbox": [
+                        0,
+                        200,
+                        94,
+                        96
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "bar-chart-2",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        0,
+                        296,
+                        94,
+                        96
+                    ],
+                    "visible_bbox": [
+                        0,
+                        296,
+                        94,
+                        96
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "user",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        0,
+                        392,
+                        94,
+                        96
+                    ],
+                    "visible_bbox": [
+                        0,
+                        392,
+                        94,
+                        96
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "book-open",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        0,
+                        488,
+                        94,
+                        96
+                    ],
+                    "visible_bbox": [
+                        0,
+                        488,
+                        94,
+                        96
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "settings",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        0,
+                        1224,
+                        94,
+                        96
+                    ],
+                    "visible_bbox": [
+                        0,
+                        1224,
+                        94,
+                        96
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXScrollArea",
+                    "description": null,
+                    "role_description": "scroll area",
+                    "value": null,
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "Session helps you manage your time and keep you in the zone. Here's what you can do to get the most out of Session!",
+                            "children": [],
+                            "bbox": [
+                                408,
+                                136,
+                                790,
+                                138
+                            ],
+                            "visible_bbox": [
+                                408,
+                                136,
+                                790,
+                                138
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "Create Session account",
+                            "children": [],
+                            "bbox": [
+                                432,
+                                426,
+                                306,
+                                34
+                            ],
+                            "visible_bbox": [
+                                432,
+                                426,
+                                306,
+                                34
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "\u2611\ufe0f",
+                            "children": [],
+                            "bbox": [
+                                1218,
+                                442,
+                                46,
+                                38
+                            ],
+                            "visible_bbox": [
+                                1218,
+                                442,
+                                46,
+                                38
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                432,
+                                468,
+                                0,
+                                28
+                            ],
+                            "visible_bbox": null
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "Complete your first Session today",
+                            "children": [],
+                            "bbox": [
+                                432,
+                                530,
+                                436,
+                                34
+                            ],
+                            "visible_bbox": [
+                                432,
+                                530,
+                                436,
+                                34
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "\u2611\ufe0f",
+                            "children": [],
+                            "bbox": [
+                                1218,
+                                546,
+                                46,
+                                38
+                            ],
+                            "visible_bbox": [
+                                1218,
+                                546,
+                                46,
+                                38
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "Start your Session to kickstart your flow.",
+                            "children": [],
+                            "bbox": [
+                                432,
+                                572,
+                                424,
+                                28
+                            ],
+                            "visible_bbox": [
+                                432,
+                                572,
+                                424,
+                                28
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "Integrate Session with your calendar",
+                            "children": [],
+                            "bbox": [
+                                432,
+                                634,
+                                470,
+                                34
+                            ],
+                            "visible_bbox": [
+                                432,
+                                634,
+                                470,
+                                34
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "See your day at a glance. You can integrate from Settings after creating an account.",
+                            "children": [],
+                            "bbox": [
+                                432,
+                                676,
+                                608,
+                                56
+                            ],
+                            "visible_bbox": [
+                                432,
+                                676,
+                                608,
+                                56
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "\u2611\ufe0f",
+                            "children": [],
+                            "bbox": [
+                                1218,
+                                664,
+                                46,
+                                38
+                            ],
+                            "visible_bbox": [
+                                1218,
+                                664,
+                                46,
+                                38
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "Get Started with Session on Mac",
+                            "children": [],
+                            "bbox": [
+                                432,
+                                766,
+                                422,
+                                34
+                            ],
+                            "visible_bbox": [
+                                432,
+                                766,
+                                422,
+                                34
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "\u2611\ufe0f",
+                            "children": [],
+                            "bbox": [
+                                1218,
+                                782,
+                                46,
+                                38
+                            ],
+                            "visible_bbox": [
+                                1218,
+                                782,
+                                46,
+                                38
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "Learn how setting up Session can kickstart your productivity.",
+                            "children": [],
+                            "bbox": [
+                                432,
+                                808,
+                                638,
+                                28
+                            ],
+                            "visible_bbox": [
+                                432,
+                                808,
+                                638,
+                                28
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXButton",
+                            "description": "Learn more",
+                            "role_description": "button",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                416,
+                                860,
+                                864,
+                                66
+                            ],
+                            "visible_bbox": [
+                                416,
+                                860,
+                                864,
+                                66
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXButton",
+                            "description": "SKIP / FINISH TUTORIAL",
+                            "role_description": "button",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                416,
+                                1078,
+                                864,
+                                72
+                            ],
+                            "visible_bbox": [
+                                416,
+                                1078,
+                                864,
+                                72
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        360,
+                        88,
+                        976,
+                        1312
+                    ],
+                    "visible_bbox": [
+                        360,
+                        88,
+                        976,
+                        1312
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                0,
+                1600,
+                1400
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                1600,
+                1400
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "close button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                14,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                14,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "full screen button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                94,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                94,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "minimize button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                54,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                54,
+                12,
+                28,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1600,
+        1400
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1600,
+        1400
+    ]
+}

@@ -1,0 +1,606 @@
+{
+    "name": "Zoom",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": "",
+            "role_description": "collapsed, menu button",
+            "value": "More",
+            "children": [],
+            "bbox": [
+                1266,
+                2,
+                166,
+                100
+            ],
+            "visible_bbox": [
+                1266,
+                2,
+                166,
+                100
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": "1 of 9",
+            "role_description": "Tab",
+            "value": "Home, selected",
+            "children": [],
+            "bbox": [
+                768,
+                2,
+                166,
+                100
+            ],
+            "visible_bbox": [
+                768,
+                2,
+                166,
+                100
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": "2 of 9",
+            "role_description": "Tab",
+            "value": "Meetings",
+            "children": [],
+            "bbox": [
+                934,
+                2,
+                166,
+                100
+            ],
+            "visible_bbox": [
+                934,
+                2,
+                166,
+                100
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": "3 of 9",
+            "role_description": "Tab",
+            "value": "Team Chat",
+            "children": [],
+            "bbox": [
+                1100,
+                2,
+                166,
+                100
+            ],
+            "visible_bbox": [
+                1100,
+                2,
+                166,
+                100
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": "Help",
+            "role_description": "collapsed, menu button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                1528,
+                24,
+                56,
+                56
+            ],
+            "visible_bbox": [
+                1528,
+                24,
+                56,
+                56
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": "Open Activity Center, collapsed",
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                1600,
+                24,
+                56,
+                56
+            ],
+            "visible_bbox": [
+                1600,
+                24,
+                56,
+                56
+            ]
+        },
+        {
+            "name": "",
+            "role": "AXButton",
+            "description": "available on desktop",
+            "role_description": "",
+            "value": null,
+            "children": [],
+            "bbox": [
+                1672,
+                20,
+                64,
+                64
+            ],
+            "visible_bbox": [
+                1672,
+                20,
+                64,
+                64
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": "Back in Chat(\u2318 + left bracket)",
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                168,
+                24,
+                56,
+                56
+            ],
+            "visible_bbox": [
+                168,
+                24,
+                56,
+                56
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": "Forward in Chat(\u2318 + right bracket)",
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                232,
+                24,
+                56,
+                56
+            ],
+            "visible_bbox": [
+                232,
+                24,
+                56,
+                56
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": "",
+            "role_description": "menu button, collapsed",
+            "value": null,
+            "children": [],
+            "bbox": [
+                318,
+                24,
+                56,
+                56
+            ],
+            "visible_bbox": [
+                318,
+                24,
+                56,
+                56
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": "Search  \u2318F",
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                404,
+                24,
+                270,
+                56
+            ],
+            "visible_bbox": [
+                404,
+                24,
+                270,
+                56
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "close button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                26,
+                36,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                26,
+                36,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "minimize button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                66,
+                36,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                66,
+                36,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "full screen button",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXGroup",
+                    "description": null,
+                    "role_description": "group",
+                    "value": null,
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXGroup",
+                            "description": null,
+                            "role_description": "group",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                106,
+                                36,
+                                28,
+                                32
+                            ],
+                            "visible_bbox": [
+                                106,
+                                36,
+                                28,
+                                32
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        106,
+                        36,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        106,
+                        36,
+                        28,
+                        32
+                    ]
+                }
+            ],
+            "bbox": [
+                106,
+                36,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                106,
+                36,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXSplitGroup",
+            "description": null,
+            "role_description": "split group",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Settings",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1696,
+                        130,
+                        32,
+                        32
+                    ],
+                    "visible_bbox": [
+                        1696,
+                        130,
+                        32,
+                        32
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Start New Meeting",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        40,
+                        256,
+                        120,
+                        120
+                    ],
+                    "visible_bbox": [
+                        40,
+                        256,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Start New Meeting Options",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        40,
+                        256,
+                        120,
+                        120
+                    ],
+                    "visible_bbox": [
+                        40,
+                        256,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Join Meeting",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        40,
+                        256,
+                        120,
+                        120
+                    ],
+                    "visible_bbox": [
+                        40,
+                        256,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Schedule Meeting",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        40,
+                        256,
+                        120,
+                        120
+                    ],
+                    "visible_bbox": [
+                        40,
+                        256,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Share Screen",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        40,
+                        256,
+                        120,
+                        120
+                    ],
+                    "visible_bbox": [
+                        40,
+                        256,
+                        120,
+                        120
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Change background image",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1520,
+                        288,
+                        64,
+                        64
+                    ],
+                    "visible_bbox": [
+                        1520,
+                        288,
+                        64,
+                        64
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXUnknown",
+                    "description": "07:11 pm, Monday, February 05",
+                    "role_description": "unknown",
+                    "value": "19:11",
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "07:11 pm, Monday, February 05",
+                            "role_description": "text",
+                            "value": "19:11",
+                            "children": [],
+                            "bbox": [
+                                980,
+                                328,
+                                560,
+                                96
+                            ],
+                            "visible_bbox": [
+                                980,
+                                328,
+                                560,
+                                96
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        980,
+                        328,
+                        560,
+                        96
+                    ],
+                    "visible_bbox": [
+                        980,
+                        328,
+                        560,
+                        96
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Monday, 5 February 2024",
+                    "children": [],
+                    "bbox": [
+                        980,
+                        430,
+                        560,
+                        40
+                    ],
+                    "visible_bbox": [
+                        980,
+                        430,
+                        560,
+                        40
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXGroup",
+                    "description": null,
+                    "role_description": "group",
+                    "value": null,
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXButton",
+                            "description": "Add a Calendar",
+                            "role_description": "link, open in your default browser",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                1142,
+                                830,
+                                234,
+                                42
+                            ],
+                            "visible_bbox": [
+                                1142,
+                                830,
+                                234,
+                                42
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        920,
+                        552,
+                        680,
+                        598
+                    ],
+                    "visible_bbox": [
+                        920,
+                        552,
+                        680,
+                        598
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                106,
+                1760,
+                1214
+            ],
+            "visible_bbox": [
+                0,
+                106,
+                1760,
+                1214
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1760,
+        1320
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1760,
+        1320
+    ]
+}

@@ -1,0 +1,1344 @@
+{
+    "name": "Bartender 5",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "standard window",
+    "value": "None",
+    "children": [
+        {
+            "name": "None",
+            "role": "AXSplitGroup",
+            "description": "None",
+            "role_description": "split group",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Bartender",
+                    "children": [],
+                    "bbox": [
+                        178,
+                        16,
+                        160,
+                        40
+                    ],
+                    "visible_bbox": [
+                        178,
+                        16,
+                        160,
+                        40
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "5",
+                    "children": [],
+                    "bbox": [
+                        330,
+                        10,
+                        36,
+                        54
+                    ],
+                    "visible_bbox": [
+                        330,
+                        10,
+                        36,
+                        54
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXScrollArea",
+                    "description": "None",
+                    "role_description": "scroll area",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXOutline",
+                            "description": "None",
+                            "role_description": "outline",
+                            "value": "None",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXRow",
+                                    "description": "None",
+                                    "role_description": "outline row",
+                                    "value": "None",
+                                    "children": [
+                                        {
+                                            "name": "None",
+                                            "role": "AXCell",
+                                            "description": "None",
+                                            "role_description": "cell",
+                                            "value": "None",
+                                            "children": [
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXImage",
+                                                    "description": "General",
+                                                    "role_description": "image",
+                                                    "value": "None",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        32,
+                                                        108,
+                                                        70,
+                                                        74
+                                                    ],
+                                                    "visible_bbox": [
+                                                        32,
+                                                        108,
+                                                        70,
+                                                        74
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXStaticText",
+                                                    "description": "None",
+                                                    "role_description": "text",
+                                                    "value": "General",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        114,
+                                                        130,
+                                                        102,
+                                                        32
+                                                    ],
+                                                    "visible_bbox": [
+                                                        114,
+                                                        130,
+                                                        102,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                20,
+                                                96,
+                                                440,
+                                                100
+                                            ],
+                                            "visible_bbox": [
+                                                20,
+                                                96,
+                                                440,
+                                                100
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        0,
+                                        96,
+                                        480,
+                                        100
+                                    ],
+                                    "visible_bbox": [
+                                        0,
+                                        96,
+                                        480,
+                                        100
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXRow",
+                                    "description": "None",
+                                    "role_description": "outline row",
+                                    "value": "None",
+                                    "children": [
+                                        {
+                                            "name": "None",
+                                            "role": "AXCell",
+                                            "description": "None",
+                                            "role_description": "cell",
+                                            "value": "None",
+                                            "children": [
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXImage",
+                                                    "description": "Menu Bar Layout",
+                                                    "role_description": "image",
+                                                    "value": "None",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        32,
+                                                        212,
+                                                        70,
+                                                        68
+                                                    ],
+                                                    "visible_bbox": [
+                                                        32,
+                                                        212,
+                                                        70,
+                                                        68
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXStaticText",
+                                                    "description": "None",
+                                                    "role_description": "text",
+                                                    "value": "Menu Bar Items",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        114,
+                                                        230,
+                                                        198,
+                                                        32
+                                                    ],
+                                                    "visible_bbox": [
+                                                        114,
+                                                        230,
+                                                        198,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                20,
+                                                196,
+                                                440,
+                                                100
+                                            ],
+                                            "visible_bbox": [
+                                                20,
+                                                196,
+                                                440,
+                                                100
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        0,
+                                        196,
+                                        480,
+                                        100
+                                    ],
+                                    "visible_bbox": [
+                                        0,
+                                        196,
+                                        480,
+                                        100
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXRow",
+                                    "description": "None",
+                                    "role_description": "outline row",
+                                    "value": "None",
+                                    "children": [
+                                        {
+                                            "name": "None",
+                                            "role": "AXCell",
+                                            "description": "None",
+                                            "role_description": "cell",
+                                            "value": "None",
+                                            "children": [
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXImage",
+                                                    "description": "Menu Bar Style",
+                                                    "role_description": "image",
+                                                    "value": "None",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        32,
+                                                        308,
+                                                        70,
+                                                        72
+                                                    ],
+                                                    "visible_bbox": [
+                                                        32,
+                                                        308,
+                                                        70,
+                                                        72
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXStaticText",
+                                                    "description": "None",
+                                                    "role_description": "text",
+                                                    "value": "Menu Bar Style",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        114,
+                                                        330,
+                                                        192,
+                                                        32
+                                                    ],
+                                                    "visible_bbox": [
+                                                        114,
+                                                        330,
+                                                        192,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                20,
+                                                296,
+                                                440,
+                                                100
+                                            ],
+                                            "visible_bbox": [
+                                                20,
+                                                296,
+                                                440,
+                                                100
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        0,
+                                        296,
+                                        480,
+                                        100
+                                    ],
+                                    "visible_bbox": [
+                                        0,
+                                        296,
+                                        480,
+                                        100
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXRow",
+                                    "description": "None",
+                                    "role_description": "outline row",
+                                    "value": "None",
+                                    "children": [
+                                        {
+                                            "name": "None",
+                                            "role": "AXCell",
+                                            "description": "None",
+                                            "role_description": "cell",
+                                            "value": "None",
+                                            "children": [
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXImage",
+                                                    "description": "Presets",
+                                                    "role_description": "image",
+                                                    "value": "None",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        32,
+                                                        412,
+                                                        70,
+                                                        68
+                                                    ],
+                                                    "visible_bbox": [
+                                                        32,
+                                                        412,
+                                                        70,
+                                                        68
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXStaticText",
+                                                    "description": "None",
+                                                    "role_description": "text",
+                                                    "value": "Presets",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        114,
+                                                        430,
+                                                        100,
+                                                        32
+                                                    ],
+                                                    "visible_bbox": [
+                                                        114,
+                                                        430,
+                                                        100,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                20,
+                                                396,
+                                                440,
+                                                100
+                                            ],
+                                            "visible_bbox": [
+                                                20,
+                                                396,
+                                                440,
+                                                100
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        0,
+                                        396,
+                                        480,
+                                        100
+                                    ],
+                                    "visible_bbox": [
+                                        0,
+                                        396,
+                                        480,
+                                        100
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXRow",
+                                    "description": "None",
+                                    "role_description": "outline row",
+                                    "value": "None",
+                                    "children": [
+                                        {
+                                            "name": "None",
+                                            "role": "AXCell",
+                                            "description": "None",
+                                            "role_description": "cell",
+                                            "value": "None",
+                                            "children": [
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXImage",
+                                                    "description": "Triggers",
+                                                    "role_description": "image",
+                                                    "value": "None",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        32,
+                                                        506,
+                                                        70,
+                                                        76
+                                                    ],
+                                                    "visible_bbox": [
+                                                        32,
+                                                        506,
+                                                        70,
+                                                        76
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXStaticText",
+                                                    "description": "None",
+                                                    "role_description": "text",
+                                                    "value": "Triggers",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        114,
+                                                        530,
+                                                        108,
+                                                        32
+                                                    ],
+                                                    "visible_bbox": [
+                                                        114,
+                                                        530,
+                                                        108,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                20,
+                                                496,
+                                                440,
+                                                100
+                                            ],
+                                            "visible_bbox": [
+                                                20,
+                                                496,
+                                                440,
+                                                100
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        0,
+                                        496,
+                                        480,
+                                        100
+                                    ],
+                                    "visible_bbox": [
+                                        0,
+                                        496,
+                                        480,
+                                        100
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXRow",
+                                    "description": "None",
+                                    "role_description": "outline row",
+                                    "value": "None",
+                                    "children": [
+                                        {
+                                            "name": "None",
+                                            "role": "AXCell",
+                                            "description": "None",
+                                            "role_description": "cell",
+                                            "value": "None",
+                                            "children": [
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXImage",
+                                                    "description": "Hot Keys",
+                                                    "role_description": "image",
+                                                    "value": "None",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        32,
+                                                        612,
+                                                        70,
+                                                        68
+                                                    ],
+                                                    "visible_bbox": [
+                                                        32,
+                                                        612,
+                                                        70,
+                                                        68
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXStaticText",
+                                                    "description": "None",
+                                                    "role_description": "text",
+                                                    "value": "Hotkeys",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        114,
+                                                        630,
+                                                        106,
+                                                        32
+                                                    ],
+                                                    "visible_bbox": [
+                                                        114,
+                                                        630,
+                                                        106,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                20,
+                                                596,
+                                                440,
+                                                100
+                                            ],
+                                            "visible_bbox": [
+                                                20,
+                                                596,
+                                                440,
+                                                100
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        0,
+                                        596,
+                                        480,
+                                        100
+                                    ],
+                                    "visible_bbox": [
+                                        0,
+                                        596,
+                                        480,
+                                        100
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXRow",
+                                    "description": "None",
+                                    "role_description": "outline row",
+                                    "value": "None",
+                                    "children": [
+                                        {
+                                            "name": "None",
+                                            "role": "AXCell",
+                                            "description": "None",
+                                            "role_description": "cell",
+                                            "value": "None",
+                                            "children": [
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXImage",
+                                                    "description": "Advanced",
+                                                    "role_description": "image",
+                                                    "value": "None",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        32,
+                                                        708,
+                                                        70,
+                                                        74
+                                                    ],
+                                                    "visible_bbox": [
+                                                        32,
+                                                        708,
+                                                        70,
+                                                        74
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXStaticText",
+                                                    "description": "None",
+                                                    "role_description": "text",
+                                                    "value": "Advanced",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        114,
+                                                        730,
+                                                        128,
+                                                        32
+                                                    ],
+                                                    "visible_bbox": [
+                                                        114,
+                                                        730,
+                                                        128,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                20,
+                                                696,
+                                                440,
+                                                100
+                                            ],
+                                            "visible_bbox": [
+                                                20,
+                                                696,
+                                                440,
+                                                100
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        0,
+                                        696,
+                                        480,
+                                        100
+                                    ],
+                                    "visible_bbox": [
+                                        0,
+                                        696,
+                                        480,
+                                        100
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXRow",
+                                    "description": "None",
+                                    "role_description": "outline row",
+                                    "value": "None",
+                                    "children": [
+                                        {
+                                            "name": "None",
+                                            "role": "AXCell",
+                                            "description": "None",
+                                            "role_description": "cell",
+                                            "value": "None",
+                                            "children": [
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXImage",
+                                                    "description": "",
+                                                    "role_description": "image",
+                                                    "value": "None",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        32,
+                                                        818,
+                                                        70,
+                                                        58
+                                                    ],
+                                                    "visible_bbox": [
+                                                        32,
+                                                        818,
+                                                        70,
+                                                        58
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXStaticText",
+                                                    "description": "None",
+                                                    "role_description": "text",
+                                                    "value": "About",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        114,
+                                                        830,
+                                                        80,
+                                                        32
+                                                    ],
+                                                    "visible_bbox": [
+                                                        114,
+                                                        830,
+                                                        80,
+                                                        32
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                20,
+                                                796,
+                                                440,
+                                                100
+                                            ],
+                                            "visible_bbox": [
+                                                20,
+                                                796,
+                                                440,
+                                                100
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        0,
+                                        796,
+                                        480,
+                                        100
+                                    ],
+                                    "visible_bbox": [
+                                        0,
+                                        796,
+                                        480,
+                                        100
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXColumn",
+                                    "description": "None",
+                                    "role_description": "column",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        20,
+                                        76,
+                                        440,
+                                        1044
+                                    ],
+                                    "visible_bbox": [
+                                        20,
+                                        76,
+                                        440,
+                                        1044
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                0,
+                                76,
+                                480,
+                                1044
+                            ],
+                            "visible_bbox": [
+                                0,
+                                76,
+                                480,
+                                1044
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        0,
+                        76,
+                        480,
+                        1044
+                    ],
+                    "visible_bbox": [
+                        0,
+                        76,
+                        480,
+                        1044
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXSplitter",
+                    "description": "None",
+                    "role_description": "splitter",
+                    "value": "240.0",
+                    "children": [],
+                    "bbox": [
+                        480,
+                        56,
+                        2,
+                        1064
+                    ],
+                    "visible_bbox": [
+                        480,
+                        56,
+                        2,
+                        1064
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Advanced",
+                    "children": [],
+                    "bbox": [
+                        518,
+                        40,
+                        1228,
+                        40
+                    ],
+                    "visible_bbox": [
+                        518,
+                        40,
+                        1228,
+                        40
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXScrollArea",
+                    "description": "None",
+                    "role_description": "scroll area",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "Hide left application menu when needed to show menu bar items",
+                            "children": [],
+                            "bbox": [
+                                558,
+                                128,
+                                1076,
+                                30
+                            ],
+                            "visible_bbox": [
+                                558,
+                                128,
+                                1076,
+                                30
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "switch",
+                            "value": "1",
+                            "children": [],
+                            "bbox": [
+                                1648,
+                                128,
+                                56,
+                                32
+                            ],
+                            "visible_bbox": [
+                                1648,
+                                128,
+                                56,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "Hide Shown menu bar items to make room to reveal your Hidden menu bar items",
+                            "children": [],
+                            "bbox": [
+                                558,
+                                242,
+                                1038,
+                                32
+                            ],
+                            "visible_bbox": [
+                                558,
+                                242,
+                                1038,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "when",
+                            "children": [],
+                            "bbox": [
+                                558,
+                                290,
+                                72,
+                                32
+                            ],
+                            "visible_bbox": [
+                                558,
+                                290,
+                                72,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXPopUpButton",
+                            "description": "None",
+                            "role_description": "pop up button",
+                            "value": "there is not enough space to reveal your hidden menu bar items",
+                            "children": [],
+                            "bbox": [
+                                640,
+                                284,
+                                1068,
+                                50
+                            ],
+                            "visible_bbox": [
+                                640,
+                                284,
+                                1068,
+                                50
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "Leave shown menu bar items to the right of the Bartender menu bar item",
+                            "children": [],
+                            "bbox": [
+                                558,
+                                354,
+                                886,
+                                32
+                            ],
+                            "visible_bbox": [
+                                558,
+                                354,
+                                886,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "switch",
+                            "value": "0",
+                            "children": [],
+                            "bbox": [
+                                1648,
+                                354,
+                                56,
+                                32
+                            ],
+                            "visible_bbox": [
+                                1648,
+                                354,
+                                56,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "On battery power reduce energy usage",
+                            "children": [],
+                            "bbox": [
+                                558,
+                                464,
+                                480,
+                                30
+                            ],
+                            "visible_bbox": [
+                                558,
+                                464,
+                                480,
+                                30
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "switch",
+                            "value": "0",
+                            "children": [],
+                            "bbox": [
+                                1648,
+                                464,
+                                56,
+                                32
+                            ],
+                            "visible_bbox": [
+                                1648,
+                                464,
+                                56,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "Delay before hiding temporarily shown menu bar items",
+                            "children": [],
+                            "bbox": [
+                                558,
+                                574,
+                                1148,
+                                32
+                            ],
+                            "visible_bbox": [
+                                558,
+                                574,
+                                1148,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXSlider",
+                            "description": "None",
+                            "role_description": "slider",
+                            "value": "15.0",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXValueIndicator",
+                                    "description": "None",
+                                    "role_description": "value indicator",
+                                    "value": "15.0",
+                                    "children": [],
+                                    "bbox": [
+                                        1008,
+                                        630,
+                                        24,
+                                        56
+                                    ],
+                                    "visible_bbox": [
+                                        1008,
+                                        630,
+                                        24,
+                                        56
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                558,
+                                634,
+                                958,
+                                48
+                            ],
+                            "visible_bbox": [
+                                558,
+                                634,
+                                958,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "15",
+                            "children": [],
+                            "bbox": [
+                                1524,
+                                638,
+                                68,
+                                32
+                            ],
+                            "visible_bbox": [
+                                1524,
+                                638,
+                                68,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": " Seconds",
+                            "children": [],
+                            "bbox": [
+                                1584,
+                                638,
+                                120,
+                                32
+                            ],
+                            "visible_bbox": [
+                                1584,
+                                638,
+                                120,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "Show Bartender notifications",
+                            "children": [],
+                            "bbox": [
+                                558,
+                                750,
+                                1076,
+                                30
+                            ],
+                            "visible_bbox": [
+                                558,
+                                750,
+                                1076,
+                                30
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "switch",
+                            "value": "1",
+                            "children": [],
+                            "bbox": [
+                                1648,
+                                750,
+                                56,
+                                32
+                            ],
+                            "visible_bbox": [
+                                1648,
+                                750,
+                                56,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "When \u2318+dragging menu bar items, show all sections",
+                            "children": [],
+                            "bbox": [
+                                558,
+                                860,
+                                650,
+                                30
+                            ],
+                            "visible_bbox": [
+                                558,
+                                860,
+                                650,
+                                30
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "switch",
+                            "value": "1",
+                            "children": [],
+                            "bbox": [
+                                1648,
+                                860,
+                                56,
+                                32
+                            ],
+                            "visible_bbox": [
+                                1648,
+                                860,
+                                56,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXScrollBar",
+                            "description": "None",
+                            "role_description": "scroll bar",
+                            "value": "0.0",
+                            "children": [],
+                            "bbox": [
+                                1710,
+                                96,
+                                32,
+                                954
+                            ],
+                            "visible_bbox": [
+                                1710,
+                                96,
+                                32,
+                                954
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        522,
+                        96,
+                        1220,
+                        954
+                    ],
+                    "visible_bbox": [
+                        522,
+                        96,
+                        1220,
+                        954
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                0,
+                1782,
+                1120
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                1782,
+                1120
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "close button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                14,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                14,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "zoom button",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXGroup",
+                            "description": "None",
+                            "role_description": "group",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                94,
+                                12,
+                                28,
+                                32
+                            ],
+                            "visible_bbox": [
+                                94,
+                                12,
+                                28,
+                                32
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        94,
+                        12,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        94,
+                        12,
+                        28,
+                        32
+                    ]
+                }
+            ],
+            "bbox": [
+                94,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                94,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "minimize button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                54,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                54,
+                12,
+                28,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1782,
+        1120
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1782,
+        1120
+    ]
+}

@@ -1,0 +1,984 @@
+{
+    "name": null,
+    "role": "AXGroup",
+    "description": null,
+    "role_description": "group",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": "settings-close-button",
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                1488,
+                76,
+                64,
+                64
+            ],
+            "visible_bbox": [
+                1488,
+                76,
+                64,
+                64
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Shortcuts",
+            "children": [],
+            "bbox": [
+                448,
+                132,
+                218,
+                48
+            ],
+            "visible_bbox": [
+                448,
+                132,
+                218,
+                48
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Account",
+            "children": [],
+            "bbox": [
+                48,
+                224,
+                320,
+                68
+            ],
+            "visible_bbox": [
+                48,
+                224,
+                320,
+                68
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Your devices",
+            "children": [],
+            "bbox": [
+                48,
+                292,
+                320,
+                68
+            ],
+            "visible_bbox": [
+                48,
+                292,
+                320,
+                68
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Speed up your actions with keyboard shortcuts",
+            "children": [],
+            "bbox": [
+                448,
+                276,
+                796,
+                36
+            ],
+            "visible_bbox": [
+                448,
+                276,
+                796,
+                36
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "System settings",
+            "children": [],
+            "bbox": [
+                48,
+                360,
+                320,
+                68
+            ],
+            "visible_bbox": [
+                48,
+                360,
+                320,
+                68
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "VPN activation",
+            "children": [],
+            "bbox": [
+                448,
+                372,
+                170,
+                24
+            ],
+            "visible_bbox": [
+                448,
+                372,
+                170,
+                24
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Shortcuts",
+            "children": [],
+            "bbox": [
+                48,
+                428,
+                320,
+                68
+            ],
+            "visible_bbox": [
+                48,
+                428,
+                320,
+                68
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Stand with Ukraine \ud83c\uddfa\ud83c\udde6",
+            "children": [],
+            "bbox": [
+                48,
+                496,
+                320,
+                104
+            ],
+            "visible_bbox": [
+                48,
+                496,
+                320,
+                104
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Need help?",
+            "children": [],
+            "bbox": [
+                48,
+                600,
+                320,
+                68
+            ],
+            "visible_bbox": [
+                48,
+                600,
+                320,
+                68
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXOpaqueProviderGroup",
+            "description": null,
+            "role_description": "collection",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Activate VPN mode",
+                    "children": [],
+                    "bbox": [
+                        464,
+                        446,
+                        104,
+                        52
+                    ],
+                    "visible_bbox": [
+                        464,
+                        446,
+                        104,
+                        52
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "return",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        836,
+                        436,
+                        136,
+                        72
+                    ],
+                    "visible_bbox": [
+                        836,
+                        436,
+                        136,
+                        72
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Details screen",
+                    "children": [],
+                    "bbox": [
+                        1020,
+                        462,
+                        140,
+                        20
+                    ],
+                    "visible_bbox": [
+                        1020,
+                        462,
+                        140,
+                        20
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "arrowDown",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1456,
+                        436,
+                        72,
+                        72
+                    ],
+                    "visible_bbox": [
+                        1456,
+                        436,
+                        72,
+                        72
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Switch between smart presets",
+                    "children": [],
+                    "bbox": [
+                        464,
+                        574,
+                        166,
+                        52
+                    ],
+                    "visible_bbox": [
+                        464,
+                        574,
+                        166,
+                        52
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "arrowLeft",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        758,
+                        564,
+                        72,
+                        72
+                    ],
+                    "visible_bbox": [
+                        758,
+                        564,
+                        72,
+                        72
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "/",
+                    "children": [],
+                    "bbox": [
+                        854,
+                        584,
+                        20,
+                        32
+                    ],
+                    "visible_bbox": [
+                        854,
+                        584,
+                        20,
+                        32
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "arrowRight",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        900,
+                        564,
+                        72,
+                        72
+                    ],
+                    "visible_bbox": [
+                        900,
+                        564,
+                        72,
+                        72
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Switch between VPN modes",
+                    "children": [],
+                    "bbox": [
+                        1020,
+                        574,
+                        166,
+                        52
+                    ],
+                    "visible_bbox": [
+                        1020,
+                        574,
+                        166,
+                        52
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "arrowDown",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1314,
+                        564,
+                        72,
+                        72
+                    ],
+                    "visible_bbox": [
+                        1314,
+                        564,
+                        72,
+                        72
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "/",
+                    "children": [],
+                    "bbox": [
+                        1410,
+                        584,
+                        20,
+                        32
+                    ],
+                    "visible_bbox": [
+                        1410,
+                        584,
+                        20,
+                        32
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "arrowUp",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1456,
+                        564,
+                        72,
+                        72
+                    ],
+                    "visible_bbox": [
+                        1456,
+                        564,
+                        72,
+                        72
+                    ]
+                }
+            ],
+            "bbox": [
+                464,
+                436,
+                1064,
+                200
+            ],
+            "visible_bbox": [
+                464,
+                436,
+                1064,
+                200
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Navigation",
+            "children": [],
+            "bbox": [
+                448,
+                708,
+                124,
+                24
+            ],
+            "visible_bbox": [
+                448,
+                708,
+                124,
+                24
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXImage",
+            "description": "banner-devices",
+            "role_description": "image",
+            "value": null,
+            "children": [],
+            "bbox": [
+                82,
+                870,
+                252,
+                148
+            ],
+            "visible_bbox": [
+                82,
+                870,
+                252,
+                148
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXOpaqueProviderGroup",
+            "description": null,
+            "role_description": "collection",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Open settings",
+                    "children": [],
+                    "bbox": [
+                        464,
+                        798,
+                        138,
+                        20
+                    ],
+                    "visible_bbox": [
+                        464,
+                        798,
+                        138,
+                        20
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "command",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        720,
+                        772,
+                        112,
+                        72
+                    ],
+                    "visible_bbox": [
+                        720,
+                        772,
+                        112,
+                        72
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "&",
+                    "children": [],
+                    "bbox": [
+                        856,
+                        792,
+                        20,
+                        32
+                    ],
+                    "visible_bbox": [
+                        856,
+                        792,
+                        20,
+                        32
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "coma",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        900,
+                        772,
+                        72,
+                        72
+                    ],
+                    "visible_bbox": [
+                        900,
+                        772,
+                        72,
+                        72
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Back to the main screen",
+                    "children": [],
+                    "bbox": [
+                        1020,
+                        782,
+                        120,
+                        52
+                    ],
+                    "visible_bbox": [
+                        1020,
+                        782,
+                        120,
+                        52
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "esc",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1408,
+                        772,
+                        120,
+                        72
+                    ],
+                    "visible_bbox": [
+                        1408,
+                        772,
+                        120,
+                        72
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Search for countries in Location changer",
+                    "children": [],
+                    "bbox": [
+                        464,
+                        906,
+                        172,
+                        84
+                    ],
+                    "visible_bbox": [
+                        464,
+                        906,
+                        172,
+                        84
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "command",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        720,
+                        912,
+                        112,
+                        72
+                    ],
+                    "visible_bbox": [
+                        720,
+                        912,
+                        112,
+                        72
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "&",
+                    "children": [],
+                    "bbox": [
+                        856,
+                        932,
+                        20,
+                        32
+                    ],
+                    "visible_bbox": [
+                        856,
+                        932,
+                        20,
+                        32
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "f",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        900,
+                        912,
+                        72,
+                        72
+                    ],
+                    "visible_bbox": [
+                        900,
+                        912,
+                        72,
+                        72
+                    ]
+                }
+            ],
+            "bbox": [
+                464,
+                772,
+                1064,
+                218
+            ],
+            "visible_bbox": [
+                464,
+                772,
+                1064,
+                218
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Are you sure \nall your devices are protected?",
+            "children": [],
+            "bbox": [
+                114,
+                1044,
+                188,
+                80
+            ],
+            "visible_bbox": [
+                114,
+                1044,
+                188,
+                80
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Close the app",
+            "children": [],
+            "bbox": [
+                448,
+                1068,
+                162,
+                24
+            ],
+            "visible_bbox": [
+                448,
+                1068,
+                162,
+                24
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": "7 of 8 slots remaining",
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                80,
+                1150,
+                256,
+                44
+            ],
+            "visible_bbox": [
+                80,
+                1150,
+                256,
+                44
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXOpaqueProviderGroup",
+            "description": null,
+            "role_description": "collection",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Quit the app",
+                    "children": [],
+                    "bbox": [
+                        464,
+                        1158,
+                        126,
+                        20
+                    ],
+                    "visible_bbox": [
+                        464,
+                        1158,
+                        126,
+                        20
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "command",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        720,
+                        1132,
+                        112,
+                        72
+                    ],
+                    "visible_bbox": [
+                        720,
+                        1132,
+                        112,
+                        72
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "&",
+                    "children": [],
+                    "bbox": [
+                        856,
+                        1152,
+                        20,
+                        32
+                    ],
+                    "visible_bbox": [
+                        856,
+                        1152,
+                        20,
+                        32
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "q",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        900,
+                        1132,
+                        72,
+                        72
+                    ],
+                    "visible_bbox": [
+                        900,
+                        1132,
+                        72,
+                        72
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Hide the app",
+                    "children": [],
+                    "bbox": [
+                        1020,
+                        1158,
+                        128,
+                        20
+                    ],
+                    "visible_bbox": [
+                        1020,
+                        1158,
+                        128,
+                        20
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "command",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1276,
+                        1132,
+                        112,
+                        72
+                    ],
+                    "visible_bbox": [
+                        1276,
+                        1132,
+                        112,
+                        72
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "&",
+                    "children": [],
+                    "bbox": [
+                        1412,
+                        1152,
+                        20,
+                        32
+                    ],
+                    "visible_bbox": [
+                        1412,
+                        1152,
+                        20,
+                        32
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "w",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1456,
+                        1132,
+                        72,
+                        72
+                    ],
+                    "visible_bbox": [
+                        1456,
+                        1132,
+                        72,
+                        72
+                    ]
+                }
+            ],
+            "bbox": [
+                464,
+                1132,
+                1064,
+                72
+            ],
+            "visible_bbox": [
+                464,
+                1132,
+                1064,
+                72
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1600,
+        1280
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1600,
+        1280
+    ]
+}

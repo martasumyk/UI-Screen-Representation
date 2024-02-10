@@ -1,0 +1,926 @@
+{
+    "name": "Main Window",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "standard window",
+    "value": "None",
+    "children": [
+        {
+            "name": "None",
+            "role": "AXSplitGroup",
+            "description": "None",
+            "role_description": "split group",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXSplitter",
+                    "description": "None",
+                    "role_description": "splitter",
+                    "value": "-2.0",
+                    "children": [],
+                    "bbox": [
+                        -4,
+                        76,
+                        4,
+                        1472
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "\uf133  7-Day",
+                    "children": [],
+                    "bbox": [
+                        152,
+                        10,
+                        184,
+                        60
+                    ],
+                    "visible_bbox": [
+                        152,
+                        10,
+                        184,
+                        60
+                    ]
+                },
+                {
+                    "name": "\uf060",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        2044,
+                        14,
+                        58,
+                        44
+                    ],
+                    "visible_bbox": [
+                        2044,
+                        14,
+                        58,
+                        44
+                    ]
+                },
+                {
+                    "name": "\uf061",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        2118,
+                        14,
+                        58,
+                        44
+                    ],
+                    "visible_bbox": [
+                        2118,
+                        14,
+                        58,
+                        44
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXScrollArea",
+                    "description": "None",
+                    "role_description": "scroll area",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "6 Tuesday",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                500,
+                                170,
+                                222,
+                                50
+                            ],
+                            "visible_bbox": [
+                                500,
+                                170,
+                                222,
+                                50
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXTextArea",
+                            "description": "None",
+                            "role_description": "text entry area",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                0,
+                                256,
+                                2200,
+                                128
+                            ],
+                            "visible_bbox": [
+                                0,
+                                256,
+                                2200,
+                                128
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                0,
+                                336,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": [
+                                0,
+                                336,
+                                32,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "\u283f",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                32,
+                                336,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": [
+                                32,
+                                336,
+                                32,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "7 Wednesday",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                500,
+                                404,
+                                284,
+                                50
+                            ],
+                            "visible_bbox": [
+                                500,
+                                404,
+                                284,
+                                50
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXTextArea",
+                            "description": "None",
+                            "role_description": "text entry area",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                0,
+                                490,
+                                2200,
+                                128
+                            ],
+                            "visible_bbox": [
+                                0,
+                                490,
+                                2200,
+                                128
+                            ]
+                        },
+                        {
+                            "name": "\uf067",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                18,
+                                486,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": [
+                                18,
+                                486,
+                                32,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "\u283f",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                50,
+                                486,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": [
+                                50,
+                                486,
+                                32,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "8 Thursday",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                500,
+                                638,
+                                242,
+                                50
+                            ],
+                            "visible_bbox": [
+                                500,
+                                638,
+                                242,
+                                50
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXTextArea",
+                            "description": "None",
+                            "role_description": "text entry area",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                0,
+                                724,
+                                2200,
+                                128
+                            ],
+                            "visible_bbox": [
+                                0,
+                                724,
+                                2200,
+                                128
+                            ]
+                        },
+                        {
+                            "name": "\uf067",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                438,
+                                720,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": [
+                                438,
+                                720,
+                                32,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "\u283f",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                470,
+                                720,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": [
+                                470,
+                                720,
+                                32,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "9 Friday",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                500,
+                                872,
+                                178,
+                                50
+                            ],
+                            "visible_bbox": [
+                                500,
+                                872,
+                                178,
+                                50
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXTextArea",
+                            "description": "None",
+                            "role_description": "text entry area",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                0,
+                                958,
+                                2200,
+                                128
+                            ],
+                            "visible_bbox": [
+                                0,
+                                958,
+                                2200,
+                                128
+                            ]
+                        },
+                        {
+                            "name": "\uf067",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                438,
+                                954,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": [
+                                438,
+                                954,
+                                32,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "\u283f",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                470,
+                                954,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": [
+                                470,
+                                954,
+                                32,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "10 Saturday",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                500,
+                                1106,
+                                254,
+                                50
+                            ],
+                            "visible_bbox": [
+                                500,
+                                1106,
+                                254,
+                                50
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXTextArea",
+                            "description": "None",
+                            "role_description": "text entry area",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                0,
+                                1192,
+                                2200,
+                                128
+                            ],
+                            "visible_bbox": [
+                                0,
+                                1192,
+                                2200,
+                                128
+                            ]
+                        },
+                        {
+                            "name": "\uf067",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                186,
+                                1188,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": [
+                                186,
+                                1188,
+                                32,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "\u283f",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                218,
+                                1188,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": [
+                                218,
+                                1188,
+                                32,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "11 Sunday",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                500,
+                                1340,
+                                218,
+                                50
+                            ],
+                            "visible_bbox": [
+                                500,
+                                1340,
+                                218,
+                                50
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXTextArea",
+                            "description": "None",
+                            "role_description": "text entry area",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                0,
+                                1426,
+                                2200,
+                                128
+                            ],
+                            "visible_bbox": [
+                                0,
+                                1426,
+                                2200,
+                                122
+                            ]
+                        },
+                        {
+                            "name": "\uf067",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                186,
+                                1422,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": [
+                                186,
+                                1422,
+                                32,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "\u283f",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                218,
+                                1422,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": [
+                                218,
+                                1422,
+                                32,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "12 Monday",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                500,
+                                1574,
+                                232,
+                                50
+                            ],
+                            "visible_bbox": null
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXTextArea",
+                            "description": "None",
+                            "role_description": "text entry area",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                0,
+                                1660,
+                                2200,
+                                128
+                            ],
+                            "visible_bbox": null
+                        },
+                        {
+                            "name": "",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                0,
+                                1740,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": null
+                        },
+                        {
+                            "name": "\u283f",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                32,
+                                1740,
+                                32,
+                                48
+                            ],
+                            "visible_bbox": null
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXScrollBar",
+                            "description": "None",
+                            "role_description": "scroll bar",
+                            "value": "0.0",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXValueIndicator",
+                                    "description": "None",
+                                    "role_description": "value indicator",
+                                    "value": "0.0",
+                                    "children": [],
+                                    "bbox": [
+                                        2176,
+                                        82,
+                                        24,
+                                        1188
+                                    ],
+                                    "visible_bbox": [
+                                        2176,
+                                        82,
+                                        24,
+                                        1188
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "None",
+                                    "role_description": "increment arrow button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        2168,
+                                        80,
+                                        0,
+                                        0
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "None",
+                                    "role_description": "decrement arrow button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        2168,
+                                        80,
+                                        0,
+                                        0
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "None",
+                                    "role_description": "increment page button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        2176,
+                                        1270,
+                                        24,
+                                        276
+                                    ],
+                                    "visible_bbox": [
+                                        2176,
+                                        1270,
+                                        24,
+                                        276
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "None",
+                                    "role_description": "decrement page button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        2176,
+                                        80,
+                                        24,
+                                        2
+                                    ],
+                                    "visible_bbox": [
+                                        2176,
+                                        80,
+                                        24,
+                                        2
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                2168,
+                                80,
+                                32,
+                                1468
+                            ],
+                            "visible_bbox": [
+                                2168,
+                                80,
+                                32,
+                                1468
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        0,
+                        80,
+                        2200,
+                        1468
+                    ],
+                    "visible_bbox": [
+                        0,
+                        80,
+                        2200,
+                        1468
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXSplitter",
+                    "description": "None",
+                    "role_description": "splitter",
+                    "value": "1100.0",
+                    "children": [],
+                    "bbox": [
+                        2200,
+                        76,
+                        4,
+                        1472
+                    ],
+                    "visible_bbox": null
+                }
+            ],
+            "bbox": [
+                0,
+                0,
+                2200,
+                1548
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                2200,
+                1548
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXToolbar",
+            "description": "None",
+            "role_description": "toolbar",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                0,
+                0,
+                2200,
+                76
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                2200,
+                76
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "close button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                24,
+                22,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                24,
+                22,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "full screen button",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXGroup",
+                            "description": "None",
+                            "role_description": "group",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                104,
+                                22,
+                                28,
+                                32
+                            ],
+                            "visible_bbox": [
+                                104,
+                                22,
+                                28,
+                                32
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        104,
+                        22,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        104,
+                        22,
+                        28,
+                        32
+                    ]
+                }
+            ],
+            "bbox": [
+                104,
+                22,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                104,
+                22,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "minimize button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                64,
+                22,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                64,
+                22,
+                28,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        2200,
+        1548
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        2200,
+        1548
+    ]
+}

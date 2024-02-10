@@ -1,0 +1,301 @@
+{
+    "name": "Welcome",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "standard window",
+    "value": "None",
+    "children": [
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Accessibility API Access",
+            "children": [],
+            "bbox": [
+                450,
+                86,
+                638,
+                66
+            ],
+            "visible_bbox": [
+                450,
+                86,
+                638,
+                66
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "In order to run Auto-tracking or activity tracking, Timemator needs your permission to use your Mac\u2019s Accessibility system.\u2028Please follow these steps to activate it.",
+            "children": [],
+            "bbox": [
+                166,
+                192,
+                1208,
+                130
+            ],
+            "visible_bbox": [
+                166,
+                192,
+                1208,
+                130
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Click the lock icon to make changes and check the box next to Timemator",
+            "children": [],
+            "bbox": [
+                86,
+                1032,
+                590,
+                130
+            ],
+            "visible_bbox": [
+                86,
+                1032,
+                590,
+                130
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXImage",
+            "description": "welcome screen activation",
+            "role_description": "image",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                672,
+                376,
+                868,
+                836
+            ],
+            "visible_bbox": [
+                672,
+                376,
+                868,
+                836
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "3",
+            "children": [],
+            "bbox": [
+                100,
+                952,
+                38,
+                42
+            ],
+            "visible_bbox": [
+                100,
+                952,
+                38,
+                42
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Click the Privacy tab and\nselect Accessibility from the list",
+            "children": [],
+            "bbox": [
+                86,
+                754,
+                590,
+                130
+            ],
+            "visible_bbox": [
+                86,
+                754,
+                590,
+                130
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "2",
+            "children": [],
+            "bbox": [
+                100,
+                674,
+                38,
+                42
+            ],
+            "visible_bbox": [
+                100,
+                674,
+                38,
+                42
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Open System Preferences and\ngo to Security & Privacy",
+            "children": [],
+            "bbox": [
+                86,
+                480,
+                590,
+                130
+            ],
+            "visible_bbox": [
+                86,
+                480,
+                590,
+                130
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "1",
+            "children": [],
+            "bbox": [
+                104,
+                400,
+                32,
+                42
+            ],
+            "visible_bbox": [
+                104,
+                400,
+                32,
+                42
+            ]
+        },
+        {
+            "name": "Open System Preferences",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                1130,
+                1242,
+                384,
+                64
+            ],
+            "visible_bbox": [
+                1130,
+                1242,
+                384,
+                64
+            ]
+        },
+        {
+            "name": "Back",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                26,
+                1242,
+                128,
+                64
+            ],
+            "visible_bbox": [
+                26,
+                1242,
+                128,
+                64
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "close button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                14,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                14,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "zoom button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                94,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                94,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "minimize button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                54,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                54,
+                12,
+                28,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1540,
+        1332
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1540,
+        1332
+    ]
+}

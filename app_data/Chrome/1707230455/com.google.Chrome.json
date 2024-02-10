@@ -1,0 +1,2201 @@
+{
+    "name": "",
+    "role": "AXGroup",
+    "description": "",
+    "role_description": "group",
+    "value": "",
+    "children": [
+        {
+            "name": "",
+            "role": "AXTabGroup",
+            "description": "",
+            "role_description": "tab group",
+            "value": "",
+            "children": [
+                {
+                    "name": "",
+                    "role": "AXRadioButton",
+                    "description": "What\u2019s new - Memory usage - 141 MB",
+                    "role_description": "tab",
+                    "value": "False",
+                    "children": [
+                        {
+                            "name": "",
+                            "role": "AXButton",
+                            "description": "Close",
+                            "role_description": "button",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                588,
+                                12,
+                                56,
+                                56
+                            ],
+                            "visible_bbox": [
+                                588,
+                                12,
+                                56,
+                                56
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        160,
+                        0,
+                        512,
+                        82
+                    ],
+                    "visible_bbox": [
+                        160,
+                        0,
+                        512,
+                        82
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXRadioButton",
+                    "description": "New Tab - Memory usage - 94.3 MB",
+                    "role_description": "tab",
+                    "value": "True",
+                    "children": [
+                        {
+                            "name": "",
+                            "role": "AXButton",
+                            "description": "Close",
+                            "role_description": "button",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                1064,
+                                12,
+                                56,
+                                56
+                            ],
+                            "visible_bbox": [
+                                1064,
+                                12,
+                                56,
+                                56
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        636,
+                        0,
+                        512,
+                        82
+                    ],
+                    "visible_bbox": [
+                        636,
+                        0,
+                        512,
+                        82
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXButton",
+                    "description": "New Tab",
+                    "role_description": "button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        1136,
+                        0,
+                        56,
+                        82
+                    ],
+                    "visible_bbox": [
+                        1136,
+                        0,
+                        56,
+                        82
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXPopUpButton",
+                    "description": "Search tabs",
+                    "role_description": "pop-up button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        2332,
+                        0,
+                        56,
+                        82
+                    ],
+                    "visible_bbox": [
+                        2332,
+                        0,
+                        56,
+                        82
+                    ]
+                }
+            ],
+            "bbox": [
+                160,
+                0,
+                2240,
+                82
+            ],
+            "visible_bbox": [
+                160,
+                0,
+                2240,
+                82
+            ]
+        },
+        {
+            "name": "",
+            "role": "AXToolbar",
+            "description": "",
+            "role_description": "toolbar",
+            "value": "",
+            "children": [
+                {
+                    "name": "",
+                    "role": "AXButton",
+                    "description": "Back",
+                    "role_description": "button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        10,
+                        92,
+                        68,
+                        68
+                    ],
+                    "visible_bbox": [
+                        10,
+                        92,
+                        68,
+                        68
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXButton",
+                    "description": "Forward",
+                    "role_description": "button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        82,
+                        92,
+                        68,
+                        68
+                    ],
+                    "visible_bbox": [
+                        82,
+                        92,
+                        68,
+                        68
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXButton",
+                    "description": "Reload",
+                    "role_description": "button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        154,
+                        92,
+                        68,
+                        68
+                    ],
+                    "visible_bbox": [
+                        154,
+                        92,
+                        68,
+                        68
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXStaticText",
+                    "description": "",
+                    "role_description": "text",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        14,
+                        80,
+                        0,
+                        32
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "",
+                    "role": "AXGroup",
+                    "description": "",
+                    "role_description": "group",
+                    "value": "",
+                    "children": [
+                        {
+                            "name": "",
+                            "role": "AXStaticText",
+                            "description": "",
+                            "role_description": "text",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                240,
+                                92,
+                                0,
+                                0
+                            ],
+                            "visible_bbox": null
+                        },
+                        {
+                            "name": "",
+                            "role": "AXImage",
+                            "description": "Search icon",
+                            "role_description": "image",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                250,
+                                102,
+                                48,
+                                48
+                            ],
+                            "visible_bbox": [
+                                250,
+                                102,
+                                48,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "role": "AXTextField",
+                            "description": "Address and search bar",
+                            "role_description": "text field",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                314,
+                                102,
+                                1662,
+                                48
+                            ],
+                            "visible_bbox": [
+                                314,
+                                102,
+                                1662,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "role": "AXButton",
+                            "description": "Bookmark this tab",
+                            "role_description": "button",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                1980,
+                                102,
+                                48,
+                                48
+                            ],
+                            "visible_bbox": [
+                                1980,
+                                102,
+                                48,
+                                48
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        240,
+                        92,
+                        1812,
+                        68
+                    ],
+                    "visible_bbox": [
+                        240,
+                        92,
+                        1812,
+                        68
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXStaticText",
+                    "description": "",
+                    "role_description": "text",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        2070,
+                        92,
+                        0,
+                        0
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "",
+                    "role": "AXPopUpButton",
+                    "description": "Extensions",
+                    "role_description": "pop-up button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        2070,
+                        92,
+                        68,
+                        68
+                    ],
+                    "visible_bbox": [
+                        2070,
+                        92,
+                        68,
+                        68
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXStaticText",
+                    "description": "",
+                    "role_description": "text",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        14,
+                        80,
+                        0,
+                        0
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "",
+                    "role": "AXStaticText",
+                    "description": "",
+                    "role_description": "text",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        14,
+                        80,
+                        0,
+                        0
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "",
+                    "role": "AXStaticText",
+                    "description": "",
+                    "role_description": "text",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        14,
+                        80,
+                        0,
+                        0
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "",
+                    "role": "AXStaticText",
+                    "description": "",
+                    "role_description": "text",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        14,
+                        80,
+                        0,
+                        0
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "",
+                    "role": "AXStaticText",
+                    "description": "",
+                    "role_description": "text",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        2192,
+                        92,
+                        0,
+                        0
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "",
+                    "role": "AXButton",
+                    "description": "Side panel",
+                    "role_description": "button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        2178,
+                        92,
+                        68,
+                        68
+                    ],
+                    "visible_bbox": [
+                        2178,
+                        92,
+                        68,
+                        68
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXButton",
+                    "description": "You",
+                    "role_description": "button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        2250,
+                        92,
+                        68,
+                        68
+                    ],
+                    "visible_bbox": [
+                        2250,
+                        92,
+                        68,
+                        68
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXPopUpButton",
+                    "description": "Chrome",
+                    "role_description": "pop-up button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        2322,
+                        92,
+                        68,
+                        68
+                    ],
+                    "visible_bbox": [
+                        2322,
+                        92,
+                        68,
+                        68
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                80,
+                2400,
+                92
+            ],
+            "visible_bbox": [
+                0,
+                80,
+                2400,
+                92
+            ]
+        },
+        {
+            "name": "",
+            "role": "AXToolbar",
+            "description": "Bookmarks",
+            "role_description": "toolbar",
+            "value": "",
+            "children": [
+                {
+                    "name": "",
+                    "role": "AXStaticText",
+                    "description": "",
+                    "role_description": "text",
+                    "value": "Apps",
+                    "children": [],
+                    "bbox": [
+                        0,
+                        172,
+                        0,
+                        0
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "",
+                    "role": "AXStaticText",
+                    "description": "",
+                    "role_description": "text",
+                    "value": "Managed Bookmarks",
+                    "children": [],
+                    "bbox": [
+                        76,
+                        172,
+                        0,
+                        56
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "",
+                    "role": "AXToolbar",
+                    "description": "Saved tab groups",
+                    "role_description": "toolbar",
+                    "value": "",
+                    "children": [
+                        {
+                            "name": "",
+                            "role": "AXStaticText",
+                            "description": "",
+                            "role_description": "text",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                24,
+                                172,
+                                0,
+                                0
+                            ],
+                            "visible_bbox": null
+                        }
+                    ],
+                    "bbox": [
+                        12,
+                        172,
+                        0,
+                        56
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "",
+                    "role": "AXButton",
+                    "description": "Gmail",
+                    "role_description": "bookmark button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        12,
+                        172,
+                        134,
+                        56
+                    ],
+                    "visible_bbox": [
+                        12,
+                        172,
+                        134,
+                        56
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXButton",
+                    "description": "YouTube",
+                    "role_description": "bookmark button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        162,
+                        172,
+                        164,
+                        56
+                    ],
+                    "visible_bbox": [
+                        162,
+                        172,
+                        164,
+                        56
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXButton",
+                    "description": "Maps",
+                    "role_description": "bookmark button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        342,
+                        172,
+                        130,
+                        56
+                    ],
+                    "visible_bbox": [
+                        342,
+                        172,
+                        130,
+                        56
+                    ]
+                },
+                {
+                    "name": "",
+                    "role": "AXStaticText",
+                    "description": "",
+                    "role_description": "text",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        2368,
+                        172,
+                        0,
+                        56
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "",
+                    "role": "AXStaticText",
+                    "description": "",
+                    "role_description": "text",
+                    "value": "All Bookmarks",
+                    "children": [],
+                    "bbox": [
+                        2384,
+                        172,
+                        0,
+                        56
+                    ],
+                    "visible_bbox": null
+                }
+            ],
+            "bbox": [
+                0,
+                172,
+                2400,
+                68
+            ],
+            "visible_bbox": [
+                0,
+                172,
+                2400,
+                68
+            ]
+        },
+        {
+            "name": "New Tab",
+            "role": "AXWebArea",
+            "description": "",
+            "role_description": "HTML content",
+            "value": "",
+            "children": [
+                {
+                    "name": "",
+                    "role": "AXGroup",
+                    "description": "",
+                    "role_description": "group",
+                    "value": "",
+                    "children": [
+                        {
+                            "name": "",
+                            "role": "AXGroup",
+                            "description": "",
+                            "role_description": "group",
+                            "value": "",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "role": "AXGroup",
+                                    "description": "",
+                                    "role_description": "group",
+                                    "value": "",
+                                    "children": [
+                                        {
+                                            "name": "",
+                                            "role": "AXGroup",
+                                            "description": "",
+                                            "role_description": "group",
+                                            "value": "",
+                                            "children": [
+                                                {
+                                                    "name": "",
+                                                    "role": "AXWebArea",
+                                                    "description": "",
+                                                    "role_description": "HTML content",
+                                                    "value": "",
+                                                    "children": [
+                                                        {
+                                                            "name": "",
+                                                            "role": "AXGroup",
+                                                            "description": "",
+                                                            "role_description": "banner",
+                                                            "value": "",
+                                                            "children": [
+                                                                {
+                                                                    "name": "",
+                                                                    "role": "AXGroup",
+                                                                    "description": "",
+                                                                    "role_description": "group",
+                                                                    "value": "",
+                                                                    "children": [],
+                                                                    "bbox": [
+                                                                        0,
+                                                                        242,
+                                                                        2,
+                                                                        1390
+                                                                    ],
+                                                                    "visible_bbox": [
+                                                                        0,
+                                                                        242,
+                                                                        2,
+                                                                        1390
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "",
+                                                                    "role": "AXGroup",
+                                                                    "description": "",
+                                                                    "role_description": "group",
+                                                                    "value": "",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "",
+                                                                            "role": "AXGroup",
+                                                                            "description": "",
+                                                                            "role_description": "group",
+                                                                            "value": "",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "",
+                                                                                    "role": "AXGroup",
+                                                                                    "description": "",
+                                                                                    "role_description": "group",
+                                                                                    "value": "",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "",
+                                                                                            "role": "AXHeading",
+                                                                                            "description": "",
+                                                                                            "role_description": "heading",
+                                                                                            "value": "",
+                                                                                            "children": [],
+                                                                                            "bbox": [
+                                                                                                16,
+                                                                                                260,
+                                                                                                2,
+                                                                                                0
+                                                                                            ],
+                                                                                            "visible_bbox": null
+                                                                                        }
+                                                                                    ],
+                                                                                    "bbox": [
+                                                                                        16,
+                                                                                        260,
+                                                                                        1914,
+                                                                                        94
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        16,
+                                                                                        260,
+                                                                                        1914,
+                                                                                        94
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "bbox": [
+                                                                                16,
+                                                                                258,
+                                                                                1974,
+                                                                                96
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                16,
+                                                                                258,
+                                                                                1974,
+                                                                                96
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "",
+                                                                            "role": "AXGroup",
+                                                                            "description": "",
+                                                                            "role_description": "group",
+                                                                            "value": "",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "",
+                                                                                    "role": "AXGroup",
+                                                                                    "description": "",
+                                                                                    "role_description": "group",
+                                                                                    "value": "",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "",
+                                                                                            "role": "AXLink",
+                                                                                            "description": "Gmail (opens a new tab)",
+                                                                                            "role_description": "link",
+                                                                                            "value": "",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "",
+                                                                                                    "role": "AXStaticText",
+                                                                                                    "description": "",
+                                                                                                    "role_description": "text",
+                                                                                                    "value": "Gmail",
+                                                                                                    "children": [],
+                                                                                                    "bbox": [
+                                                                                                        2078,
+                                                                                                        292,
+                                                                                                        70,
+                                                                                                        30
+                                                                                                    ],
+                                                                                                    "visible_bbox": [
+                                                                                                        2078,
+                                                                                                        292,
+                                                                                                        70,
+                                                                                                        30
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            "bbox": [
+                                                                                                2078,
+                                                                                                282,
+                                                                                                70,
+                                                                                                48
+                                                                                            ],
+                                                                                            "visible_bbox": [
+                                                                                                2078,
+                                                                                                282,
+                                                                                                70,
+                                                                                                48
+                                                                                            ]
+                                                                                        }
+                                                                                    ],
+                                                                                    "bbox": [
+                                                                                        2048,
+                                                                                        282,
+                                                                                        100,
+                                                                                        48
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        2048,
+                                                                                        282,
+                                                                                        100,
+                                                                                        48
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "",
+                                                                                    "role": "AXGroup",
+                                                                                    "description": "",
+                                                                                    "role_description": "group",
+                                                                                    "value": "",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "",
+                                                                                            "role": "AXLink",
+                                                                                            "description": "Search for images (opens a new tab)",
+                                                                                            "role_description": "link",
+                                                                                            "value": "",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "",
+                                                                                                    "role": "AXStaticText",
+                                                                                                    "description": "",
+                                                                                                    "role_description": "text",
+                                                                                                    "value": "Images",
+                                                                                                    "children": [],
+                                                                                                    "bbox": [
+                                                                                                        2176,
+                                                                                                        292,
+                                                                                                        86,
+                                                                                                        30
+                                                                                                    ],
+                                                                                                    "visible_bbox": [
+                                                                                                        2176,
+                                                                                                        292,
+                                                                                                        86,
+                                                                                                        30
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            "bbox": [
+                                                                                                2176,
+                                                                                                282,
+                                                                                                86,
+                                                                                                48
+                                                                                            ],
+                                                                                            "visible_bbox": [
+                                                                                                2176,
+                                                                                                282,
+                                                                                                86,
+                                                                                                48
+                                                                                            ]
+                                                                                        }
+                                                                                    ],
+                                                                                    "bbox": [
+                                                                                        2146,
+                                                                                        282,
+                                                                                        116,
+                                                                                        48
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        2146,
+                                                                                        282,
+                                                                                        116,
+                                                                                        48
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "bbox": [
+                                                                                2048,
+                                                                                282,
+                                                                                244,
+                                                                                48
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                2048,
+                                                                                282,
+                                                                                244,
+                                                                                48
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "",
+                                                                            "role": "AXGroup",
+                                                                            "description": "",
+                                                                            "role_description": "group",
+                                                                            "value": "",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "",
+                                                                                    "role": "AXGroup",
+                                                                                    "description": "",
+                                                                                    "role_description": "group",
+                                                                                    "value": "",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "",
+                                                                                            "role": "AXGroup",
+                                                                                            "description": "",
+                                                                                            "role_description": "group",
+                                                                                            "value": "",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "",
+                                                                                                    "role": "AXButton",
+                                                                                                    "description": "Google apps",
+                                                                                                    "role_description": "button",
+                                                                                                    "value": "",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "",
+                                                                                                            "role": "AXImage",
+                                                                                                            "description": "",
+                                                                                                            "role_description": "image",
+                                                                                                            "value": "",
+                                                                                                            "children": [],
+                                                                                                            "bbox": [
+                                                                                                                2308,
+                                                                                                                282,
+                                                                                                                48,
+                                                                                                                48
+                                                                                                            ],
+                                                                                                            "visible_bbox": [
+                                                                                                                2308,
+                                                                                                                282,
+                                                                                                                48,
+                                                                                                                48
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "bbox": [
+                                                                                                        2292,
+                                                                                                        266,
+                                                                                                        80,
+                                                                                                        80
+                                                                                                    ],
+                                                                                                    "visible_bbox": [
+                                                                                                        2292,
+                                                                                                        266,
+                                                                                                        80,
+                                                                                                        80
+                                                                                                    ]
+                                                                                                }
+                                                                                            ],
+                                                                                            "bbox": [
+                                                                                                2292,
+                                                                                                266,
+                                                                                                80,
+                                                                                                80
+                                                                                            ],
+                                                                                            "visible_bbox": [
+                                                                                                2292,
+                                                                                                266,
+                                                                                                80,
+                                                                                                80
+                                                                                            ]
+                                                                                        }
+                                                                                    ],
+                                                                                    "bbox": [
+                                                                                        2292,
+                                                                                        258,
+                                                                                        84,
+                                                                                        96
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        2292,
+                                                                                        258,
+                                                                                        84,
+                                                                                        96
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "bbox": [
+                                                                                2292,
+                                                                                258,
+                                                                                84,
+                                                                                96
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                2292,
+                                                                                258,
+                                                                                84,
+                                                                                96
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    "bbox": [
+                                                                        0,
+                                                                        242,
+                                                                        2400,
+                                                                        128
+                                                                    ],
+                                                                    "visible_bbox": [
+                                                                        0,
+                                                                        242,
+                                                                        2400,
+                                                                        128
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "bbox": [
+                                                                0,
+                                                                242,
+                                                                2400,
+                                                                128
+                                                            ],
+                                                            "visible_bbox": [
+                                                                0,
+                                                                242,
+                                                                2400,
+                                                                128
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        0,
+                                                        242,
+                                                        2400,
+                                                        1390
+                                                    ],
+                                                    "visible_bbox": [
+                                                        0,
+                                                        242,
+                                                        2400,
+                                                        1390
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                0,
+                                                242,
+                                                2400,
+                                                1390
+                                            ],
+                                            "visible_bbox": [
+                                                0,
+                                                242,
+                                                2400,
+                                                1390
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        0,
+                                        242,
+                                        2400,
+                                        1390
+                                    ],
+                                    "visible_bbox": [
+                                        0,
+                                        242,
+                                        2400,
+                                        1390
+                                    ]
+                                },
+                                {
+                                    "name": "",
+                                    "role": "AXGroup",
+                                    "description": "",
+                                    "role_description": "group",
+                                    "value": "",
+                                    "children": [
+                                        {
+                                            "name": "",
+                                            "role": "AXGroup",
+                                            "description": "",
+                                            "role_description": "group",
+                                            "value": "",
+                                            "children": [
+                                                {
+                                                    "name": "",
+                                                    "role": "AXComboBox",
+                                                    "description": "",
+                                                    "role_description": "combo box",
+                                                    "value": "",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        640,
+                                                        830,
+                                                        1122,
+                                                        88
+                                                    ],
+                                                    "visible_bbox": [
+                                                        640,
+                                                        830,
+                                                        1122,
+                                                        88
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXGroup",
+                                                    "description": "",
+                                                    "role_description": "group",
+                                                    "value": "",
+                                                    "children": [
+                                                        {
+                                                            "name": "",
+                                                            "role": "AXGroup",
+                                                            "description": "",
+                                                            "role_description": "group",
+                                                            "value": "",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                664,
+                                                                842,
+                                                                64,
+                                                                64
+                                                            ],
+                                                            "visible_bbox": [
+                                                                664,
+                                                                842,
+                                                                64,
+                                                                64
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        664,
+                                                        830,
+                                                        64,
+                                                        88
+                                                    ],
+                                                    "visible_bbox": [
+                                                        664,
+                                                        830,
+                                                        64,
+                                                        88
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXButton",
+                                                    "description": "Search by voice",
+                                                    "role_description": "button",
+                                                    "value": "",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        1604,
+                                                        830,
+                                                        52,
+                                                        88
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1604,
+                                                        830,
+                                                        52,
+                                                        88
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXButton",
+                                                    "description": "Search by image",
+                                                    "role_description": "button",
+                                                    "value": "",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        1678,
+                                                        830,
+                                                        52,
+                                                        88
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1678,
+                                                        830,
+                                                        52,
+                                                        88
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                640,
+                                                830,
+                                                1122,
+                                                88
+                                            ],
+                                            "visible_bbox": [
+                                                640,
+                                                830,
+                                                1122,
+                                                88
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        640,
+                                        830,
+                                        1122,
+                                        88
+                                    ],
+                                    "visible_bbox": [
+                                        640,
+                                        830,
+                                        1122,
+                                        88
+                                    ]
+                                },
+                                {
+                                    "name": "",
+                                    "role": "AXGroup",
+                                    "description": "",
+                                    "role_description": "group",
+                                    "value": "",
+                                    "children": [
+                                        {
+                                            "name": "",
+                                            "role": "AXGroup",
+                                            "description": "Playground",
+                                            "role_description": "group",
+                                            "value": "",
+                                            "children": [
+                                                {
+                                                    "name": "",
+                                                    "role": "AXLink",
+                                                    "description": "Playground",
+                                                    "role_description": "link",
+                                                    "value": "",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        864,
+                                                        954,
+                                                        224,
+                                                        224
+                                                    ],
+                                                    "visible_bbox": [
+                                                        864,
+                                                        954,
+                                                        224,
+                                                        224
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXButton",
+                                                    "description": "More actions for Playground shortcut",
+                                                    "role_description": "button",
+                                                    "value": "",
+                                                    "children": [
+                                                        {
+                                                            "name": "",
+                                                            "role": "AXGroup",
+                                                            "description": "",
+                                                            "role_description": "group",
+                                                            "value": "",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                1028,
+                                                                962,
+                                                                56,
+                                                                56
+                                                            ],
+                                                            "visible_bbox": [
+                                                                1028,
+                                                                962,
+                                                                56,
+                                                                56
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "",
+                                                            "role": "AXGroup",
+                                                            "description": "",
+                                                            "role_description": "group",
+                                                            "value": "",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                1028,
+                                                                962,
+                                                                56,
+                                                                56
+                                                            ],
+                                                            "visible_bbox": [
+                                                                1028,
+                                                                962,
+                                                                56,
+                                                                56
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        1028,
+                                                        962,
+                                                        56,
+                                                        56
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1028,
+                                                        962,
+                                                        56,
+                                                        56
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXStaticText",
+                                                    "description": "",
+                                                    "role_description": "text",
+                                                    "value": "Playground",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        908,
+                                                        1116,
+                                                        138,
+                                                        30
+                                                    ],
+                                                    "visible_bbox": [
+                                                        908,
+                                                        1116,
+                                                        138,
+                                                        30
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                864,
+                                                954,
+                                                224,
+                                                224
+                                            ],
+                                            "visible_bbox": [
+                                                864,
+                                                954,
+                                                224,
+                                                224
+                                            ]
+                                        },
+                                        {
+                                            "name": "",
+                                            "role": "AXGroup",
+                                            "description": "Sign In",
+                                            "role_description": "group",
+                                            "value": "",
+                                            "children": [
+                                                {
+                                                    "name": "",
+                                                    "role": "AXLink",
+                                                    "description": "Sign In",
+                                                    "role_description": "link",
+                                                    "value": "",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        1088,
+                                                        954,
+                                                        224,
+                                                        224
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1088,
+                                                        954,
+                                                        224,
+                                                        224
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXButton",
+                                                    "description": "More actions for Sign In shortcut",
+                                                    "role_description": "button",
+                                                    "value": "",
+                                                    "children": [
+                                                        {
+                                                            "name": "",
+                                                            "role": "AXGroup",
+                                                            "description": "",
+                                                            "role_description": "group",
+                                                            "value": "",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                1252,
+                                                                962,
+                                                                56,
+                                                                56
+                                                            ],
+                                                            "visible_bbox": [
+                                                                1252,
+                                                                962,
+                                                                56,
+                                                                56
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "",
+                                                            "role": "AXGroup",
+                                                            "description": "",
+                                                            "role_description": "group",
+                                                            "value": "",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                1252,
+                                                                962,
+                                                                56,
+                                                                56
+                                                            ],
+                                                            "visible_bbox": [
+                                                                1252,
+                                                                962,
+                                                                56,
+                                                                56
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        1252,
+                                                        962,
+                                                        56,
+                                                        56
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1252,
+                                                        962,
+                                                        56,
+                                                        56
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXStaticText",
+                                                    "description": "",
+                                                    "role_description": "text",
+                                                    "value": "Sign In",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        1158,
+                                                        1116,
+                                                        84,
+                                                        30
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1158,
+                                                        1116,
+                                                        84,
+                                                        30
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                1088,
+                                                954,
+                                                224,
+                                                224
+                                            ],
+                                            "visible_bbox": [
+                                                1088,
+                                                954,
+                                                224,
+                                                224
+                                            ]
+                                        },
+                                        {
+                                            "name": "",
+                                            "role": "AXGroup",
+                                            "description": "streamlit_app \u00b7 Streamlit",
+                                            "role_description": "group",
+                                            "value": "",
+                                            "children": [
+                                                {
+                                                    "name": "",
+                                                    "role": "AXLink",
+                                                    "description": "streamlit_app \u00b7 Streamlit",
+                                                    "role_description": "link",
+                                                    "value": "",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        1312,
+                                                        954,
+                                                        224,
+                                                        224
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1312,
+                                                        954,
+                                                        224,
+                                                        224
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXButton",
+                                                    "description": "More actions for streamlit_app \u00b7 Streamlit shortcut",
+                                                    "role_description": "button",
+                                                    "value": "",
+                                                    "children": [
+                                                        {
+                                                            "name": "",
+                                                            "role": "AXGroup",
+                                                            "description": "",
+                                                            "role_description": "group",
+                                                            "value": "",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                1476,
+                                                                962,
+                                                                56,
+                                                                56
+                                                            ],
+                                                            "visible_bbox": [
+                                                                1476,
+                                                                962,
+                                                                56,
+                                                                56
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        1476,
+                                                        962,
+                                                        56,
+                                                        56
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1476,
+                                                        962,
+                                                        56,
+                                                        56
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXStaticText",
+                                                    "description": "",
+                                                    "role_description": "text",
+                                                    "value": "streamlit_app \u00b7 Streamlit",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        1336,
+                                                        1116,
+                                                        172,
+                                                        30
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1336,
+                                                        1116,
+                                                        172,
+                                                        30
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                1312,
+                                                954,
+                                                224,
+                                                224
+                                            ],
+                                            "visible_bbox": [
+                                                1312,
+                                                954,
+                                                224,
+                                                224
+                                            ]
+                                        },
+                                        {
+                                            "name": "",
+                                            "role": "AXGroup",
+                                            "description": "https://portal-doctor.eleks.com/web/paraskevanew/#/anonymous?action=spzIBWebAnonymousResetPassword&id=A5BA17B1-EF2E-47A5-93A0-66E0D025CCA9&idName=code",
+                                            "role_description": "group",
+                                            "value": "",
+                                            "children": [
+                                                {
+                                                    "name": "",
+                                                    "role": "AXLink",
+                                                    "description": "https://portal-doctor.eleks.com/web/paraskevanew/#/anonymous?action=spzIBWebAnonymousResetPassword&id=A5BA17B1-EF2E-47A5-93A0-66E0D025CCA9&idName=code",
+                                                    "role_description": "link",
+                                                    "value": "",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        864,
+                                                        1178,
+                                                        224,
+                                                        224
+                                                    ],
+                                                    "visible_bbox": [
+                                                        864,
+                                                        1178,
+                                                        224,
+                                                        224
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXButton",
+                                                    "description": "More actions for https://portal-doctor.eleks.com/web/paraskevanew/#/anonymous?action=spzIBWebAnonymousResetPassword&id=A5BA17B1-EF2E-47A5-93A0-66E0D025CCA9&idName=code shortcut",
+                                                    "role_description": "button",
+                                                    "value": "",
+                                                    "children": [
+                                                        {
+                                                            "name": "",
+                                                            "role": "AXGroup",
+                                                            "description": "",
+                                                            "role_description": "group",
+                                                            "value": "",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                1028,
+                                                                1186,
+                                                                56,
+                                                                56
+                                                            ],
+                                                            "visible_bbox": [
+                                                                1028,
+                                                                1186,
+                                                                56,
+                                                                56
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        1028,
+                                                        1186,
+                                                        56,
+                                                        56
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1028,
+                                                        1186,
+                                                        56,
+                                                        56
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXStaticText",
+                                                    "description": "",
+                                                    "role_description": "text",
+                                                    "value": "https://portal-doctor.eleks.com/web/paraskevanew/#/anonymous?action=spzIBWebAnonymousResetPassword&id=A5BA17B1-EF2E-47A5-93A0-66E0D025CCA9&idName=code",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        888,
+                                                        1340,
+                                                        172,
+                                                        30
+                                                    ],
+                                                    "visible_bbox": [
+                                                        888,
+                                                        1340,
+                                                        172,
+                                                        30
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                864,
+                                                1178,
+                                                224,
+                                                224
+                                            ],
+                                            "visible_bbox": [
+                                                864,
+                                                1178,
+                                                224,
+                                                224
+                                            ]
+                                        },
+                                        {
+                                            "name": "",
+                                            "role": "AXGroup",
+                                            "description": "StreamYard",
+                                            "role_description": "group",
+                                            "value": "",
+                                            "children": [
+                                                {
+                                                    "name": "",
+                                                    "role": "AXLink",
+                                                    "description": "StreamYard",
+                                                    "role_description": "link",
+                                                    "value": "",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        1088,
+                                                        1178,
+                                                        224,
+                                                        224
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1088,
+                                                        1178,
+                                                        224,
+                                                        224
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXButton",
+                                                    "description": "More actions for StreamYard shortcut",
+                                                    "role_description": "button",
+                                                    "value": "",
+                                                    "children": [
+                                                        {
+                                                            "name": "",
+                                                            "role": "AXGroup",
+                                                            "description": "",
+                                                            "role_description": "group",
+                                                            "value": "",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                1252,
+                                                                1186,
+                                                                56,
+                                                                56
+                                                            ],
+                                                            "visible_bbox": [
+                                                                1252,
+                                                                1186,
+                                                                56,
+                                                                56
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        1252,
+                                                        1186,
+                                                        56,
+                                                        56
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1252,
+                                                        1186,
+                                                        56,
+                                                        56
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXStaticText",
+                                                    "description": "",
+                                                    "role_description": "text",
+                                                    "value": "StreamYard",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        1130,
+                                                        1340,
+                                                        140,
+                                                        30
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1130,
+                                                        1340,
+                                                        140,
+                                                        30
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                1088,
+                                                1178,
+                                                224,
+                                                224
+                                            ],
+                                            "visible_bbox": [
+                                                1088,
+                                                1178,
+                                                224,
+                                                224
+                                            ]
+                                        },
+                                        {
+                                            "name": "",
+                                            "role": "AXButton",
+                                            "description": "Add shortcut",
+                                            "role_description": "button",
+                                            "value": "",
+                                            "children": [
+                                                {
+                                                    "name": "",
+                                                    "role": "AXGroup",
+                                                    "description": "",
+                                                    "role_description": "group",
+                                                    "value": "",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        1312,
+                                                        1178,
+                                                        224,
+                                                        224
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1312,
+                                                        1178,
+                                                        224,
+                                                        224
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXStaticText",
+                                                    "description": "",
+                                                    "role_description": "text",
+                                                    "value": "Add shortcut",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        1346,
+                                                        1340,
+                                                        158,
+                                                        30
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1346,
+                                                        1340,
+                                                        158,
+                                                        30
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXGroup",
+                                                    "description": "",
+                                                    "role_description": "group",
+                                                    "value": "",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        1312,
+                                                        1178,
+                                                        224,
+                                                        224
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1312,
+                                                        1178,
+                                                        224,
+                                                        224
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                1312,
+                                                1178,
+                                                224,
+                                                224
+                                            ],
+                                            "visible_bbox": [
+                                                1312,
+                                                1178,
+                                                224,
+                                                224
+                                            ]
+                                        },
+                                        {
+                                            "name": "",
+                                            "role": "AXGroup",
+                                            "description": "",
+                                            "role_description": "group",
+                                            "value": "",
+                                            "children": [],
+                                            "bbox": [
+                                                1552,
+                                                1406,
+                                                2,
+                                                0
+                                            ],
+                                            "visible_bbox": null
+                                        }
+                                    ],
+                                    "bbox": [
+                                        848,
+                                        950,
+                                        706,
+                                        456
+                                    ],
+                                    "visible_bbox": [
+                                        848,
+                                        950,
+                                        706,
+                                        456
+                                    ]
+                                },
+                                {
+                                    "name": "",
+                                    "role": "AXGroup",
+                                    "description": "",
+                                    "role_description": "group",
+                                    "value": "",
+                                    "children": [
+                                        {
+                                            "name": "Customise Chrome",
+                                            "role": "AXCheckBox",
+                                            "description": "",
+                                            "role_description": "toggle button",
+                                            "value": "",
+                                            "children": [
+                                                {
+                                                    "name": "",
+                                                    "role": "AXGroup",
+                                                    "description": "",
+                                                    "role_description": "group",
+                                                    "value": "",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        2026,
+                                                        1536,
+                                                        342,
+                                                        64
+                                                    ],
+                                                    "visible_bbox": [
+                                                        2026,
+                                                        1536,
+                                                        342,
+                                                        64
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "role": "AXGroup",
+                                                    "description": "",
+                                                    "role_description": "group",
+                                                    "value": "",
+                                                    "children": [
+                                                        {
+                                                            "name": "",
+                                                            "role": "AXStaticText",
+                                                            "description": "",
+                                                            "role_description": "text",
+                                                            "value": "Customise Chrome",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                2106,
+                                                                1554,
+                                                                230,
+                                                                30
+                                                            ],
+                                                            "visible_bbox": [
+                                                                2106,
+                                                                1554,
+                                                                230,
+                                                                30
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        2106,
+                                                        1548,
+                                                        230,
+                                                        40
+                                                    ],
+                                                    "visible_bbox": [
+                                                        2106,
+                                                        1548,
+                                                        230,
+                                                        40
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                2026,
+                                                1536,
+                                                342,
+                                                64
+                                            ],
+                                            "visible_bbox": [
+                                                2026,
+                                                1536,
+                                                342,
+                                                64
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        2026,
+                                        1536,
+                                        342,
+                                        64
+                                    ],
+                                    "visible_bbox": [
+                                        2026,
+                                        1536,
+                                        342,
+                                        64
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                0,
+                                242,
+                                2400,
+                                1390
+                            ],
+                            "visible_bbox": [
+                                0,
+                                242,
+                                2400,
+                                1390
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "role": "AXImage",
+                            "description": "",
+                            "role_description": "image",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                0,
+                                1632,
+                                600,
+                                0
+                            ],
+                            "visible_bbox": null
+                        }
+                    ],
+                    "bbox": [
+                        0,
+                        242,
+                        2400,
+                        1390
+                    ],
+                    "visible_bbox": [
+                        0,
+                        242,
+                        2400,
+                        1390
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                242,
+                2400,
+                1390
+            ],
+            "visible_bbox": [
+                0,
+                242,
+                2400,
+                1390
+            ]
+        },
+        {
+            "name": "",
+            "role": "AXPopUpButton",
+            "description": "Side panel selector",
+            "role_description": "pop-up button",
+            "value": "Bookmarks",
+            "children": [
+                {
+                    "name": "",
+                    "role": "AXButton",
+                    "description": "",
+                    "role_description": "button",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        922,
+                        256,
+                        304,
+                        74
+                    ],
+                    "visible_bbox": [
+                        922,
+                        256,
+                        304,
+                        74
+                    ]
+                }
+            ],
+            "bbox": [
+                922,
+                256,
+                304,
+                74
+            ],
+            "visible_bbox": [
+                922,
+                256,
+                304,
+                74
+            ]
+        },
+        {
+            "name": "",
+            "role": "AXButton",
+            "description": "Close",
+            "role_description": "button",
+            "value": "",
+            "children": [],
+            "bbox": [
+                2310,
+                266,
+                56,
+                56
+            ],
+            "visible_bbox": [
+                2310,
+                266,
+                56,
+                56
+            ]
+        },
+        {
+            "name": "",
+            "role": "AXSplitter",
+            "description": "",
+            "role_description": "splitter",
+            "value": "",
+            "children": [],
+            "bbox": [
+                888,
+                242,
+                34,
+                1390
+            ],
+            "visible_bbox": [
+                888,
+                242,
+                34,
+                1390
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        2400,
+        1632
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        2400,
+        1632
+    ]
+}

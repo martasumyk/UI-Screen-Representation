@@ -1,0 +1,142 @@
+{
+    "name": "Welcome",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXScrollArea",
+            "description": null,
+            "role_description": "scroll area",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Welcome to Diarly",
+                    "children": [],
+                    "bbox": [
+                        310,
+                        156,
+                        498,
+                        82
+                    ],
+                    "visible_bbox": [
+                        310,
+                        156,
+                        498,
+                        82
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Secure, simple & beautiful diary app.",
+                    "children": [],
+                    "bbox": [
+                        180,
+                        254,
+                        760,
+                        58
+                    ],
+                    "visible_bbox": [
+                        180,
+                        254,
+                        760,
+                        58
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "Start Light",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        238,
+                        488,
+                        640,
+                        400
+                    ],
+                    "visible_bbox": [
+                        238,
+                        488,
+                        640,
+                        400
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                156,
+                1120,
+                836
+            ],
+            "visible_bbox": [
+                0,
+                156,
+                1120,
+                836
+            ]
+        },
+        {
+            "name": "Get Started",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                770,
+                1214,
+                284,
+                80
+            ],
+            "visible_bbox": [
+                770,
+                1214,
+                284,
+                80
+            ]
+        },
+        {
+            "name": "Skip",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                66,
+                1214,
+                116,
+                80
+            ],
+            "visible_bbox": [
+                66,
+                1214,
+                116,
+                80
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1120,
+        1360
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1120,
+        1360
+    ]
+}

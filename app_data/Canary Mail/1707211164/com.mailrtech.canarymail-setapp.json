@@ -1,0 +1,241 @@
+{
+    "name": "Window",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Welcome to\nCanary",
+            "children": [],
+            "bbox": [
+                96,
+                144,
+                560,
+                160
+            ],
+            "visible_bbox": [
+                96,
+                144,
+                560,
+                160
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXImage",
+            "description": "icon3",
+            "role_description": "image",
+            "value": null,
+            "children": [],
+            "bbox": [
+                256,
+                434,
+                240,
+                240
+            ],
+            "visible_bbox": [
+                256,
+                434,
+                240,
+                240
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Use the power of AI to craft your emails, surface the important ones, and kill your spam.",
+            "children": [],
+            "bbox": [
+                96,
+                802,
+                560,
+                130
+            ],
+            "visible_bbox": [
+                96,
+                802,
+                560,
+                130
+            ]
+        },
+        {
+            "name": "Continue",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                100,
+                1098,
+                552,
+                100
+            ],
+            "visible_bbox": [
+                100,
+                1098,
+                552,
+                100
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "By continuing you agree to accept our",
+            "children": [],
+            "bbox": [
+                126,
+                1226,
+                498,
+                34
+            ],
+            "visible_bbox": [
+                126,
+                1226,
+                498,
+                34
+            ]
+        },
+        {
+            "name": "terms of service",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                142,
+                1262,
+                218,
+                34
+            ],
+            "visible_bbox": [
+                142,
+                1262,
+                218,
+                34
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "and",
+            "children": [],
+            "bbox": [
+                364,
+                1262,
+                56,
+                34
+            ],
+            "visible_bbox": [
+                364,
+                1262,
+                56,
+                34
+            ]
+        },
+        {
+            "name": "privacy policy",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                424,
+                1262,
+                186,
+                34
+            ],
+            "visible_bbox": [
+                424,
+                1262,
+                186,
+                34
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "close button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                14,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                14,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "zoom button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                94,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                94,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "minimize button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                54,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                54,
+                12,
+                28,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        752,
+        1390
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        752,
+        1390
+    ]
+}

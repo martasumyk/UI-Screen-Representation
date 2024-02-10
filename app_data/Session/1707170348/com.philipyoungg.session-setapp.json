@@ -1,0 +1,2116 @@
+{
+    "name": "Session Pomodoro Focus Timer",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXGroup",
+            "description": null,
+            "role_description": "group",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "",
+                    "children": [],
+                    "bbox": [
+                        836,
+                        -290,
+                        0,
+                        28
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Close",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        844,
+                        -296,
+                        40,
+                        40
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Back",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        584,
+                        72,
+                        56,
+                        56
+                    ],
+                    "visible_bbox": [
+                        584,
+                        72,
+                        56,
+                        56
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "?",
+                    "children": [],
+                    "bbox": [
+                        1032,
+                        72,
+                        14,
+                        30
+                    ],
+                    "visible_bbox": [
+                        1032,
+                        72,
+                        14,
+                        30
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Today",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        648,
+                        72,
+                        400,
+                        56
+                    ],
+                    "visible_bbox": [
+                        648,
+                        72,
+                        400,
+                        56
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Forward",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1056,
+                        72,
+                        56,
+                        56
+                    ],
+                    "visible_bbox": [
+                        1056,
+                        72,
+                        56,
+                        56
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Share",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1496,
+                        72,
+                        56,
+                        56
+                    ],
+                    "visible_bbox": [
+                        1496,
+                        72,
+                        56,
+                        56
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "MON, 22",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -2452,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "TUE, 23",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -2368,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "WED, 24",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -2284,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "THU, 25",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -2200,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "FRI, 26",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -2116,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "SAT, 27",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -2032,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "SUN, 28",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -1948,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "MON, 29",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -948,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "TUE, 30",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -864,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "WED, 31",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -780,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "THU, 01",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -696,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "FRI, 02",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -612,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "SAT, 03",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -528,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "SUN, 04",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        -444,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "MON, 05",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        556,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": [
+                        556,
+                        148,
+                        80,
+                        80
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "TUE, 06",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        640,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": [
+                        640,
+                        148,
+                        80,
+                        80
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "WED, 07",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        724,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": [
+                        724,
+                        148,
+                        80,
+                        80
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "THU, 08",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        808,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": [
+                        808,
+                        148,
+                        80,
+                        80
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "FRI, 09",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        892,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": [
+                        892,
+                        148,
+                        80,
+                        80
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "SAT, 10",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        976,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": [
+                        976,
+                        148,
+                        80,
+                        80
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "SUN, 11",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1060,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": [
+                        1060,
+                        148,
+                        80,
+                        80
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "MON, 12",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        2060,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "TUE, 13",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        2144,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "WED, 14",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        2228,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "THU, 15",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        2312,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "FRI, 16",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        2396,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "SAT, 17",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        2480,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "SUN, 18",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        2564,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "MON, 19",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        3564,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "TUE, 20",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        3648,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "WED, 21",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        3732,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "THU, 22",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        3816,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "FRI, 23",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        3900,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "SAT, 24",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        3984,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "SUN, 25",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        4068,
+                        148,
+                        80,
+                        80
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "00:23",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        0,
+                        200,
+                        94,
+                        96
+                    ],
+                    "visible_bbox": [
+                        0,
+                        200,
+                        94,
+                        96
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "bar-chart-2",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        0,
+                        296,
+                        94,
+                        96
+                    ],
+                    "visible_bbox": [
+                        0,
+                        296,
+                        94,
+                        96
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "check",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1156,
+                        292,
+                        18,
+                        18
+                    ],
+                    "visible_bbox": [
+                        1156,
+                        292,
+                        18,
+                        18
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Show notes only",
+                    "children": [],
+                    "bbox": [
+                        1192,
+                        286,
+                        186,
+                        30
+                    ],
+                    "visible_bbox": [
+                        1192,
+                        286,
+                        186,
+                        30
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Filter",
+                    "children": [],
+                    "bbox": [
+                        1442,
+                        286,
+                        58,
+                        30
+                    ],
+                    "visible_bbox": [
+                        1442,
+                        286,
+                        58,
+                        30
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "Go Down",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1510,
+                        296,
+                        16,
+                        8
+                    ],
+                    "visible_bbox": [
+                        1510,
+                        296,
+                        16,
+                        8
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "user",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        0,
+                        392,
+                        94,
+                        96
+                    ],
+                    "visible_bbox": [
+                        0,
+                        392,
+                        94,
+                        96
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "book-open",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        0,
+                        488,
+                        94,
+                        96
+                    ],
+                    "visible_bbox": [
+                        0,
+                        488,
+                        94,
+                        96
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXBusyIndicator",
+                    "description": null,
+                    "role_description": "busy indicator",
+                    "value": true,
+                    "children": [],
+                    "bbox": [
+                        -2176,
+                        850,
+                        32,
+                        32
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXBusyIndicator",
+                    "description": null,
+                    "role_description": "busy indicator",
+                    "value": true,
+                    "children": [],
+                    "bbox": [
+                        -672,
+                        850,
+                        32,
+                        32
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "settings",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        0,
+                        1224,
+                        94,
+                        96
+                    ],
+                    "visible_bbox": [
+                        0,
+                        1224,
+                        94,
+                        96
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXScrollArea",
+                    "description": null,
+                    "role_description": "scroll area",
+                    "value": null,
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "\u2013",
+                            "children": [],
+                            "bbox": [
+                                244,
+                                390,
+                                14,
+                                30
+                            ],
+                            "visible_bbox": [
+                                244,
+                                390,
+                                14,
+                                30
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "\u2013",
+                            "children": [],
+                            "bbox": [
+                                464,
+                                390,
+                                14,
+                                30
+                            ],
+                            "visible_bbox": [
+                                464,
+                                390,
+                                14,
+                                30
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "0m",
+                            "children": [],
+                            "bbox": [
+                                224,
+                                424,
+                                54,
+                                46
+                            ],
+                            "visible_bbox": [
+                                224,
+                                424,
+                                54,
+                                46
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "0m",
+                            "children": [],
+                            "bbox": [
+                                444,
+                                424,
+                                54,
+                                46
+                            ],
+                            "visible_bbox": [
+                                444,
+                                424,
+                                54,
+                                46
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "-",
+                            "children": [],
+                            "bbox": [
+                                680,
+                                424,
+                                16,
+                                46
+                            ],
+                            "visible_bbox": [
+                                680,
+                                424,
+                                16,
+                                46
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "TOTAL FOCUS",
+                            "children": [],
+                            "bbox": [
+                                186,
+                                470,
+                                132,
+                                22
+                            ],
+                            "visible_bbox": [
+                                186,
+                                470,
+                                132,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "AVG FOCUS/DAY",
+                            "children": [],
+                            "bbox": [
+                                394,
+                                470,
+                                154,
+                                22
+                            ],
+                            "visible_bbox": [
+                                394,
+                                470,
+                                154,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "MOST FOCUSED",
+                            "children": [],
+                            "bbox": [
+                                612,
+                                470,
+                                152,
+                                22
+                            ],
+                            "visible_bbox": [
+                                612,
+                                470,
+                                152,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "\u2013",
+                            "children": [],
+                            "bbox": [
+                                244,
+                                532,
+                                14,
+                                30
+                            ],
+                            "visible_bbox": [
+                                244,
+                                532,
+                                14,
+                                30
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "0m",
+                            "children": [],
+                            "bbox": [
+                                224,
+                                566,
+                                54,
+                                46
+                            ],
+                            "visible_bbox": [
+                                224,
+                                566,
+                                54,
+                                46
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "0.0/1",
+                            "children": [],
+                            "bbox": [
+                                430,
+                                566,
+                                80,
+                                46
+                            ],
+                            "visible_bbox": [
+                                430,
+                                566,
+                                80,
+                                46
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "-",
+                            "children": [],
+                            "bbox": [
+                                680,
+                                566,
+                                16,
+                                46
+                            ],
+                            "visible_bbox": [
+                                680,
+                                566,
+                                16,
+                                46
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "TOTAL BREAK",
+                            "children": [],
+                            "bbox": [
+                                186,
+                                612,
+                                130,
+                                22
+                            ],
+                            "visible_bbox": [
+                                186,
+                                612,
+                                130,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "FOCUS/BREAK",
+                            "children": [],
+                            "bbox": [
+                                402,
+                                612,
+                                136,
+                                22
+                            ],
+                            "visible_bbox": [
+                                402,
+                                612,
+                                136,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "MOST DISTRACTED",
+                            "children": [],
+                            "bbox": [
+                                598,
+                                612,
+                                182,
+                                22
+                            ],
+                            "visible_bbox": [
+                                598,
+                                612,
+                                182,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXImage",
+                            "description": "check",
+                            "role_description": "image",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                196,
+                                754,
+                                18,
+                                18
+                            ],
+                            "visible_bbox": [
+                                196,
+                                754,
+                                18,
+                                18
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "0",
+                            "children": [],
+                            "bbox": [
+                                230,
+                                744,
+                                20,
+                                38
+                            ],
+                            "visible_bbox": [
+                                230,
+                                744,
+                                20,
+                                38
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "\ud83e\udd29",
+                            "children": [],
+                            "bbox": [
+                                262,
+                                738,
+                                52,
+                                50
+                            ],
+                            "visible_bbox": [
+                                262,
+                                738,
+                                52,
+                                50
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXImage",
+                            "description": "check",
+                            "role_description": "image",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                414,
+                                754,
+                                18,
+                                18
+                            ],
+                            "visible_bbox": [
+                                414,
+                                754,
+                                18,
+                                18
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "0",
+                            "children": [],
+                            "bbox": [
+                                448,
+                                744,
+                                20,
+                                38
+                            ],
+                            "visible_bbox": [
+                                448,
+                                744,
+                                20,
+                                38
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "\ud83d\ude42",
+                            "children": [],
+                            "bbox": [
+                                482,
+                                738,
+                                52,
+                                50
+                            ],
+                            "visible_bbox": [
+                                482,
+                                738,
+                                52,
+                                50
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXImage",
+                            "description": "check",
+                            "role_description": "image",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                632,
+                                754,
+                                18,
+                                18
+                            ],
+                            "visible_bbox": [
+                                632,
+                                754,
+                                18,
+                                18
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "0",
+                            "children": [],
+                            "bbox": [
+                                666,
+                                744,
+                                20,
+                                38
+                            ],
+                            "visible_bbox": [
+                                666,
+                                744,
+                                20,
+                                38
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "\ud83d\ude14",
+                            "children": [],
+                            "bbox": [
+                                700,
+                                738,
+                                52,
+                                50
+                            ],
+                            "visible_bbox": [
+                                700,
+                                738,
+                                52,
+                                50
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "Focused \u2191",
+                            "children": [],
+                            "bbox": [
+                                192,
+                                800,
+                                118,
+                                28
+                            ],
+                            "visible_bbox": [
+                                192,
+                                800,
+                                118,
+                                28
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "Neutral \u2192",
+                            "children": [],
+                            "bbox": [
+                                416,
+                                800,
+                                110,
+                                28
+                            ],
+                            "visible_bbox": [
+                                416,
+                                800,
+                                110,
+                                28
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "Distracted \u2193",
+                            "children": [],
+                            "bbox": [
+                                618,
+                                800,
+                                142,
+                                28
+                            ],
+                            "visible_bbox": [
+                                618,
+                                800,
+                                142,
+                                28
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "Category Distribution",
+                            "children": [],
+                            "bbox": [
+                                524,
+                                924,
+                                242,
+                                28
+                            ],
+                            "visible_bbox": [
+                                524,
+                                924,
+                                242,
+                                28
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "CATEGORY",
+                            "children": [],
+                            "bbox": [
+                                144,
+                                1000,
+                                104,
+                                22
+                            ],
+                            "visible_bbox": [
+                                144,
+                                1000,
+                                104,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "RATIO",
+                            "children": [],
+                            "bbox": [
+                                484,
+                                1000,
+                                58,
+                                22
+                            ],
+                            "visible_bbox": [
+                                484,
+                                1000,
+                                58,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "TIME SPENT",
+                            "children": [],
+                            "bbox": [
+                                556,
+                                1000,
+                                114,
+                                22
+                            ],
+                            "visible_bbox": [
+                                556,
+                                1000,
+                                114,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "CHANGE",
+                            "children": [],
+                            "bbox": [
+                                716,
+                                1000,
+                                82,
+                                22
+                            ],
+                            "visible_bbox": [
+                                716,
+                                1000,
+                                82,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXImage",
+                            "description": "check",
+                            "role_description": "image",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                148,
+                                1088,
+                                18,
+                                18
+                            ],
+                            "visible_bbox": [
+                                148,
+                                1088,
+                                18,
+                                18
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "Break",
+                            "children": [],
+                            "bbox": [
+                                184,
+                                1082,
+                                70,
+                                30
+                            ],
+                            "visible_bbox": [
+                                184,
+                                1082,
+                                70,
+                                30
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "\u2013",
+                            "children": [],
+                            "bbox": [
+                                530,
+                                1084,
+                                12,
+                                26
+                            ],
+                            "visible_bbox": [
+                                530,
+                                1084,
+                                12,
+                                26
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "0m",
+                            "children": [],
+                            "bbox": [
+                                646,
+                                1084,
+                                24,
+                                26
+                            ],
+                            "visible_bbox": [
+                                646,
+                                1084,
+                                24,
+                                26
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "\u2013",
+                            "children": [],
+                            "bbox": [
+                                786,
+                                1084,
+                                12,
+                                26
+                            ],
+                            "visible_bbox": [
+                                786,
+                                1084,
+                                12,
+                                26
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "By Intention",
+                            "children": [],
+                            "bbox": [
+                                630,
+                                1284,
+                                136,
+                                28
+                            ],
+                            "visible_bbox": [
+                                630,
+                                1284,
+                                136,
+                                28
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "INTENTION",
+                            "children": [],
+                            "bbox": [
+                                144,
+                                1360,
+                                106,
+                                22
+                            ],
+                            "visible_bbox": [
+                                144,
+                                1360,
+                                106,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "RATIO",
+                            "children": [],
+                            "bbox": [
+                                508,
+                                1360,
+                                58,
+                                22
+                            ],
+                            "visible_bbox": [
+                                508,
+                                1360,
+                                58,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "TIME SPENT",
+                            "children": [],
+                            "bbox": [
+                                588,
+                                1360,
+                                114,
+                                22
+                            ],
+                            "visible_bbox": [
+                                588,
+                                1360,
+                                114,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "SESSION",
+                            "children": [],
+                            "bbox": [
+                                726,
+                                1360,
+                                72,
+                                22
+                            ],
+                            "visible_bbox": [
+                                726,
+                                1360,
+                                72,
+                                22
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "",
+                            "children": [],
+                            "bbox": null,
+                            "visible_bbox": null
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "",
+                            "children": [],
+                            "bbox": null,
+                            "visible_bbox": null
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": null,
+                            "role_description": "text",
+                            "value": "",
+                            "children": [],
+                            "bbox": null,
+                            "visible_bbox": null
+                        },
+                        {
+                            "name": null,
+                            "role": "AXScrollBar",
+                            "description": null,
+                            "role_description": "scroll bar",
+                            "value": 0.0,
+                            "children": [
+                                {
+                                    "name": null,
+                                    "role": "AXValueIndicator",
+                                    "description": null,
+                                    "role_description": "value indicator",
+                                    "value": 0.0,
+                                    "children": [],
+                                    "bbox": [
+                                        822,
+                                        352,
+                                        24,
+                                        922
+                                    ],
+                                    "visible_bbox": [
+                                        822,
+                                        352,
+                                        24,
+                                        922
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXButton",
+                                    "description": null,
+                                    "role_description": "increment arrow button",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        814,
+                                        350,
+                                        0,
+                                        0
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXButton",
+                                    "description": null,
+                                    "role_description": "decrement arrow button",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        814,
+                                        350,
+                                        0,
+                                        0
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXButton",
+                                    "description": null,
+                                    "role_description": "increment page button",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        822,
+                                        1276,
+                                        24,
+                                        108
+                                    ],
+                                    "visible_bbox": [
+                                        822,
+                                        1276,
+                                        24,
+                                        108
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXButton",
+                                    "description": null,
+                                    "role_description": "decrement page button",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        822,
+                                        350,
+                                        24,
+                                        2
+                                    ],
+                                    "visible_bbox": [
+                                        822,
+                                        350,
+                                        24,
+                                        2
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                814,
+                                350,
+                                32,
+                                1034
+                            ],
+                            "visible_bbox": [
+                                814,
+                                350,
+                                32,
+                                1034
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        96,
+                        350,
+                        750,
+                        1034
+                    ],
+                    "visible_bbox": [
+                        96,
+                        350,
+                        750,
+                        1034
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXScrollArea",
+                    "description": null,
+                    "role_description": "scroll area",
+                    "value": null,
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXOpaqueProviderGroup",
+                            "description": null,
+                            "role_description": "list",
+                            "value": null,
+                            "children": [
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": null,
+                                    "role_description": "text",
+                                    "value": "1",
+                                    "children": [],
+                                    "bbox": [
+                                        1276,
+                                        470,
+                                        14,
+                                        32
+                                    ],
+                                    "visible_bbox": [
+                                        1276,
+                                        470,
+                                        14,
+                                        32
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                1276,
+                                470,
+                                14,
+                                32
+                            ],
+                            "visible_bbox": [
+                                1276,
+                                470,
+                                14,
+                                32
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        848,
+                        334,
+                        750,
+                        1066
+                    ],
+                    "visible_bbox": [
+                        848,
+                        334,
+                        750,
+                        1066
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXBusyIndicator",
+                    "description": null,
+                    "role_description": "busy indicator",
+                    "value": true,
+                    "children": [],
+                    "bbox": [
+                        2336,
+                        850,
+                        32,
+                        32
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXBusyIndicator",
+                    "description": null,
+                    "role_description": "busy indicator",
+                    "value": true,
+                    "children": [],
+                    "bbox": [
+                        3840,
+                        850,
+                        32,
+                        32
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "plus",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        1456,
+                        1256,
+                        96,
+                        96
+                    ],
+                    "visible_bbox": [
+                        1456,
+                        1256,
+                        96,
+                        96
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                0,
+                1600,
+                1400
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                1600,
+                1400
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "close button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                14,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                14,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "full screen button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                94,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                94,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "minimize button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                54,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                54,
+                12,
+                28,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1600,
+        1400
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1600,
+        1400
+    ]
+}

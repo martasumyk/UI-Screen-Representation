@@ -1,0 +1,301 @@
+{
+    "name": "Welcome",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "dialog",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Welcome to Time Out",
+            "children": [],
+            "bbox": [
+                320,
+                40,
+                588,
+                76
+            ],
+            "visible_bbox": [
+                320,
+                40,
+                588,
+                76
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Time Out helps you stay or get healthy by taking regular breaks.  It comes with two suggested kinds of breaks.  You can always change them or add more later.",
+            "children": [],
+            "bbox": [
+                40,
+                156,
+                1152,
+                64
+            ],
+            "visible_bbox": [
+                40,
+                156,
+                1152,
+                64
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "\u201cMicro\u201d breaks are very brief and frequent breaks between Normal breaks.  You should sit back, un-tense your muscles, and look around the room to change your eye focus level.",
+            "children": [],
+            "bbox": [
+                40,
+                650,
+                1152,
+                64
+            ],
+            "visible_bbox": [
+                40,
+                650,
+                1152,
+                64
+            ]
+        },
+        {
+            "name": "Include a Normal break",
+            "role": "AXCheckBox",
+            "description": null,
+            "role_description": "checkbox",
+            "value": 1,
+            "children": [],
+            "bbox": [
+                40,
+                384,
+                332,
+                36
+            ],
+            "visible_bbox": [
+                40,
+                384,
+                332,
+                36
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "\u201cNormal\u201d breaks are the main rest opportunities throughout the day.  You should stand up and move around if possible, or at least sit back from your computer; change your eye focus level and relax your muscles.",
+            "children": [],
+            "bbox": [
+                40,
+                260,
+                1152,
+                96
+            ],
+            "visible_bbox": [
+                40,
+                260,
+                1152,
+                96
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "How often do you want the breaks to occur?",
+            "children": [],
+            "bbox": [
+                80,
+                506,
+                542,
+                32
+            ],
+            "visible_bbox": [
+                80,
+                506,
+                542,
+                32
+            ]
+        },
+        {
+            "name": "Include a Micro break",
+            "role": "AXCheckBox",
+            "description": null,
+            "role_description": "checkbox",
+            "value": 1,
+            "children": [],
+            "bbox": [
+                40,
+                742,
+                312,
+                36
+            ],
+            "visible_bbox": [
+                40,
+                742,
+                312,
+                36
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "How long do you want this break to last?",
+            "children": [],
+            "bbox": [
+                80,
+                806,
+                498,
+                32
+            ],
+            "visible_bbox": [
+                80,
+                806,
+                498,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "How often do you want the breaks to occur?",
+            "children": [],
+            "bbox": [
+                80,
+                864,
+                542,
+                32
+            ],
+            "visible_bbox": [
+                80,
+                864,
+                542,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "How long do you want this break to last?",
+            "children": [],
+            "bbox": [
+                80,
+                448,
+                498,
+                32
+            ],
+            "visible_bbox": [
+                80,
+                448,
+                498,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Click Skip to close this setup assistant and set things up manually, or Continue the setup.  (You can always come back to this later if you wish.)",
+            "children": [],
+            "bbox": [
+                40,
+                936,
+                1152,
+                64
+            ],
+            "visible_bbox": [
+                40,
+                936,
+                1152,
+                64
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "(Want less than an hour?  No problem: select the units and use up/down arrows, or type, or click again to show a menu.)",
+            "children": [],
+            "bbox": [
+                80,
+                554,
+                1112,
+                56
+            ],
+            "visible_bbox": [
+                80,
+                554,
+                1112,
+                56
+            ]
+        },
+        {
+            "name": "Skip",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                26,
+                1062,
+                178,
+                64
+            ],
+            "visible_bbox": [
+                26,
+                1062,
+                178,
+                64
+            ]
+        },
+        {
+            "name": "Continue",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                1024,
+                1062,
+                178,
+                64
+            ],
+            "visible_bbox": [
+                1024,
+                1062,
+                178,
+                64
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1228,
+        1152
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1228,
+        1152
+    ]
+}

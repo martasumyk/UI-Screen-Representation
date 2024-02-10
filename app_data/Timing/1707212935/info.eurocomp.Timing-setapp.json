@@ -1,0 +1,161 @@
+{
+    "name": "Onboarding",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Get a complete picture of your time.",
+            "children": [],
+            "bbox": [
+                76,
+                80,
+                976,
+                172
+            ],
+            "visible_bbox": [
+                76,
+                80,
+                976,
+                172
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Categorize your activities:",
+            "children": [],
+            "bbox": [
+                76,
+                300,
+                976,
+                42
+            ],
+            "visible_bbox": [
+                76,
+                300,
+                976,
+                42
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Use drag and drop to assign times to a project.",
+            "children": [],
+            "bbox": [
+                428,
+                480,
+                624,
+                76
+            ],
+            "visible_bbox": [
+                428,
+                480,
+                624,
+                76
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Keep the \u2325 key pressed to have Timing automate these assignments for you.\nThe more you do this, the more time you\u2019ll save in the future.",
+            "children": [],
+            "bbox": [
+                428,
+                682,
+                624,
+                152
+            ],
+            "visible_bbox": [
+                428,
+                682,
+                624,
+                152
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Create new projects by pressing the \u2018+\u2019 button.",
+            "children": [],
+            "bbox": [
+                428,
+                960,
+                624,
+                76
+            ],
+            "visible_bbox": [
+                428,
+                960,
+                624,
+                76
+            ]
+        },
+        {
+            "name": "Back",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                28,
+                1212,
+                124,
+                80
+            ],
+            "visible_bbox": [
+                28,
+                1212,
+                124,
+                80
+            ]
+        },
+        {
+            "name": "Next",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                978,
+                1212,
+                122,
+                80
+            ],
+            "visible_bbox": [
+                978,
+                1212,
+                122,
+                80
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1128,
+        1320
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1128,
+        1320
+    ]
+}

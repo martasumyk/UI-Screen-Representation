@@ -1,0 +1,1014 @@
+{
+    "name": "My Templates",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXGroup",
+            "description": null,
+            "role_description": "group",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXGroup",
+                    "description": null,
+                    "role_description": "group",
+                    "value": null,
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXGroup",
+                            "description": null,
+                            "role_description": "group",
+                            "value": null,
+                            "children": [
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "About",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        2064,
+                                        172,
+                                        346,
+                                        34
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXTextArea",
+                                    "description": null,
+                                    "role_description": "text entry area",
+                                    "value": "Documents added to this folder can be used as templates when creating a new document or page",
+                                    "children": [],
+                                    "bbox": [
+                                        2064,
+                                        230,
+                                        480,
+                                        116
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "Actions",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        2064,
+                                        426,
+                                        496,
+                                        34
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "Import Files",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        2120,
+                                        484,
+                                        424,
+                                        72
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "Export Contents",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        2120,
+                                        556,
+                                        424,
+                                        72
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "Stats",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        2120,
+                                        628,
+                                        424,
+                                        72
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "My Templates",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        636,
+                                        168,
+                                        1074,
+                                        44
+                                    ],
+                                    "visible_bbox": [
+                                        636,
+                                        168,
+                                        1074,
+                                        44
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "New Document",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        724,
+                                        290,
+                                        320,
+                                        32
+                                    ],
+                                    "visible_bbox": [
+                                        724,
+                                        290,
+                                        320,
+                                        32
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "New Folder",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        1186,
+                                        290,
+                                        320,
+                                        32
+                                    ],
+                                    "visible_bbox": [
+                                        1186,
+                                        290,
+                                        320,
+                                        32
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "Templates",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        1650,
+                                        290,
+                                        320,
+                                        32
+                                    ],
+                                    "visible_bbox": [
+                                        1650,
+                                        290,
+                                        320,
+                                        32
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "Start writing on a blank page",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        724,
+                                        322,
+                                        320,
+                                        28
+                                    ],
+                                    "visible_bbox": [
+                                        724,
+                                        322,
+                                        320,
+                                        28
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "Quickly organize your notes",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        1186,
+                                        322,
+                                        320,
+                                        28
+                                    ],
+                                    "visible_bbox": [
+                                        1186,
+                                        322,
+                                        320,
+                                        28
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "Browse & Pick a template",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        1650,
+                                        322,
+                                        320,
+                                        28
+                                    ],
+                                    "visible_bbox": [
+                                        1650,
+                                        322,
+                                        320,
+                                        28
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "Documents added to this folder can be used as templates when creating a new document or page",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        660,
+                                        444,
+                                        1300,
+                                        40
+                                    ],
+                                    "visible_bbox": [
+                                        660,
+                                        444,
+                                        1300,
+                                        40
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXStaticText",
+                                    "description": "This Folder is Empty",
+                                    "role_description": "text",
+                                    "value": null,
+                                    "children": [],
+                                    "bbox": [
+                                        1186,
+                                        796,
+                                        248,
+                                        32
+                                    ],
+                                    "visible_bbox": [
+                                        1186,
+                                        796,
+                                        248,
+                                        32
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                588,
+                                104,
+                                1444,
+                                1416
+                            ],
+                            "visible_bbox": [
+                                588,
+                                104,
+                                1444,
+                                1416
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Yelyzaveta Boiarchuk",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                138,
+                                156,
+                                252,
+                                32
+                            ],
+                            "visible_bbox": [
+                                138,
+                                156,
+                                252,
+                                32
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Yelyzaveta\u2019s Space",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                156,
+                                160,
+                                226,
+                                32
+                            ],
+                            "visible_bbox": [
+                                156,
+                                160,
+                                226,
+                                32
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "boiarchuk@macpaw.com",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                138,
+                                188,
+                                240,
+                                24
+                            ],
+                            "visible_bbox": [
+                                138,
+                                188,
+                                240,
+                                24
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Teams",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                48,
+                                272,
+                                472,
+                                48
+                            ],
+                            "visible_bbox": [
+                                48,
+                                272,
+                                472,
+                                48
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Yelyzaveta\u2019s Team",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                140,
+                                336,
+                                222,
+                                64
+                            ],
+                            "visible_bbox": [
+                                140,
+                                336,
+                                222,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Yelyzaveta\u2019s Space",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                170,
+                                400,
+                                232,
+                                64
+                            ],
+                            "visible_bbox": [
+                                170,
+                                400,
+                                232,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "New Space",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                170,
+                                464,
+                                138,
+                                64
+                            ],
+                            "visible_bbox": [
+                                170,
+                                464,
+                                138,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "New Team",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                104,
+                                528,
+                                128,
+                                64
+                            ],
+                            "visible_bbox": [
+                                104,
+                                528,
+                                128,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Home",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                128,
+                                326,
+                                372,
+                                64
+                            ],
+                            "visible_bbox": [
+                                128,
+                                326,
+                                372,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Starred",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                128,
+                                390,
+                                372,
+                                64
+                            ],
+                            "visible_bbox": [
+                                128,
+                                390,
+                                372,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Unsorted",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                128,
+                                454,
+                                372,
+                                64
+                            ],
+                            "visible_bbox": [
+                                128,
+                                454,
+                                372,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "My Templates",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                128,
+                                518,
+                                372,
+                                64
+                            ],
+                            "visible_bbox": [
+                                128,
+                                518,
+                                372,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Shared Content",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                128,
+                                582,
+                                372,
+                                64
+                            ],
+                            "visible_bbox": [
+                                128,
+                                582,
+                                372,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Folders",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                72,
+                                670,
+                                448,
+                                40
+                            ],
+                            "visible_bbox": [
+                                72,
+                                670,
+                                448,
+                                40
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "English",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                144,
+                                726,
+                                332,
+                                64
+                            ],
+                            "visible_bbox": [
+                                144,
+                                726,
+                                332,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "1",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                492,
+                                726,
+                                18,
+                                64
+                            ],
+                            "visible_bbox": [
+                                492,
+                                726,
+                                18,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "\ud83d\udcda\ufe0f",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                88,
+                                790,
+                                48,
+                                64
+                            ],
+                            "visible_bbox": [
+                                88,
+                                790,
+                                48,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Learning",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                144,
+                                790,
+                                332,
+                                64
+                            ],
+                            "visible_bbox": [
+                                144,
+                                790,
+                                332,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "1",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                492,
+                                790,
+                                18,
+                                64
+                            ],
+                            "visible_bbox": [
+                                492,
+                                790,
+                                18,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "\ud83d\udc40",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                88,
+                                854,
+                                48,
+                                64
+                            ],
+                            "visible_bbox": [
+                                88,
+                                854,
+                                48,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Personal",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                144,
+                                854,
+                                332,
+                                64
+                            ],
+                            "visible_bbox": [
+                                144,
+                                854,
+                                332,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "2",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                492,
+                                854,
+                                18,
+                                64
+                            ],
+                            "visible_bbox": [
+                                492,
+                                854,
+                                18,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "\u270d\ufe0f",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                88,
+                                918,
+                                48,
+                                64
+                            ],
+                            "visible_bbox": [
+                                88,
+                                918,
+                                48,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Projects",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                144,
+                                918,
+                                332,
+                                64
+                            ],
+                            "visible_bbox": [
+                                144,
+                                918,
+                                332,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "1",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                492,
+                                918,
+                                18,
+                                64
+                            ],
+                            "visible_bbox": [
+                                492,
+                                918,
+                                18,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "\ud83d\udc4b",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                88,
+                                982,
+                                48,
+                                64
+                            ],
+                            "visible_bbox": [
+                                88,
+                                982,
+                                48,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "How to use Craft",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                144,
+                                982,
+                                332,
+                                64
+                            ],
+                            "visible_bbox": [
+                                144,
+                                982,
+                                332,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "3",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                492,
+                                982,
+                                18,
+                                64
+                            ],
+                            "visible_bbox": [
+                                492,
+                                982,
+                                18,
+                                64
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXStaticText",
+                            "description": "Recently Deleted",
+                            "role_description": "text",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                128,
+                                1086,
+                                372,
+                                64
+                            ],
+                            "visible_bbox": [
+                                128,
+                                1086,
+                                372,
+                                64
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        0,
+                        0,
+                        2048,
+                        1536
+                    ],
+                    "visible_bbox": [
+                        0,
+                        0,
+                        2048,
+                        1536
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                0,
+                2048,
+                1536
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                2048,
+                1536
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXToolbar",
+            "description": null,
+            "role_description": "toolbar",
+            "value": null,
+            "children": [],
+            "bbox": [
+                0,
+                0,
+                2048,
+                104
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                2048,
+                104
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "close button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                38,
+                36,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                38,
+                36,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "full screen button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                118,
+                36,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                118,
+                36,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "minimise button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                78,
+                36,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                78,
+                36,
+                28,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        2048,
+        1536
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        2048,
+        1536
+    ]
+}

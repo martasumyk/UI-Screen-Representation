@@ -1,0 +1,181 @@
+{
+    "name": "Onboarding",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Set it and forget it.",
+            "children": [],
+            "bbox": [
+                76,
+                80,
+                976,
+                86
+            ],
+            "visible_bbox": [
+                76,
+                80,
+                976,
+                86
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Timing sits in the background, automatically tracking what you do across documents, apps and websites.",
+            "children": [],
+            "bbox": [
+                76,
+                214,
+                976,
+                84
+            ],
+            "visible_bbox": [
+                76,
+                214,
+                976,
+                84
+            ]
+        },
+        {
+            "name": "Automatically start background tracking at login",
+            "role": "AXCheckBox",
+            "description": null,
+            "role_description": "checkbox",
+            "value": 1,
+            "children": [],
+            "bbox": [
+                76,
+                370,
+                972,
+                36
+            ],
+            "visible_bbox": [
+                76,
+                370,
+                972,
+                36
+            ]
+        },
+        {
+            "name": "Automatically ask to record time when a video call ends",
+            "role": "AXCheckBox",
+            "description": null,
+            "role_description": "checkbox",
+            "value": 1,
+            "children": [],
+            "bbox": [
+                76,
+                450,
+                972,
+                36
+            ],
+            "visible_bbox": [
+                76,
+                450,
+                972,
+                36
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Requires your permission to send notifications.",
+            "children": [],
+            "bbox": [
+                116,
+                492,
+                936,
+                32
+            ],
+            "visible_bbox": [
+                116,
+                492,
+                936,
+                32
+            ]
+        },
+        {
+            "name": "Automatically ask what I did whenever I return to my Mac",
+            "role": "AXCheckBox",
+            "description": null,
+            "role_description": "checkbox",
+            "value": 0,
+            "children": [],
+            "bbox": [
+                76,
+                570,
+                972,
+                36
+            ],
+            "visible_bbox": [
+                76,
+                570,
+                972,
+                36
+            ]
+        },
+        {
+            "name": "Back",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                28,
+                1212,
+                124,
+                80
+            ],
+            "visible_bbox": [
+                28,
+                1212,
+                124,
+                80
+            ]
+        },
+        {
+            "name": "Next",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                978,
+                1212,
+                122,
+                80
+            ],
+            "visible_bbox": [
+                978,
+                1212,
+                122,
+                80
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1128,
+        1320
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1128,
+        1320
+    ]
+}

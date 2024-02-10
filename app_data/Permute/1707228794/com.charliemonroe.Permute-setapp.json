@@ -1,0 +1,303 @@
+{
+    "name": "Permute",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "standard window",
+    "value": "None",
+    "children": [
+        {
+            "name": "Drop zone. There are currently no files in the queue.",
+            "role": "AXScrollArea",
+            "description": "None",
+            "role_description": "scroll area",
+            "value": "None",
+            "children": [
+                {
+                    "name": "Drop zone. There are currently no items in the queue.",
+                    "role": "AXScrollArea",
+                    "description": "None",
+                    "role_description": "scroll area",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        0,
+                        0,
+                        1428,
+                        1246
+                    ],
+                    "visible_bbox": [
+                        0,
+                        0,
+                        1428,
+                        1246
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXScrollArea",
+                    "description": "None",
+                    "role_description": "scroll area",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        0,
+                        44,
+                        1428,
+                        1146
+                    ],
+                    "visible_bbox": [
+                        0,
+                        44,
+                        1428,
+                        1146
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXButton",
+                    "description": "Show History",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        1336,
+                        1202,
+                        30,
+                        30
+                    ],
+                    "visible_bbox": [
+                        1336,
+                        1202,
+                        30,
+                        30
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "No Conversions",
+                    "children": [],
+                    "bbox": [
+                        642,
+                        1206,
+                        146,
+                        22
+                    ],
+                    "visible_bbox": [
+                        642,
+                        1206,
+                        146,
+                        22
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXButton",
+                    "description": "Clear Finished Conversions",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        1290,
+                        1202,
+                        30,
+                        30
+                    ],
+                    "visible_bbox": [
+                        1290,
+                        1202,
+                        30,
+                        30
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXButton",
+                    "description": "Contact Support",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        1382,
+                        1202,
+                        30,
+                        30
+                    ],
+                    "visible_bbox": [
+                        1382,
+                        1202,
+                        30,
+                        30
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXButton",
+                    "description": "Open",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        16,
+                        1200,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        16,
+                        1200,
+                        28,
+                        32
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXButton",
+                    "description": "Permute's Workshop",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        58,
+                        1204,
+                        28,
+                        28
+                    ],
+                    "visible_bbox": [
+                        58,
+                        1204,
+                        28,
+                        28
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                0,
+                1428,
+                1246
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                1428,
+                1246
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "close button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                14,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                14,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "full screen button",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        94,
+                        12,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        94,
+                        12,
+                        28,
+                        32
+                    ]
+                }
+            ],
+            "bbox": [
+                94,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                94,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "minimize button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                54,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                54,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Permute",
+            "children": [],
+            "bbox": [
+                654,
+                10,
+                118,
+                32
+            ],
+            "visible_bbox": [
+                654,
+                10,
+                118,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1428,
+        1246
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1428,
+        1246
+    ]
+}

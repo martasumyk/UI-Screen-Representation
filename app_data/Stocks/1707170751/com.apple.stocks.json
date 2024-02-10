@@ -1,0 +1,1190 @@
+{
+    "name": "Business News",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXGroup",
+            "description": null,
+            "role_description": "group",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXGroup",
+                    "description": null,
+                    "role_description": "group",
+                    "value": null,
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXGroup",
+                            "description": null,
+                            "role_description": "group",
+                            "value": null,
+                            "children": [
+                                {
+                                    "name": null,
+                                    "role": "AXGroup",
+                                    "description": null,
+                                    "role_description": "group",
+                                    "value": null,
+                                    "children": [
+                                        {
+                                            "name": null,
+                                            "role": "AXGroup",
+                                            "description": null,
+                                            "role_description": "group",
+                                            "value": null,
+                                            "children": [
+                                                {
+                                                    "name": null,
+                                                    "role": "AXGroup",
+                                                    "description": null,
+                                                    "role_description": "Nav bar",
+                                                    "value": null,
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXTextField",
+                                                            "description": "Search",
+                                                            "role_description": "search text field",
+                                                            "value": "",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                20,
+                                                                118,
+                                                                620,
+                                                                60
+                                                            ],
+                                                            "visible_bbox": [
+                                                                20,
+                                                                118,
+                                                                620,
+                                                                60
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        0,
+                                                        104,
+                                                        660,
+                                                        88
+                                                    ],
+                                                    "visible_bbox": [
+                                                        0,
+                                                        104,
+                                                        660,
+                                                        88
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXGroup",
+                                                    "description": null,
+                                                    "role_description": "group",
+                                                    "value": null,
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXGroup",
+                                                            "description": null,
+                                                            "role_description": "group",
+                                                            "value": null,
+                                                            "children": [
+                                                                {
+                                                                    "name": null,
+                                                                    "role": "AXGroup",
+                                                                    "description": "Stock list",
+                                                                    "role_description": "collection",
+                                                                    "value": null,
+                                                                    "children": [
+                                                                        {
+                                                                            "name": null,
+                                                                            "role": "AXGenericElement",
+                                                                            "description": "Business News\nFrom Yahoo Finance",
+                                                                            "role_description": "",
+                                                                            "value": null,
+                                                                            "children": [],
+                                                                            "bbox": [
+                                                                                20,
+                                                                                218,
+                                                                                620,
+                                                                                120
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                20,
+                                                                                218,
+                                                                                620,
+                                                                                120
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": null,
+                                                                            "role": "AXButton",
+                                                                            "description": "My Symbols",
+                                                                            "role_description": "button",
+                                                                            "value": null,
+                                                                            "children": [],
+                                                                            "bbox": [
+                                                                                32,
+                                                                                370,
+                                                                                240,
+                                                                                62
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                32,
+                                                                                370,
+                                                                                240,
+                                                                                62
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": null,
+                                                                            "role": "AXGroup",
+                                                                            "description": null,
+                                                                            "role_description": "group",
+                                                                            "value": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": null,
+                                                                                    "role": "AXGenericElement",
+                                                                                    "description": "Dow Jones Industrial Average, Dow Jones",
+                                                                                    "role_description": "",
+                                                                                    "value": "38\u00a0380,12, change, down 274,30 points",
+                                                                                    "children": [],
+                                                                                    "bbox": [
+                                                                                        20,
+                                                                                        448,
+                                                                                        620,
+                                                                                        122
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        20,
+                                                                                        448,
+                                                                                        620,
+                                                                                        122
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "bbox": [
+                                                                                20,
+                                                                                448,
+                                                                                620,
+                                                                                122
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                20,
+                                                                                448,
+                                                                                620,
+                                                                                122
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": null,
+                                                                            "role": "AXGroup",
+                                                                            "description": null,
+                                                                            "role_description": "group",
+                                                                            "value": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": null,
+                                                                                    "role": "AXGenericElement",
+                                                                                    "description": "Standard and Poor\u2019s 500, S&P 500",
+                                                                                    "role_description": "",
+                                                                                    "value": "4\u00a0942,81, change, down 15,80 points",
+                                                                                    "children": [],
+                                                                                    "bbox": [
+                                                                                        20,
+                                                                                        570,
+                                                                                        620,
+                                                                                        122
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        20,
+                                                                                        570,
+                                                                                        620,
+                                                                                        122
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "bbox": [
+                                                                                20,
+                                                                                570,
+                                                                                620,
+                                                                                122
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                20,
+                                                                                570,
+                                                                                620,
+                                                                                122
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": null,
+                                                                            "role": "AXGroup",
+                                                                            "description": null,
+                                                                            "role_description": "group",
+                                                                            "value": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": null,
+                                                                                    "role": "AXGenericElement",
+                                                                                    "description": "Apple Inc., AAPL",
+                                                                                    "role_description": "",
+                                                                                    "value": "187,68, change, up 1,83 points",
+                                                                                    "children": [],
+                                                                                    "bbox": [
+                                                                                        20,
+                                                                                        692,
+                                                                                        620,
+                                                                                        122
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        20,
+                                                                                        692,
+                                                                                        620,
+                                                                                        122
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "bbox": [
+                                                                                20,
+                                                                                692,
+                                                                                620,
+                                                                                122
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                20,
+                                                                                692,
+                                                                                620,
+                                                                                122
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": null,
+                                                                            "role": "AXGroup",
+                                                                            "description": null,
+                                                                            "role_description": "group",
+                                                                            "value": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": null,
+                                                                                    "role": "AXGenericElement",
+                                                                                    "description": "The Boeing Company, BA",
+                                                                                    "role_description": "",
+                                                                                    "value": "206,63, change, down 2,75 points",
+                                                                                    "children": [],
+                                                                                    "bbox": [
+                                                                                        20,
+                                                                                        814,
+                                                                                        620,
+                                                                                        122
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        20,
+                                                                                        814,
+                                                                                        620,
+                                                                                        122
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "bbox": [
+                                                                                20,
+                                                                                814,
+                                                                                620,
+                                                                                122
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                20,
+                                                                                814,
+                                                                                620,
+                                                                                122
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": null,
+                                                                            "role": "AXGroup",
+                                                                            "description": null,
+                                                                            "role_description": "group",
+                                                                            "value": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": null,
+                                                                                    "role": "AXGenericElement",
+                                                                                    "description": "Berkshire Hathaway Inc., BRK-B",
+                                                                                    "role_description": "",
+                                                                                    "value": "390,76, change, up 0,01 points",
+                                                                                    "children": [],
+                                                                                    "bbox": [
+                                                                                        20,
+                                                                                        936,
+                                                                                        620,
+                                                                                        122
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        20,
+                                                                                        936,
+                                                                                        620,
+                                                                                        122
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "bbox": [
+                                                                                20,
+                                                                                936,
+                                                                                620,
+                                                                                122
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                20,
+                                                                                936,
+                                                                                620,
+                                                                                122
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": null,
+                                                                            "role": "AXGroup",
+                                                                            "description": null,
+                                                                            "role_description": "group",
+                                                                            "value": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": null,
+                                                                                    "role": "AXGenericElement",
+                                                                                    "description": "The Walt Disney Company, DIS",
+                                                                                    "role_description": "",
+                                                                                    "value": "96,65, change, down 0,48 points",
+                                                                                    "children": [],
+                                                                                    "bbox": [
+                                                                                        20,
+                                                                                        1058,
+                                                                                        620,
+                                                                                        122
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        20,
+                                                                                        1058,
+                                                                                        620,
+                                                                                        122
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "bbox": [
+                                                                                20,
+                                                                                1058,
+                                                                                620,
+                                                                                122
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                20,
+                                                                                1058,
+                                                                                620,
+                                                                                122
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": null,
+                                                                            "role": "AXGroup",
+                                                                            "description": null,
+                                                                            "role_description": "group",
+                                                                            "value": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": null,
+                                                                                    "role": "AXGenericElement",
+                                                                                    "description": "General Electric Company, GE",
+                                                                                    "role_description": "",
+                                                                                    "value": "137,71, change, up 1,17 points",
+                                                                                    "children": [],
+                                                                                    "bbox": [
+                                                                                        20,
+                                                                                        1180,
+                                                                                        620,
+                                                                                        122
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        20,
+                                                                                        1180,
+                                                                                        620,
+                                                                                        122
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "bbox": [
+                                                                                20,
+                                                                                1180,
+                                                                                620,
+                                                                                122
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                20,
+                                                                                1180,
+                                                                                620,
+                                                                                122
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": null,
+                                                                            "role": "AXGroup",
+                                                                            "description": null,
+                                                                            "role_description": "group",
+                                                                            "value": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": null,
+                                                                                    "role": "AXGenericElement",
+                                                                                    "description": "The Home Depot, Inc., HD",
+                                                                                    "role_description": "",
+                                                                                    "value": "355,14, change, down 2,09 points",
+                                                                                    "children": [],
+                                                                                    "bbox": [
+                                                                                        20,
+                                                                                        1302,
+                                                                                        620,
+                                                                                        122
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        20,
+                                                                                        1302,
+                                                                                        620,
+                                                                                        122
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "bbox": [
+                                                                                20,
+                                                                                1302,
+                                                                                620,
+                                                                                122
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                20,
+                                                                                1302,
+                                                                                620,
+                                                                                122
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": null,
+                                                                            "role": "AXGroup",
+                                                                            "description": null,
+                                                                            "role_description": "group",
+                                                                            "value": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": null,
+                                                                                    "role": "AXGenericElement",
+                                                                                    "description": "NIKE, Inc., NKE",
+                                                                                    "role_description": "",
+                                                                                    "value": "99,68, change, down 1,03 points",
+                                                                                    "children": [],
+                                                                                    "bbox": [
+                                                                                        20,
+                                                                                        1424,
+                                                                                        620,
+                                                                                        122
+                                                                                    ],
+                                                                                    "visible_bbox": [
+                                                                                        20,
+                                                                                        1424,
+                                                                                        620,
+                                                                                        112
+                                                                                    ]
+                                                                                }
+                                                                            ],
+                                                                            "bbox": [
+                                                                                20,
+                                                                                1424,
+                                                                                620,
+                                                                                122
+                                                                            ],
+                                                                            "visible_bbox": [
+                                                                                20,
+                                                                                1424,
+                                                                                620,
+                                                                                112
+                                                                            ]
+                                                                        }
+                                                                    ],
+                                                                    "bbox": [
+                                                                        0,
+                                                                        0,
+                                                                        660,
+                                                                        1536
+                                                                    ],
+                                                                    "visible_bbox": [
+                                                                        0,
+                                                                        0,
+                                                                        660,
+                                                                        1536
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "bbox": [
+                                                                0,
+                                                                0,
+                                                                660,
+                                                                1536
+                                                            ],
+                                                            "visible_bbox": [
+                                                                0,
+                                                                0,
+                                                                660,
+                                                                1536
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        0,
+                                                        0,
+                                                        660,
+                                                        1536
+                                                    ],
+                                                    "visible_bbox": [
+                                                        0,
+                                                        0,
+                                                        660,
+                                                        1536
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                660,
+                                                1536
+                                            ],
+                                            "visible_bbox": [
+                                                0,
+                                                0,
+                                                660,
+                                                1536
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        660,
+                                        1536
+                                    ],
+                                    "visible_bbox": [
+                                        0,
+                                        0,
+                                        660,
+                                        1536
+                                    ]
+                                },
+                                {
+                                    "name": null,
+                                    "role": "AXGroup",
+                                    "description": "Toolbar",
+                                    "role_description": "group",
+                                    "value": null,
+                                    "children": [
+                                        {
+                                            "name": null,
+                                            "role": "AXGroup",
+                                            "description": null,
+                                            "role_description": "group",
+                                            "value": null,
+                                            "children": [
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": "Yahoo Finance",
+                                                    "role_description": "button",
+                                                    "value": null,
+                                                    "children": [],
+                                                    "bbox": [
+                                                        0,
+                                                        1460,
+                                                        208,
+                                                        76
+                                                    ],
+                                                    "visible_bbox": [
+                                                        0,
+                                                        1460,
+                                                        208,
+                                                        76
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                0,
+                                                1460,
+                                                628,
+                                                76
+                                            ],
+                                            "visible_bbox": [
+                                                0,
+                                                1460,
+                                                628,
+                                                76
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        0,
+                                        1460,
+                                        660,
+                                        76
+                                    ],
+                                    "visible_bbox": [
+                                        0,
+                                        1460,
+                                        660,
+                                        76
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                0,
+                                0,
+                                660,
+                                1536
+                            ],
+                            "visible_bbox": [
+                                0,
+                                0,
+                                660,
+                                1536
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXSplitter",
+                            "description": null,
+                            "role_description": "splitter",
+                            "value": 32.2265625,
+                            "children": [],
+                            "bbox": [
+                                660,
+                                0,
+                                2,
+                                1536
+                            ],
+                            "visible_bbox": [
+                                660,
+                                0,
+                                2,
+                                1536
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXGroup",
+                            "description": null,
+                            "role_description": "group",
+                            "value": null,
+                            "children": [
+                                {
+                                    "name": null,
+                                    "role": "AXGroup",
+                                    "description": null,
+                                    "role_description": "group",
+                                    "value": null,
+                                    "children": [
+                                        {
+                                            "name": null,
+                                            "role": "AXHeading",
+                                            "description": "Stocks",
+                                            "role_description": "heading",
+                                            "value": null,
+                                            "children": [],
+                                            "bbox": [
+                                                714,
+                                                178,
+                                                236,
+                                                82
+                                            ],
+                                            "visible_bbox": [
+                                                714,
+                                                178,
+                                                236,
+                                                82
+                                            ]
+                                        },
+                                        {
+                                            "name": null,
+                                            "role": "AXStaticText",
+                                            "description": "6 February",
+                                            "role_description": "text",
+                                            "value": null,
+                                            "children": [],
+                                            "bbox": [
+                                                714,
+                                                234,
+                                                366,
+                                                82
+                                            ],
+                                            "visible_bbox": [
+                                                714,
+                                                234,
+                                                366,
+                                                82
+                                            ]
+                                        },
+                                        {
+                                            "name": null,
+                                            "role": "AXGroup",
+                                            "description": "Business News",
+                                            "role_description": "collection",
+                                            "value": null,
+                                            "children": [
+                                                {
+                                                    "name": null,
+                                                    "role": "AXHeading",
+                                                    "description": "Dow Jones Industrial Average\nprice\n38\u00a0380,12, change, down 274,30 points",
+                                                    "role_description": "heading",
+                                                    "value": null,
+                                                    "children": [],
+                                                    "bbox": [
+                                                        674,
+                                                        338,
+                                                        1360,
+                                                        242
+                                                    ],
+                                                    "visible_bbox": [
+                                                        674,
+                                                        338,
+                                                        1360,
+                                                        242
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXGroup",
+                                                    "description": null,
+                                                    "role_description": "group",
+                                                    "value": null,
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXGenericElement",
+                                                            "description": "Reuters, GLOBAL MARKETS-Equities fall, yields jump after data and Powell comments, 5 minutes ago",
+                                                            "role_description": "",
+                                                            "value": "Federal Reserve Chairman Jerome Powell continued to push back against the prospect of near-term rate cuts, in an interview aired on Sunday.  Global markets have been focused on the timing of the first Federal Reserve rate cut, after a strong slate of economic data along with resistance from central bankers led investors to scale back their rate-cut bets.",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                714,
+                                                                608,
+                                                                622,
+                                                                198
+                                                            ],
+                                                            "visible_bbox": [
+                                                                714,
+                                                                608,
+                                                                622,
+                                                                198
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        714,
+                                                        608,
+                                                        622,
+                                                        198
+                                                    ],
+                                                    "visible_bbox": [
+                                                        714,
+                                                        608,
+                                                        622,
+                                                        198
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXGroup",
+                                                    "description": null,
+                                                    "role_description": "group",
+                                                    "value": null,
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXGenericElement",
+                                                            "description": "Yahoo Finance Video, Stocks close in the red, but Nvidia closes at new record, 15 minutes ago",
+                                                            "role_description": "",
+                                                            "value": "Market indices (^DJI, ^IXIC, ^GSPC) close Monday lower, while semiconductor manufacturer Nvidia (NVDA) \u2014 among other stocks \u2014 close at a record high. Yahoo Finance's Jared Blikre examines the sector action and Chinese markets after the closing bell. For more expert insight and the latest market action, click\u00a0here\u00a0to watch this full episode of Yahoo Finance Live. Editor's note: This article was written by Luke Carberry Mogan.",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                1372,
+                                                                608,
+                                                                622,
+                                                                198
+                                                            ],
+                                                            "visible_bbox": [
+                                                                1372,
+                                                                608,
+                                                                622,
+                                                                198
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        1372,
+                                                        608,
+                                                        622,
+                                                        198
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1372,
+                                                        608,
+                                                        622,
+                                                        198
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXGroup",
+                                                    "description": null,
+                                                    "role_description": "group",
+                                                    "value": null,
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXGenericElement",
+                                                            "description": "Investor's Business Daily, Dow Jones Futures: Tesla Dives To New Lows; AI Stock Palantir Soars 13% On Earnings, 21 minutes ago",
+                                                            "role_description": "",
+                                                            "value": "Dow Jones futures: Tesla stock dived to new recent lows Monday, while AI stock Palantir soared on strong earnings results.",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                714,
+                                                                834,
+                                                                622,
+                                                                198
+                                                            ],
+                                                            "visible_bbox": [
+                                                                714,
+                                                                834,
+                                                                622,
+                                                                198
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        714,
+                                                        834,
+                                                        622,
+                                                        198
+                                                    ],
+                                                    "visible_bbox": [
+                                                        714,
+                                                        834,
+                                                        622,
+                                                        198
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXButton",
+                                                    "description": "More Dow Jones Industrial Average news",
+                                                    "role_description": "button",
+                                                    "value": null,
+                                                    "children": [],
+                                                    "bbox": [
+                                                        1762,
+                                                        1098,
+                                                        232,
+                                                        30
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1762,
+                                                        1098,
+                                                        232,
+                                                        30
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXHeading",
+                                                    "description": "Standard and Poor\u2019s 500\nprice\n4\u00a0942,81, change, down 15,80 points",
+                                                    "role_description": "heading",
+                                                    "value": null,
+                                                    "children": [],
+                                                    "bbox": [
+                                                        674,
+                                                        1128,
+                                                        1360,
+                                                        242
+                                                    ],
+                                                    "visible_bbox": [
+                                                        674,
+                                                        1128,
+                                                        1360,
+                                                        242
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXGroup",
+                                                    "description": null,
+                                                    "role_description": "group",
+                                                    "value": null,
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXGenericElement",
+                                                            "description": "Reuters, GLOBAL MARKETS-Equities fall, yields jump after data and Powell comments, 5 minutes ago",
+                                                            "role_description": "",
+                                                            "value": "Federal Reserve Chairman Jerome Powell continued to push back against the prospect of near-term rate cuts, in an interview aired on Sunday.  Global markets have been focused on the timing of the first Federal Reserve rate cut, after a strong slate of economic data along with resistance from central bankers led investors to scale back their rate-cut bets.",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                714,
+                                                                1398,
+                                                                622,
+                                                                198
+                                                            ],
+                                                            "visible_bbox": [
+                                                                714,
+                                                                1398,
+                                                                622,
+                                                                138
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        714,
+                                                        1398,
+                                                        622,
+                                                        198
+                                                    ],
+                                                    "visible_bbox": [
+                                                        714,
+                                                        1398,
+                                                        622,
+                                                        138
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXGroup",
+                                                    "description": null,
+                                                    "role_description": "group",
+                                                    "value": null,
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXGenericElement",
+                                                            "description": "Yahoo Finance Video, Stocks close in the red, but Nvidia closes at new record, 15 minutes ago",
+                                                            "role_description": "",
+                                                            "value": "Market indices (^DJI, ^IXIC, ^GSPC) close Monday lower, while semiconductor manufacturer Nvidia (NVDA) \u2014 among other stocks \u2014 close at a record high. Yahoo Finance's Jared Blikre examines the sector action and Chinese markets after the closing bell. For more expert insight and the latest market action, click\u00a0here\u00a0to watch this full episode of Yahoo Finance Live. Editor's note: This article was written by Luke Carberry Mogan.",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                1372,
+                                                                1398,
+                                                                622,
+                                                                198
+                                                            ],
+                                                            "visible_bbox": [
+                                                                1372,
+                                                                1398,
+                                                                622,
+                                                                138
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        1372,
+                                                        1398,
+                                                        622,
+                                                        198
+                                                    ],
+                                                    "visible_bbox": [
+                                                        1372,
+                                                        1398,
+                                                        622,
+                                                        138
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                674,
+                                                0,
+                                                1360,
+                                                1538
+                                            ],
+                                            "visible_bbox": [
+                                                674,
+                                                0,
+                                                1360,
+                                                1536
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        662,
+                                        0,
+                                        1386,
+                                        1536
+                                    ],
+                                    "visible_bbox": [
+                                        662,
+                                        0,
+                                        1386,
+                                        1536
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                662,
+                                0,
+                                1386,
+                                1536
+                            ],
+                            "visible_bbox": [
+                                662,
+                                0,
+                                1386,
+                                1536
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        0,
+                        0,
+                        2048,
+                        1536
+                    ],
+                    "visible_bbox": [
+                        0,
+                        0,
+                        2048,
+                        1536
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                0,
+                2048,
+                1536
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                2048,
+                1536
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXToolbar",
+            "description": null,
+            "role_description": "toolbar",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXButton",
+                    "description": "Go back",
+                    "role_description": "button",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        678,
+                        0,
+                        72,
+                        104
+                    ],
+                    "visible_bbox": [
+                        678,
+                        0,
+                        72,
+                        104
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                0,
+                2048,
+                104
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                2048,
+                104
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "close button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                38,
+                36,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                38,
+                36,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "full screen button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                118,
+                36,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                118,
+                36,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "minimise button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                78,
+                36,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                78,
+                36,
+                28,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        2048,
+        1536
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        2048,
+        1536
+    ]
+}

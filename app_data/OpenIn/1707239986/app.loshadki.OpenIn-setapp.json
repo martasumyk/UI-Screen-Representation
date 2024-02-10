@@ -1,0 +1,545 @@
+{
+    "name": "OpenIn Settings",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "standard window",
+    "value": "None",
+    "children": [
+        {
+            "name": "None",
+            "role": "AXGroup",
+            "description": "None",
+            "role_description": "group",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXScrollArea",
+                            "description": "None",
+                            "role_description": "scroll area",
+                            "value": "None",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "None",
+                                    "role_description": "text",
+                                    "value": "Backups",
+                                    "children": [],
+                                    "bbox": [
+                                        62,
+                                        204,
+                                        160,
+                                        32
+                                    ],
+                                    "visible_bbox": [
+                                        62,
+                                        204,
+                                        160,
+                                        32
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "Help",
+                                    "role_description": "button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        1500,
+                                        200,
+                                        40,
+                                        40
+                                    ],
+                                    "visible_bbox": [
+                                        1500,
+                                        200,
+                                        40,
+                                        40
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXGroup",
+                                    "description": "None",
+                                    "role_description": "group",
+                                    "value": "None",
+                                    "children": [
+                                        {
+                                            "name": "None",
+                                            "role": "AXScrollArea",
+                                            "description": "None",
+                                            "role_description": "scroll area",
+                                            "value": "None",
+                                            "children": [
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXTable",
+                                                    "description": "None",
+                                                    "role_description": "list",
+                                                    "value": "None",
+                                                    "children": [
+                                                        {
+                                                            "name": "None",
+                                                            "role": "AXColumn",
+                                                            "description": "None",
+                                                            "role_description": "column",
+                                                            "value": "None",
+                                                            "children": [],
+                                                            "bbox": [
+                                                                40,
+                                                                260,
+                                                                1520,
+                                                                0
+                                                            ],
+                                                            "visible_bbox": null
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        40,
+                                                        260,
+                                                        1520,
+                                                        72
+                                                    ],
+                                                    "visible_bbox": [
+                                                        40,
+                                                        260,
+                                                        1520,
+                                                        72
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                40,
+                                                260,
+                                                1520,
+                                                72
+                                            ],
+                                            "visible_bbox": [
+                                                40,
+                                                260,
+                                                1520,
+                                                72
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        34,
+                                        256,
+                                        1532,
+                                        84
+                                    ],
+                                    "visible_bbox": [
+                                        34,
+                                        256,
+                                        1532,
+                                        84
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "None",
+                                    "role_description": "text",
+                                    "value": "OpenIn can create a backup of the configurations and history. You can export backups, move to another Mac, import them and restore. If iCloud is enabled on system, all backups will be synced with your iCloud account.",
+                                    "children": [],
+                                    "bbox": [
+                                        40,
+                                        352,
+                                        1520,
+                                        52
+                                    ],
+                                    "visible_bbox": [
+                                        40,
+                                        352,
+                                        1520,
+                                        52
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "Create",
+                                    "role_description": "button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        1312,
+                                        418,
+                                        80,
+                                        32
+                                    ],
+                                    "visible_bbox": [
+                                        1312,
+                                        418,
+                                        80,
+                                        32
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "Import...",
+                                    "role_description": "button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        1440,
+                                        418,
+                                        102,
+                                        32
+                                    ],
+                                    "visible_bbox": [
+                                        1440,
+                                        418,
+                                        102,
+                                        32
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                0,
+                                160,
+                                1600,
+                                1200
+                            ],
+                            "visible_bbox": [
+                                0,
+                                160,
+                                1600,
+                                1200
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        0,
+                        160,
+                        1600,
+                        1200
+                    ],
+                    "visible_bbox": [
+                        0,
+                        160,
+                        1600,
+                        1200
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                160,
+                1600,
+                1200
+            ],
+            "visible_bbox": [
+                0,
+                160,
+                1600,
+                1200
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXToolbar",
+            "description": "None",
+            "role_description": "toolbar",
+            "value": "None",
+            "children": [
+                {
+                    "name": "General",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        388,
+                        56,
+                        110,
+                        104
+                    ],
+                    "visible_bbox": [
+                        388,
+                        56,
+                        110,
+                        104
+                    ]
+                },
+                {
+                    "name": "Browsers",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        500,
+                        56,
+                        120,
+                        104
+                    ],
+                    "visible_bbox": [
+                        500,
+                        56,
+                        120,
+                        104
+                    ]
+                },
+                {
+                    "name": "Mail apps",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        624,
+                        56,
+                        124,
+                        104
+                    ],
+                    "visible_bbox": [
+                        624,
+                        56,
+                        124,
+                        104
+                    ]
+                },
+                {
+                    "name": "Call apps",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        750,
+                        56,
+                        120,
+                        104
+                    ],
+                    "visible_bbox": [
+                        750,
+                        56,
+                        120,
+                        104
+                    ]
+                },
+                {
+                    "name": "Files",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        874,
+                        56,
+                        110,
+                        104
+                    ],
+                    "visible_bbox": [
+                        874,
+                        56,
+                        110,
+                        104
+                    ]
+                },
+                {
+                    "name": "Backups",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        986,
+                        56,
+                        114,
+                        104
+                    ],
+                    "visible_bbox": [
+                        986,
+                        56,
+                        114,
+                        104
+                    ]
+                },
+                {
+                    "name": "About",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        1102,
+                        56,
+                        110,
+                        104
+                    ],
+                    "visible_bbox": [
+                        1102,
+                        56,
+                        110,
+                        104
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                56,
+                1600,
+                104
+            ],
+            "visible_bbox": [
+                0,
+                56,
+                1600,
+                104
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "close button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                14,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                14,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "zoom button",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXGroup",
+                            "description": "None",
+                            "role_description": "group",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                94,
+                                12,
+                                28,
+                                32
+                            ],
+                            "visible_bbox": [
+                                94,
+                                12,
+                                28,
+                                32
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        94,
+                        12,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        94,
+                        12,
+                        28,
+                        32
+                    ]
+                }
+            ],
+            "bbox": [
+                94,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                94,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "minimize button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                54,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                54,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "OpenIn Settings",
+            "children": [],
+            "bbox": [
+                692,
+                10,
+                218,
+                32
+            ],
+            "visible_bbox": [
+                692,
+                10,
+                218,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1600,
+        1360
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1600,
+        1360
+    ]
+}

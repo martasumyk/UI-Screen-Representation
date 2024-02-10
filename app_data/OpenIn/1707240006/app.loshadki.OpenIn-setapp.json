@@ -1,0 +1,688 @@
+{
+    "name": "OpenIn Settings",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "standard window",
+    "value": "None",
+    "children": [
+        {
+            "name": "None",
+            "role": "AXGroup",
+            "description": "None",
+            "role_description": "group",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXScrollArea",
+                            "description": "None",
+                            "role_description": "scroll area",
+                            "value": "None",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXHeading",
+                                    "description": "About",
+                                    "role_description": "heading",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        60,
+                                        200,
+                                        76,
+                                        32
+                                    ],
+                                    "visible_bbox": [
+                                        60,
+                                        200,
+                                        76,
+                                        32
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXGroup",
+                                    "description": "None",
+                                    "role_description": "group",
+                                    "value": "None",
+                                    "children": [
+                                        {
+                                            "name": "None",
+                                            "role": "AXStaticText",
+                                            "description": "None",
+                                            "role_description": "text",
+                                            "value": "\ud83d\udc4b Hello, I am Denis Gladkikh, author of OpenIn. I built this app to help organize the applications that I use daily, and decided to share it with you.",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                272,
+                                                1414,
+                                                64
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                272,
+                                                1414,
+                                                64
+                                            ]
+                                        },
+                                        {
+                                            "name": "None",
+                                            "role": "AXStaticText",
+                                            "description": "None",
+                                            "role_description": "text",
+                                            "value": "I am an Indie Developer. This application is not built by large IT corporation. It gives some benefits to both of us, when you post a review or send me a support email, it will be me, who will answer.",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                356,
+                                                1480,
+                                                64
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                356,
+                                                1480,
+                                                64
+                                            ]
+                                        },
+                                        {
+                                            "name": "None",
+                                            "role": "AXStaticText",
+                                            "description": "None",
+                                            "role_description": "text",
+                                            "value": "I have built this app, I know how to use it, I can help you to configure it, and help fix the bugs if you find them.",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                440,
+                                                1320,
+                                                32
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                440,
+                                                1320,
+                                                32
+                                            ]
+                                        },
+                                        {
+                                            "name": "None",
+                                            "role": "AXStaticText",
+                                            "description": "None",
+                                            "role_description": "text",
+                                            "value": "If you have a question or what to know more about the application, please check the FAQ section at OpenIn website:",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                492,
+                                                1402,
+                                                32
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                492,
+                                                1402,
+                                                32
+                                            ]
+                                        },
+                                        {
+                                            "name": "None",
+                                            "role": "AXLink",
+                                            "description": "loshadki.app/openin4/",
+                                            "role_description": "link",
+                                            "value": "None",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                544,
+                                                268,
+                                                32
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                544,
+                                                268,
+                                                32
+                                            ]
+                                        },
+                                        {
+                                            "name": "None",
+                                            "role": "AXStaticText",
+                                            "description": "None",
+                                            "role_description": "text",
+                                            "value": "If you cannot find an answer to your question",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                618,
+                                                544,
+                                                32
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                618,
+                                                544,
+                                                32
+                                            ]
+                                        },
+                                        {
+                                            "name": "None",
+                                            "role": "AXStaticText",
+                                            "description": "None",
+                                            "role_description": "text",
+                                            "value": "Start a discussion at",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                670,
+                                                246,
+                                                32
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                670,
+                                                246,
+                                                32
+                                            ]
+                                        },
+                                        {
+                                            "name": "None",
+                                            "role": "AXLink",
+                                            "description": "r/openin",
+                                            "role_description": "link",
+                                            "value": "None",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                722,
+                                                98,
+                                                32
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                722,
+                                                98,
+                                                32
+                                            ]
+                                        },
+                                        {
+                                            "name": "None",
+                                            "role": "AXStaticText",
+                                            "description": "None",
+                                            "role_description": "text",
+                                            "value": "Or send me email:",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                774,
+                                                218,
+                                                32
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                774,
+                                                218,
+                                                32
+                                            ]
+                                        },
+                                        {
+                                            "name": "None",
+                                            "role": "AXLink",
+                                            "description": "support@loshadki.app",
+                                            "role_description": "link",
+                                            "value": "None",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                826,
+                                                272,
+                                                32
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                826,
+                                                272,
+                                                32
+                                            ]
+                                        },
+                                        {
+                                            "name": "None",
+                                            "role": "AXStaticText",
+                                            "description": "None",
+                                            "role_description": "text",
+                                            "value": "Do you have an idea or a suggestion how to improve the application? Send me email.",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                878,
+                                                1022,
+                                                32
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                878,
+                                                1022,
+                                                32
+                                            ]
+                                        },
+                                        {
+                                            "name": "None",
+                                            "role": "AXStaticText",
+                                            "description": "None",
+                                            "role_description": "text",
+                                            "value": "Do you want to stay in touch with me, learn first when the new version of OpenIn will be out, or participate in Beta? Subscribe to our newsletter. I send only handcrafted emails, and will never give your email to anybody else.",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                952,
+                                                1390,
+                                                64
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                952,
+                                                1390,
+                                                64
+                                            ]
+                                        },
+                                        {
+                                            "name": "None",
+                                            "role": "AXLink",
+                                            "description": "Subscribe to newsletter",
+                                            "role_description": "link",
+                                            "value": "None",
+                                            "children": [],
+                                            "bbox": [
+                                                60,
+                                                1036,
+                                                288,
+                                                32
+                                            ],
+                                            "visible_bbox": [
+                                                60,
+                                                1036,
+                                                288,
+                                                32
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        34,
+                                        248,
+                                        1532,
+                                        848
+                                    ],
+                                    "visible_bbox": [
+                                        34,
+                                        248,
+                                        1532,
+                                        848
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "Export logs...",
+                                    "role_description": "button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        1326,
+                                        1146,
+                                        188,
+                                        30
+                                    ],
+                                    "visible_bbox": [
+                                        1326,
+                                        1146,
+                                        188,
+                                        30
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                0,
+                                160,
+                                1600,
+                                1200
+                            ],
+                            "visible_bbox": [
+                                0,
+                                160,
+                                1600,
+                                1200
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        0,
+                        160,
+                        1600,
+                        1200
+                    ],
+                    "visible_bbox": [
+                        0,
+                        160,
+                        1600,
+                        1200
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                160,
+                1600,
+                1200
+            ],
+            "visible_bbox": [
+                0,
+                160,
+                1600,
+                1200
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXToolbar",
+            "description": "None",
+            "role_description": "toolbar",
+            "value": "None",
+            "children": [
+                {
+                    "name": "General",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        388,
+                        56,
+                        110,
+                        104
+                    ],
+                    "visible_bbox": [
+                        388,
+                        56,
+                        110,
+                        104
+                    ]
+                },
+                {
+                    "name": "Browsers",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        500,
+                        56,
+                        120,
+                        104
+                    ],
+                    "visible_bbox": [
+                        500,
+                        56,
+                        120,
+                        104
+                    ]
+                },
+                {
+                    "name": "Mail apps",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        624,
+                        56,
+                        124,
+                        104
+                    ],
+                    "visible_bbox": [
+                        624,
+                        56,
+                        124,
+                        104
+                    ]
+                },
+                {
+                    "name": "Call apps",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        750,
+                        56,
+                        120,
+                        104
+                    ],
+                    "visible_bbox": [
+                        750,
+                        56,
+                        120,
+                        104
+                    ]
+                },
+                {
+                    "name": "Files",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        874,
+                        56,
+                        110,
+                        104
+                    ],
+                    "visible_bbox": [
+                        874,
+                        56,
+                        110,
+                        104
+                    ]
+                },
+                {
+                    "name": "Backups",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        986,
+                        56,
+                        114,
+                        104
+                    ],
+                    "visible_bbox": [
+                        986,
+                        56,
+                        114,
+                        104
+                    ]
+                },
+                {
+                    "name": "About",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        1102,
+                        56,
+                        110,
+                        104
+                    ],
+                    "visible_bbox": [
+                        1102,
+                        56,
+                        110,
+                        104
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                56,
+                1600,
+                104
+            ],
+            "visible_bbox": [
+                0,
+                56,
+                1600,
+                104
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "close button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                14,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                14,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "zoom button",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXGroup",
+                            "description": "None",
+                            "role_description": "group",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                94,
+                                12,
+                                28,
+                                32
+                            ],
+                            "visible_bbox": [
+                                94,
+                                12,
+                                28,
+                                32
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        94,
+                        12,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        94,
+                        12,
+                        28,
+                        32
+                    ]
+                }
+            ],
+            "bbox": [
+                94,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                94,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "minimize button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                54,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                54,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "OpenIn Settings",
+            "children": [],
+            "bbox": [
+                692,
+                10,
+                218,
+                32
+            ],
+            "visible_bbox": [
+                692,
+                10,
+                218,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1600,
+        1360
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1600,
+        1360
+    ]
+}

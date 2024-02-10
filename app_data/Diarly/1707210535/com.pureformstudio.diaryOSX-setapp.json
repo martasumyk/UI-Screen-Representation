@@ -1,0 +1,122 @@
+{
+    "name": "Welcome",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXScrollArea",
+            "description": null,
+            "role_description": "scroll area",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "You\u2019ve successfully set up Diarly  \u2728",
+                    "children": [],
+                    "bbox": [
+                        66,
+                        180,
+                        698,
+                        60
+                    ],
+                    "visible_bbox": [
+                        66,
+                        180,
+                        698,
+                        60
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Jump straight in and start journaling, or keep exploring available options.",
+                    "children": [],
+                    "bbox": [
+                        66,
+                        276,
+                        952,
+                        84
+                    ],
+                    "visible_bbox": [
+                        66,
+                        276,
+                        952,
+                        84
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXImage",
+                    "description": "End Light",
+                    "role_description": "image",
+                    "value": null,
+                    "children": [],
+                    "bbox": [
+                        246,
+                        466,
+                        624,
+                        500
+                    ],
+                    "visible_bbox": [
+                        246,
+                        466,
+                        624,
+                        500
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                180,
+                1120,
+                786
+            ],
+            "visible_bbox": [
+                0,
+                180,
+                1120,
+                786
+            ]
+        },
+        {
+            "name": "Done",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                866,
+                1214,
+                188,
+                80
+            ],
+            "visible_bbox": [
+                866,
+                1214,
+                188,
+                80
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1120,
+        1360
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1120,
+        1360
+    ]
+}

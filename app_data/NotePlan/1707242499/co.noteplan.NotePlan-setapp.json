@@ -1,0 +1,706 @@
+{
+    "name": "Main Window",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "standard window",
+    "value": "None",
+    "children": [
+        {
+            "name": "None",
+            "role": "AXSplitGroup",
+            "description": "None",
+            "role_description": "split group",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXSplitter",
+                    "description": "None",
+                    "role_description": "splitter",
+                    "value": "-2.0",
+                    "children": [],
+                    "bbox": [
+                        -4,
+                        76,
+                        4,
+                        1472
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "None",
+                    "role": "AXScrollArea",
+                    "description": "None",
+                    "role_description": "scroll area",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXTextArea",
+                            "description": "None",
+                            "role_description": "text entry area",
+                            "value": "# \ud83d\ude4c Welcome to NotePlan\nThanks for using NotePlan, I appreciate your support! Below I have summed up the most important points you need to know about NotePlan to get you started efficiently.\n\nLet's get right into it...\n\n**How does NotePlan work?** NotePlan is organized around notes \u2013 one note per day, plus any number of undated notes that you can set up in parallel.\nJot down notes, [[link]] them with each-other using backlinks, and write additional to-dos as they occur to you.\nAt the end of the day or first thing tomorrow review the note and prioritize for the next day. And to stay on track with your projects, schedule tasks from your project notes (like this one) into your daily notes by linking them to a date (use >YYYY-MM-DD).\n\nNotePlan has **Two kinds of notes**:\n- daily notes,\n- and project notes\nPlan big things in your project notes and create folders as needed. Then link tasks from your project notes into your daily notes using `>YYYY-MM-DD`:\n\n* This is a scheduled task >2020-11-24\n\n**Linking** works by writing the note title between double square brackets: [[Note Title]]. Once you start typing you will get an auto-complete box to help you out (on iOS you can tap on the note icon in the toolbar above the keyboard). Try it by clicking on the link ('Note Title') above, it will create the note for you automatically.\n\n**Tasks are first-class citizens** in NotePlan. You can create them on Mac by clicking on the `+` left of an empty paragraph and on iOS by tapping on the task icon in the toolbar - or by typing an asterisk - space - and then the task name at the beginning of a paragraph: `* my task`.\nNotePlan looks actively for tasks and lets you search and filter them under 'Review' in the sidebar. You can search for all `open` tasks for example.\nIf you know what *Markdown* is, you can open the preferences, and change the way NotePlan detects tasks (under 'Markdown').\n\n**Plain text Markdown files** are used to save your notes locally on your Mac, iPhone, or iPad. This means:\n- Your data is yours - it's not locked up behind an opaque database, but always accessible on your devices.\n- Your notes are 100% future-proof, you can use any other text editor to open them instead or in a combination with NotePlan.\n- Your notes are private, only you can see them.\nOn your Mac, you can find out where your notes are saved using 'Note' \u2192 'Show In Finder' (\u21e7\u2318S) in the menubar. On iPhone and iPad open the app \"Files\" and navigate to \"On My iPhone/iPad\" \u2192 \"NotePlan\".\n\n**CloudKit or iCloud Drive** is used to sync your notes across Mac, iPhone, and iPad. CloudKit is a private and secure database by Apple (only you have access to it). You need to have iCloud and iCloud Drive enabled to use it. Turn off syncing in your preferences if you don't need or don't want to sync.\n\n**iCloud Calendar & Reminders** are tightly integrated with NotePlan. On Mac, you have the calendar sidebar (closable) on the right which you can not only use to switch the day in your daily notes (double-click a day to open 'daily notes', if you are inside a project note), but below the monthly calendar you can also see a timeline for the selected day. Your events and timed reminders will appear there. On iOS you can see your events & reminders at the top of your daily notes.\nYou can also create and edit events & reminders (on iOS pull down and on Mac click into the timeline).\n\n**Use the Command Bar (\u2318J)** to quickly search for notes by title, open a daily note, or create a task:\n- To search for a note, start typing the title, like \"Welco...\".\n- To open a daily note, type the date in any format you like or something like \"tomorrow\", \"next week\", \"this friday\".\n- To create a task, type what you want to do, and then a day: \"Buy milk tomorrow\".\nTry it now, hit \u2318J to start on Mac and on iOS tap on the search icon bottom right of any note or in the sidebar. There is also a global shortcut: \u2303\u2318J on Mac.\n\n**Use Markdown to format** your notes. On Mac you can either click on the `+` button left of an empty paragraph to select an option or just type it in Markdown. On iOS choose from the toolbar above your keyboard. You already saw how a task is made (`* task`).  Here is more:\n- A bullet point is similar, but uses a dash by default: `- bullet point`.\n- Create a quote using the greater than sign: `> quote`.\n- Headings to structure your notes using `# Your Heading`. You can use up to 3 levels: `### Third Level`.\n- **Bold** and *italic*\n- And `inline code` using backticks.\n\n**Use tagging and mentions** to find things easier later on. You can use `#` to tag #things and `@` to tag people, like @Tim. You find all your tags left in your sidebar. Keep everything organized using nested tagging by adding slashes: #main/sub or @client/acme/dan.\n\nWe are done for now. You can archive this note for future reference if you like (on Mac right-click the note in the sidebar \u2192 'Archive', on iOS swipe it left in the sidebar).\n\nIf you need help, you can reach me through 'Help' \u2192 'Write us' in the menubar (in the preferences on iOS).\n\n\ufffc\n**Thanks** for supporting me on this journey. I'm enjoying every step of this path - making the productivity world a little better every day!\n\nBest,\u2028Eduard (founder and creator of NotePlan)\n",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXImage",
+                                    "description": "None",
+                                    "role_description": "attached image",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        510,
+                                        5240,
+                                        1180,
+                                        44
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": "link",
+                                    "role": "AXLink",
+                                    "description": "None",
+                                    "role_description": "hyperlink",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        736,
+                                        672,
+                                        46,
+                                        44
+                                    ],
+                                    "visible_bbox": [
+                                        736,
+                                        672,
+                                        46,
+                                        44
+                                    ]
+                                },
+                                {
+                                    "name": ">2020-11-24",
+                                    "role": "AXLink",
+                                    "description": "None",
+                                    "role_description": "hyperlink",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        892,
+                                        1348,
+                                        180,
+                                        44
+                                    ],
+                                    "visible_bbox": [
+                                        892,
+                                        1348,
+                                        180,
+                                        44
+                                    ]
+                                },
+                                {
+                                    "name": "Note Title",
+                                    "role": "AXLink",
+                                    "description": "None",
+                                    "role_description": "hyperlink",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        1498,
+                                        1472,
+                                        132,
+                                        44
+                                    ],
+                                    "visible_bbox": [
+                                        1498,
+                                        1472,
+                                        132,
+                                        44
+                                    ]
+                                },
+                                {
+                                    "name": "#things",
+                                    "role": "AXLink",
+                                    "description": "None",
+                                    "role_description": "hyperlink",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        510,
+                                        4686,
+                                        102,
+                                        44
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": "@Tim",
+                                    "role": "AXLink",
+                                    "description": "None",
+                                    "role_description": "hyperlink",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        966,
+                                        4686,
+                                        76,
+                                        44
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": "#main/sub",
+                                    "role": "AXLink",
+                                    "description": "None",
+                                    "role_description": "hyperlink",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        1444,
+                                        4732,
+                                        142,
+                                        44
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": "@client/acme/dan",
+                                    "role": "AXLink",
+                                    "description": "None",
+                                    "role_description": "hyperlink",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        510,
+                                        4776,
+                                        244,
+                                        44
+                                    ],
+                                    "visible_bbox": null
+                                }
+                            ],
+                            "bbox": [
+                                0,
+                                0,
+                                2200,
+                                6316
+                            ],
+                            "visible_bbox": [
+                                0,
+                                0,
+                                2200,
+                                1548
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXScrollBar",
+                            "description": "None",
+                            "role_description": "scroll bar",
+                            "value": "0.0",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXValueIndicator",
+                                    "description": "None",
+                                    "role_description": "value indicator",
+                                    "value": "0.0",
+                                    "children": [],
+                                    "bbox": [
+                                        2176,
+                                        74,
+                                        24,
+                                        360
+                                    ],
+                                    "visible_bbox": [
+                                        2176,
+                                        74,
+                                        24,
+                                        360
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "None",
+                                    "role_description": "increment arrow button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        2168,
+                                        72,
+                                        0,
+                                        0
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "None",
+                                    "role_description": "decrement arrow button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        2168,
+                                        72,
+                                        0,
+                                        0
+                                    ],
+                                    "visible_bbox": null
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "None",
+                                    "role_description": "increment page button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        2176,
+                                        434,
+                                        24,
+                                        1112
+                                    ],
+                                    "visible_bbox": [
+                                        2176,
+                                        434,
+                                        24,
+                                        1112
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "None",
+                                    "role_description": "decrement page button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        2176,
+                                        72,
+                                        24,
+                                        2
+                                    ],
+                                    "visible_bbox": [
+                                        2176,
+                                        72,
+                                        24,
+                                        2
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                2168,
+                                72,
+                                32,
+                                1476
+                            ],
+                            "visible_bbox": [
+                                2168,
+                                72,
+                                32,
+                                1476
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        0,
+                        0,
+                        2200,
+                        1548
+                    ],
+                    "visible_bbox": [
+                        0,
+                        0,
+                        2200,
+                        1548
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXScrollArea",
+                    "description": "None",
+                    "role_description": "scroll area",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXOutline",
+                            "description": "None",
+                            "role_description": "outline",
+                            "value": "None",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXColumn",
+                                    "description": "None",
+                                    "role_description": "column",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        514,
+                                        100,
+                                        1180,
+                                        40
+                                    ],
+                                    "visible_bbox": [
+                                        514,
+                                        100,
+                                        1180,
+                                        40
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                494,
+                                100,
+                                1220,
+                                40
+                            ],
+                            "visible_bbox": [
+                                494,
+                                100,
+                                1220,
+                                40
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        494,
+                        100,
+                        1220,
+                        0
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": " \uf105  0 REFERENCES",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        490,
+                        110,
+                        224,
+                        0
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "None",
+                    "role": "AXScrollArea",
+                    "description": "None",
+                    "role_description": "scroll area",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXOutline",
+                            "description": "None",
+                            "role_description": "outline",
+                            "value": "None",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXColumn",
+                                    "description": "None",
+                                    "role_description": "column",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        514,
+                                        100,
+                                        1180,
+                                        40
+                                    ],
+                                    "visible_bbox": [
+                                        514,
+                                        100,
+                                        1180,
+                                        40
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                494,
+                                100,
+                                1220,
+                                40
+                            ],
+                            "visible_bbox": [
+                                494,
+                                100,
+                                1220,
+                                40
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        494,
+                        100,
+                        1220,
+                        0
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": " \uf105  0 REFERENCES",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        490,
+                        110,
+                        224,
+                        0
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": " \uf07b\t Demo Project",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        148,
+                        12,
+                        336,
+                        52
+                    ],
+                    "visible_bbox": [
+                        148,
+                        12,
+                        336,
+                        52
+                    ]
+                },
+                {
+                    "name": "\ue09c",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        1952,
+                        14,
+                        64,
+                        44
+                    ],
+                    "visible_bbox": [
+                        1952,
+                        14,
+                        64,
+                        44
+                    ]
+                },
+                {
+                    "name": "\uf031",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        2032,
+                        14,
+                        64,
+                        44
+                    ],
+                    "visible_bbox": [
+                        2032,
+                        14,
+                        64,
+                        44
+                    ]
+                },
+                {
+                    "name": "\uf141",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        2112,
+                        14,
+                        64,
+                        44
+                    ],
+                    "visible_bbox": [
+                        2112,
+                        14,
+                        64,
+                        44
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXSplitter",
+                    "description": "None",
+                    "role_description": "splitter",
+                    "value": "1100.0",
+                    "children": [],
+                    "bbox": [
+                        2200,
+                        76,
+                        4,
+                        1472
+                    ],
+                    "visible_bbox": null
+                }
+            ],
+            "bbox": [
+                0,
+                0,
+                2200,
+                1548
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                2200,
+                1548
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXToolbar",
+            "description": "None",
+            "role_description": "toolbar",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                0,
+                0,
+                2200,
+                76
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                2200,
+                76
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "close button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                24,
+                22,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                24,
+                22,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "full screen button",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXGroup",
+                            "description": "None",
+                            "role_description": "group",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                104,
+                                22,
+                                28,
+                                32
+                            ],
+                            "visible_bbox": [
+                                104,
+                                22,
+                                28,
+                                32
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        104,
+                        22,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        104,
+                        22,
+                        28,
+                        32
+                    ]
+                }
+            ],
+            "bbox": [
+                104,
+                22,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                104,
+                22,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "minimize button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                64,
+                22,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                64,
+                22,
+                28,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        2200,
+        1548
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        2200,
+        1548
+    ]
+}

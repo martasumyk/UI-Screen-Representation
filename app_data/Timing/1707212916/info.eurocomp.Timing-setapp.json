@@ -1,0 +1,121 @@
+{
+    "name": "Onboarding",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXImage",
+            "description": "AppIcon without shadow",
+            "role_description": "image",
+            "value": null,
+            "children": [],
+            "bbox": [
+                80,
+                80,
+                192,
+                192
+            ],
+            "visible_bbox": [
+                80,
+                80,
+                192,
+                192
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Welcome to Timing.",
+            "children": [],
+            "bbox": [
+                76,
+                320,
+                976,
+                86
+            ],
+            "visible_bbox": [
+                76,
+                320,
+                976,
+                86
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "The intelligent automatic time tracking app.",
+            "children": [],
+            "bbox": [
+                76,
+                454,
+                976,
+                42
+            ],
+            "visible_bbox": [
+                76,
+                454,
+                976,
+                42
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Timing is very powerful. Even the basics we are about to teach you should already help you get a more detailed picture of your time than with any other time tracking tool.\n\nWe are all about saving you time, so we'll keep this short.",
+            "children": [],
+            "bbox": [
+                76,
+                576,
+                976,
+                190
+            ],
+            "visible_bbox": [
+                76,
+                576,
+                976,
+                190
+            ]
+        },
+        {
+            "name": "Next",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                978,
+                1212,
+                122,
+                80
+            ],
+            "visible_bbox": [
+                978,
+                1212,
+                122,
+                80
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1128,
+        1320
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1128,
+        1320
+    ]
+}

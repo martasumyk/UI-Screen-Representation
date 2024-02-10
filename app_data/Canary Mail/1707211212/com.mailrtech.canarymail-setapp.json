@@ -1,0 +1,769 @@
+{
+    "name": "Window",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Welcome to\nCanary",
+            "children": [],
+            "bbox": [
+                96,
+                144,
+                560,
+                160
+            ],
+            "visible_bbox": [
+                96,
+                144,
+                560,
+                160
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXImage",
+            "description": "icon3",
+            "role_description": "image",
+            "value": null,
+            "children": [],
+            "bbox": [
+                256,
+                434,
+                240,
+                240
+            ],
+            "visible_bbox": [
+                256,
+                434,
+                240,
+                240
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Use the power of AI to craft your emails, surface the important ones, and kill your spam.",
+            "children": [],
+            "bbox": [
+                96,
+                802,
+                560,
+                130
+            ],
+            "visible_bbox": [
+                96,
+                802,
+                560,
+                130
+            ]
+        },
+        {
+            "name": "Continue",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                100,
+                1098,
+                552,
+                100
+            ],
+            "visible_bbox": [
+                100,
+                1098,
+                552,
+                100
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "By continuing you agree to accept our",
+            "children": [],
+            "bbox": [
+                126,
+                1226,
+                498,
+                34
+            ],
+            "visible_bbox": [
+                126,
+                1226,
+                498,
+                34
+            ]
+        },
+        {
+            "name": "terms of service",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                142,
+                1262,
+                218,
+                34
+            ],
+            "visible_bbox": [
+                142,
+                1262,
+                218,
+                34
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "and",
+            "children": [],
+            "bbox": [
+                364,
+                1262,
+                56,
+                34
+            ],
+            "visible_bbox": [
+                364,
+                1262,
+                56,
+                34
+            ]
+        },
+        {
+            "name": "privacy policy",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                424,
+                1262,
+                186,
+                34
+            ],
+            "visible_bbox": [
+                424,
+                1262,
+                186,
+                34
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Let AI Write\nYour Emails",
+            "children": [],
+            "bbox": [
+                96,
+                144,
+                560,
+                160
+            ],
+            "visible_bbox": [
+                96,
+                144,
+                560,
+                160
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Let Canary magically write or reply to emails on your behalf.",
+            "children": [],
+            "bbox": [
+                96,
+                348,
+                560,
+                76
+            ],
+            "visible_bbox": [
+                96,
+                348,
+                560,
+                76
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXStaticText",
+            "description": null,
+            "role_description": "text",
+            "value": "Select an option to try it now:",
+            "children": [],
+            "bbox": [
+                96,
+                452,
+                560,
+                38
+            ],
+            "visible_bbox": [
+                96,
+                452,
+                560,
+                38
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXScrollArea",
+            "description": null,
+            "role_description": "scroll area",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXTable",
+                    "description": null,
+                    "role_description": "table",
+                    "value": null,
+                    "children": [
+                        {
+                            "name": null,
+                            "role": "AXRow",
+                            "description": null,
+                            "role_description": "table row",
+                            "value": null,
+                            "children": [
+                                {
+                                    "name": null,
+                                    "role": "AXCell",
+                                    "description": null,
+                                    "role_description": "cell",
+                                    "value": null,
+                                    "children": [
+                                        {
+                                            "name": null,
+                                            "role": "AXScrollArea",
+                                            "description": null,
+                                            "role_description": "scroll area",
+                                            "value": null,
+                                            "children": [
+                                                {
+                                                    "name": null,
+                                                    "role": "AXTextArea",
+                                                    "description": null,
+                                                    "role_description": "text entry area",
+                                                    "value": "Dear Boss,\n\nI'm leaving! Yes, you read it right\u2014I'm quitting! But don't worry, it's not because of your office karaoke skills or those questionable dance moves at the holiday party. I've simply discovered my untapped potential as a stand-up comedian. Time to turn my humor into a career!\n\nGoodbye, cubicle. Hello, spotlight!\nThanks for everything and keep laughing,\n\nBest regards,\nCanary",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        132,
+                                                        580,
+                                                        486,
+                                                        646
+                                                    ],
+                                                    "visible_bbox": [
+                                                        132,
+                                                        580,
+                                                        486,
+                                                        646
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXScrollBar",
+                                                    "description": null,
+                                                    "role_description": "scroll bar",
+                                                    "value": 0.0,
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXValueIndicator",
+                                                            "description": null,
+                                                            "role_description": "value indicator",
+                                                            "value": 0.0,
+                                                            "children": [],
+                                                            "bbox": [
+                                                                594,
+                                                                582,
+                                                                24,
+                                                                262
+                                                            ],
+                                                            "visible_bbox": [
+                                                                594,
+                                                                582,
+                                                                24,
+                                                                262
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXButton",
+                                                            "description": null,
+                                                            "role_description": "increment arrow button",
+                                                            "value": null,
+                                                            "children": [],
+                                                            "bbox": [
+                                                                586,
+                                                                580,
+                                                                0,
+                                                                0
+                                                            ],
+                                                            "visible_bbox": null
+                                                        },
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXButton",
+                                                            "description": null,
+                                                            "role_description": "decrement arrow button",
+                                                            "value": null,
+                                                            "children": [],
+                                                            "bbox": [
+                                                                586,
+                                                                580,
+                                                                0,
+                                                                0
+                                                            ],
+                                                            "visible_bbox": null
+                                                        },
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXButton",
+                                                            "description": null,
+                                                            "role_description": "increment page button",
+                                                            "value": null,
+                                                            "children": [],
+                                                            "bbox": [
+                                                                594,
+                                                                844,
+                                                                24,
+                                                                148
+                                                            ],
+                                                            "visible_bbox": [
+                                                                594,
+                                                                844,
+                                                                24,
+                                                                148
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXButton",
+                                                            "description": null,
+                                                            "role_description": "decrement page button",
+                                                            "value": null,
+                                                            "children": [],
+                                                            "bbox": [
+                                                                594,
+                                                                580,
+                                                                24,
+                                                                2
+                                                            ],
+                                                            "visible_bbox": [
+                                                                594,
+                                                                580,
+                                                                24,
+                                                                2
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        586,
+                                                        580,
+                                                        32,
+                                                        414
+                                                    ],
+                                                    "visible_bbox": [
+                                                        586,
+                                                        580,
+                                                        32,
+                                                        414
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                132,
+                                                580,
+                                                486,
+                                                414
+                                            ],
+                                            "visible_bbox": [
+                                                132,
+                                                580,
+                                                486,
+                                                414
+                                            ]
+                                        },
+                                        {
+                                            "name": null,
+                                            "role": "AXScrollArea",
+                                            "description": null,
+                                            "role_description": "scroll area",
+                                            "value": null,
+                                            "children": [
+                                                {
+                                                    "name": null,
+                                                    "role": "AXTextArea",
+                                                    "description": null,
+                                                    "role_description": "text entry area",
+                                                    "value": "Dear Boss,\n\nI'm leaving! Yes, you read it right\u2014I'm quitting! But don't worry, it's not because of your office karaoke skills or those questionable dance moves at the holiday party. I've simply discovered my untapped potential as a stand-up comedian. Time to turn my humor into a career!\n\nGoodbye, cubicle. Hello, spotlight!\nThanks for everything and keep laughing,\n\nBest regards,\nCanary",
+                                                    "children": [],
+                                                    "bbox": [
+                                                        132,
+                                                        580,
+                                                        486,
+                                                        612
+                                                    ],
+                                                    "visible_bbox": [
+                                                        132,
+                                                        580,
+                                                        486,
+                                                        612
+                                                    ]
+                                                },
+                                                {
+                                                    "name": null,
+                                                    "role": "AXScrollBar",
+                                                    "description": null,
+                                                    "role_description": "scroll bar",
+                                                    "value": 0.0,
+                                                    "children": [
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXValueIndicator",
+                                                            "description": null,
+                                                            "role_description": "value indicator",
+                                                            "value": 0.0,
+                                                            "children": [],
+                                                            "bbox": [
+                                                                594,
+                                                                582,
+                                                                24,
+                                                                276
+                                                            ],
+                                                            "visible_bbox": [
+                                                                594,
+                                                                582,
+                                                                24,
+                                                                276
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXButton",
+                                                            "description": null,
+                                                            "role_description": "increment arrow button",
+                                                            "value": null,
+                                                            "children": [],
+                                                            "bbox": [
+                                                                586,
+                                                                580,
+                                                                0,
+                                                                0
+                                                            ],
+                                                            "visible_bbox": null
+                                                        },
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXButton",
+                                                            "description": null,
+                                                            "role_description": "decrement arrow button",
+                                                            "value": null,
+                                                            "children": [],
+                                                            "bbox": [
+                                                                586,
+                                                                580,
+                                                                0,
+                                                                0
+                                                            ],
+                                                            "visible_bbox": null
+                                                        },
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXButton",
+                                                            "description": null,
+                                                            "role_description": "increment page button",
+                                                            "value": null,
+                                                            "children": [],
+                                                            "bbox": [
+                                                                594,
+                                                                860,
+                                                                24,
+                                                                134
+                                                            ],
+                                                            "visible_bbox": [
+                                                                594,
+                                                                860,
+                                                                24,
+                                                                134
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": null,
+                                                            "role": "AXButton",
+                                                            "description": null,
+                                                            "role_description": "decrement page button",
+                                                            "value": null,
+                                                            "children": [],
+                                                            "bbox": [
+                                                                594,
+                                                                580,
+                                                                24,
+                                                                2
+                                                            ],
+                                                            "visible_bbox": [
+                                                                594,
+                                                                580,
+                                                                24,
+                                                                2
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        586,
+                                                        580,
+                                                        32,
+                                                        414
+                                                    ],
+                                                    "visible_bbox": [
+                                                        586,
+                                                        580,
+                                                        32,
+                                                        414
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                132,
+                                                580,
+                                                486,
+                                                414
+                                            ],
+                                            "visible_bbox": [
+                                                132,
+                                                580,
+                                                486,
+                                                414
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        100,
+                                        530,
+                                        550,
+                                        520
+                                    ],
+                                    "visible_bbox": [
+                                        100,
+                                        530,
+                                        550,
+                                        520
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                84,
+                                530,
+                                584,
+                                520
+                            ],
+                            "visible_bbox": [
+                                84,
+                                530,
+                                584,
+                                520
+                            ]
+                        },
+                        {
+                            "name": null,
+                            "role": "AXColumn",
+                            "description": null,
+                            "role_description": "column",
+                            "value": null,
+                            "children": [],
+                            "bbox": [
+                                84,
+                                530,
+                                584,
+                                528
+                            ],
+                            "visible_bbox": [
+                                84,
+                                530,
+                                584,
+                                528
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        84,
+                        530,
+                        584,
+                        528
+                    ],
+                    "visible_bbox": [
+                        84,
+                        530,
+                        584,
+                        528
+                    ]
+                }
+            ],
+            "bbox": [
+                84,
+                530,
+                584,
+                528
+            ],
+            "visible_bbox": [
+                84,
+                530,
+                584,
+                528
+            ]
+        },
+        {
+            "name": "Write Email",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                100,
+                1098,
+                420,
+                100
+            ],
+            "visible_bbox": [
+                100,
+                1098,
+                420,
+                100
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXImage",
+            "description": "b right arrow",
+            "role_description": "image",
+            "value": null,
+            "children": [],
+            "bbox": [
+                582,
+                1132,
+                40,
+                30
+            ],
+            "visible_bbox": [
+                582,
+                1132,
+                40,
+                30
+            ]
+        },
+        {
+            "name": "",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                552,
+                1098,
+                100,
+                100
+            ],
+            "visible_bbox": [
+                552,
+                1098,
+                100,
+                100
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "close button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                14,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                14,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "zoom button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                94,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                94,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": null,
+            "role": "AXButton",
+            "description": null,
+            "role_description": "minimize button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                54,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                54,
+                12,
+                28,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        752,
+        1390
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        752,
+        1390
+    ]
+}

@@ -1,0 +1,436 @@
+{
+    "name": "Get Started",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "dialog",
+    "value": "None",
+    "children": [
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Welcome to Merlin Project Express",
+            "children": [],
+            "bbox": [
+                368,
+                116,
+                1124,
+                90
+            ],
+            "visible_bbox": [
+                368,
+                116,
+                1124,
+                90
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXImage",
+            "description": "application icon",
+            "role_description": "image",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                40,
+                26,
+                340,
+                340
+            ],
+            "visible_bbox": [
+                40,
+                26,
+                340,
+                340
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Project management with a bit of magic",
+            "children": [],
+            "bbox": [
+                580,
+                210,
+                700,
+                48
+            ],
+            "visible_bbox": [
+                580,
+                210,
+                700,
+                48
+            ]
+        },
+        {
+            "name": "Continue",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                720,
+                1132,
+                420,
+                62
+            ],
+            "visible_bbox": [
+                720,
+                1132,
+                420,
+                62
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXImage",
+            "description": "",
+            "role_description": "image",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                160,
+                418,
+                96,
+                96
+            ],
+            "visible_bbox": [
+                160,
+                418,
+                96,
+                96
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Create the flow of your tasks, determine duration and dependencies, and define milestones.",
+            "children": [],
+            "bbox": [
+                312,
+                472,
+                1192,
+                34
+            ],
+            "visible_bbox": [
+                312,
+                472,
+                1192,
+                34
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Work Breakdown & Gantt Chart",
+            "children": [],
+            "bbox": [
+                312,
+                426,
+                490,
+                38
+            ],
+            "visible_bbox": [
+                312,
+                426,
+                490,
+                38
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXImage",
+            "description": "",
+            "role_description": "image",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                160,
+                586,
+                96,
+                96
+            ],
+            "visible_bbox": [
+                160,
+                586,
+                96,
+                96
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Create your team and assign them to your tasks. Optionally, calculate labor costs per activity, phase, or entire project.",
+            "children": [],
+            "bbox": [
+                312,
+                624,
+                1392,
+                68
+            ],
+            "visible_bbox": [
+                312,
+                624,
+                1392,
+                68
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Resources & Assignments",
+            "children": [],
+            "bbox": [
+                312,
+                578,
+                412,
+                38
+            ],
+            "visible_bbox": [
+                312,
+                578,
+                412,
+                38
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXImage",
+            "description": "",
+            "role_description": "image",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                160,
+                756,
+                96,
+                96
+            ],
+            "visible_bbox": [
+                160,
+                756,
+                96,
+                96
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Attach any number of files and documents of any kind to tasks or resources in your project.",
+            "children": [],
+            "bbox": [
+                312,
+                810,
+                1182,
+                34
+            ],
+            "visible_bbox": [
+                312,
+                810,
+                1182,
+                34
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Attachments",
+            "children": [],
+            "bbox": [
+                312,
+                764,
+                208,
+                38
+            ],
+            "visible_bbox": [
+                312,
+                764,
+                208,
+                38
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXImage",
+            "description": "",
+            "role_description": "image",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                160,
+                916,
+                96,
+                96
+            ],
+            "visible_bbox": [
+                160,
+                916,
+                96,
+                96
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Mark activities and design them as you like - individually or by rules.",
+            "children": [],
+            "bbox": [
+                312,
+                970,
+                884,
+                34
+            ],
+            "visible_bbox": [
+                312,
+                970,
+                884,
+                34
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Styling",
+            "children": [],
+            "bbox": [
+                312,
+                924,
+                116,
+                38
+            ],
+            "visible_bbox": [
+                312,
+                924,
+                116,
+                38
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXImage",
+            "description": "",
+            "role_description": "image",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                2600,
+                398,
+                380,
+                336
+            ],
+            "visible_bbox": null
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Help us improve our products by automatically sending us anonymous diagnostic and usage data. This also allows us to consider your personal use case for future developments.",
+            "children": [],
+            "bbox": [
+                2404,
+                848,
+                808,
+                90
+            ],
+            "visible_bbox": null
+        },
+        {
+            "name": "Send diagnostics and usage data to ProjectWizards",
+            "role": "AXCheckBox",
+            "description": "None",
+            "role_description": "checkbox",
+            "value": "0",
+            "children": [],
+            "bbox": [
+                2368,
+                792,
+                718,
+                36
+            ],
+            "visible_bbox": null
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "You can deactivate this setting at any time in the app settings.",
+            "children": [],
+            "bbox": [
+                2404,
+                954,
+                808,
+                30
+            ],
+            "visible_bbox": null
+        },
+        {
+            "name": "Privacy Policy",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                2404,
+                1000,
+                176,
+                32
+            ],
+            "visible_bbox": null
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Get Started",
+            "children": [],
+            "bbox": [
+                850,
+                10,
+                158,
+                32
+            ],
+            "visible_bbox": [
+                850,
+                10,
+                158,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1860,
+        1208
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1860,
+        1208
+    ]
+}

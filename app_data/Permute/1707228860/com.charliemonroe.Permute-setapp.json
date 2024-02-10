@@ -1,0 +1,710 @@
+{
+    "name": "Permute",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "standard window",
+    "value": "None",
+    "children": [
+        {
+            "name": "Drop zone. There are files in the queue.",
+            "role": "AXScrollArea",
+            "description": "None",
+            "role_description": "scroll area",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXScrollArea",
+                    "description": "None",
+                    "role_description": "scroll area",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXUnknown",
+                            "description": "None",
+                            "role_description": "unknown",
+                            "value": "None",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXScrollArea",
+                                    "description": "None",
+                                    "role_description": "scroll area",
+                                    "value": "None",
+                                    "children": [
+                                        {
+                                            "name": "None",
+                                            "role": "AXList",
+                                            "description": "None",
+                                            "role_description": "collection",
+                                            "value": "None",
+                                            "children": [
+                                                {
+                                                    "name": "None",
+                                                    "role": "AXList",
+                                                    "description": "None",
+                                                    "role_description": "section",
+                                                    "value": "None",
+                                                    "children": [
+                                                        {
+                                                            "name": "None",
+                                                            "role": "AXGroup",
+                                                            "description": "None",
+                                                            "role_description": "group",
+                                                            "value": "None",
+                                                            "children": [
+                                                                {
+                                                                    "name": "None",
+                                                                    "role": "AXStaticText",
+                                                                    "description": "None",
+                                                                    "role_description": "text",
+                                                                    "value": "alarm",
+                                                                    "children": [],
+                                                                    "bbox": [
+                                                                        64,
+                                                                        148,
+                                                                        1254,
+                                                                        30
+                                                                    ],
+                                                                    "visible_bbox": [
+                                                                        64,
+                                                                        148,
+                                                                        1254,
+                                                                        30
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "None",
+                                                                    "role": "AXButton",
+                                                                    "description": "Cancel",
+                                                                    "role_description": "button",
+                                                                    "value": "None",
+                                                                    "children": [],
+                                                                    "bbox": [
+                                                                        1322,
+                                                                        150,
+                                                                        40,
+                                                                        30
+                                                                    ],
+                                                                    "visible_bbox": [
+                                                                        1322,
+                                                                        150,
+                                                                        40,
+                                                                        30
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "None",
+                                                                    "role": "AXStaticText",
+                                                                    "description": "None",
+                                                                    "role_description": "text",
+                                                                    "value": "MP3\u00a0\u2022 256\u00a0kbps\u00a0\u2022 1\u00a0MB",
+                                                                    "children": [],
+                                                                    "bbox": [
+                                                                        64,
+                                                                        186,
+                                                                        1304,
+                                                                        28
+                                                                    ],
+                                                                    "visible_bbox": [
+                                                                        64,
+                                                                        186,
+                                                                        1304,
+                                                                        28
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "None",
+                                                                    "role": "AXButton",
+                                                                    "description": "Start",
+                                                                    "role_description": "button",
+                                                                    "value": "None",
+                                                                    "children": [],
+                                                                    "bbox": [
+                                                                        64,
+                                                                        386,
+                                                                        28,
+                                                                        28
+                                                                    ],
+                                                                    "visible_bbox": [
+                                                                        64,
+                                                                        386,
+                                                                        28,
+                                                                        28
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "None",
+                                                                    "role": "AXStaticText",
+                                                                    "description": "None",
+                                                                    "role_description": "text",
+                                                                    "value": "",
+                                                                    "children": [],
+                                                                    "bbox": [
+                                                                        710,
+                                                                        388,
+                                                                        8,
+                                                                        24
+                                                                    ],
+                                                                    "visible_bbox": [
+                                                                        710,
+                                                                        388,
+                                                                        8,
+                                                                        24
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "None",
+                                                                    "role": "AXButton",
+                                                                    "description": "Audio Track",
+                                                                    "role_description": "button",
+                                                                    "value": "None",
+                                                                    "children": [],
+                                                                    "bbox": [
+                                                                        1280,
+                                                                        386,
+                                                                        46,
+                                                                        28
+                                                                    ],
+                                                                    "visible_bbox": [
+                                                                        1280,
+                                                                        386,
+                                                                        46,
+                                                                        28
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "None",
+                                                                    "role": "AXButton",
+                                                                    "description": "Actions",
+                                                                    "role_description": "button",
+                                                                    "value": "None",
+                                                                    "children": [],
+                                                                    "bbox": [
+                                                                        1322,
+                                                                        384,
+                                                                        42,
+                                                                        32
+                                                                    ],
+                                                                    "visible_bbox": [
+                                                                        1322,
+                                                                        384,
+                                                                        42,
+                                                                        32
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "None",
+                                                                    "role": "AXButton",
+                                                                    "description": "Trim",
+                                                                    "role_description": "button",
+                                                                    "value": "None",
+                                                                    "children": [],
+                                                                    "bbox": [
+                                                                        1224,
+                                                                        386,
+                                                                        58,
+                                                                        28
+                                                                    ],
+                                                                    "visible_bbox": [
+                                                                        1224,
+                                                                        386,
+                                                                        58,
+                                                                        28
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "bbox": [
+                                                                40,
+                                                                124,
+                                                                1348,
+                                                                316
+                                                            ],
+                                                            "visible_bbox": [
+                                                                40,
+                                                                124,
+                                                                1348,
+                                                                316
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "bbox": [
+                                                        40,
+                                                        124,
+                                                        1348,
+                                                        316
+                                                    ],
+                                                    "visible_bbox": [
+                                                        40,
+                                                        124,
+                                                        1348,
+                                                        316
+                                                    ]
+                                                }
+                                            ],
+                                            "bbox": [
+                                                40,
+                                                68,
+                                                1348,
+                                                428
+                                            ],
+                                            "visible_bbox": [
+                                                40,
+                                                68,
+                                                1348,
+                                                428
+                                            ]
+                                        }
+                                    ],
+                                    "bbox": [
+                                        40,
+                                        68,
+                                        1348,
+                                        428
+                                    ],
+                                    "visible_bbox": [
+                                        40,
+                                        68,
+                                        1348,
+                                        428
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "None",
+                                    "role_description": "text",
+                                    "value": "Audio",
+                                    "children": [],
+                                    "bbox": [
+                                        36,
+                                        80,
+                                        78,
+                                        32
+                                    ],
+                                    "visible_bbox": [
+                                        36,
+                                        80,
+                                        78,
+                                        32
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "None",
+                                    "role_description": "text",
+                                    "value": "\u2014",
+                                    "children": [],
+                                    "bbox": [
+                                        122,
+                                        80,
+                                        30,
+                                        32
+                                    ],
+                                    "visible_bbox": [
+                                        122,
+                                        80,
+                                        30,
+                                        32
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXPopUpButton",
+                                    "description": "None",
+                                    "role_description": "pop up button",
+                                    "value": "MP3",
+                                    "children": [],
+                                    "bbox": [
+                                        142,
+                                        74,
+                                        276,
+                                        50
+                                    ],
+                                    "visible_bbox": [
+                                        142,
+                                        74,
+                                        276,
+                                        50
+                                    ]
+                                },
+                                {
+                                    "name": "",
+                                    "role": "AXButton",
+                                    "description": "Customize Group Settings",
+                                    "role_description": "button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        1354,
+                                        80,
+                                        34,
+                                        32
+                                    ],
+                                    "visible_bbox": [
+                                        1354,
+                                        80,
+                                        34,
+                                        32
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "None",
+                                    "role_description": "text",
+                                    "value": "1 Conversion",
+                                    "children": [],
+                                    "bbox": [
+                                        654,
+                                        456,
+                                        120,
+                                        22
+                                    ],
+                                    "visible_bbox": [
+                                        654,
+                                        456,
+                                        120,
+                                        22
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "Start",
+                                    "role_description": "button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        40,
+                                        454,
+                                        24,
+                                        26
+                                    ],
+                                    "visible_bbox": [
+                                        40,
+                                        454,
+                                        24,
+                                        26
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "Clear Finished Conversions",
+                                    "role_description": "button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        1358,
+                                        452,
+                                        30,
+                                        30
+                                    ],
+                                    "visible_bbox": [
+                                        1358,
+                                        452,
+                                        30,
+                                        30
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                24,
+                                68,
+                                1380,
+                                428
+                            ],
+                            "visible_bbox": [
+                                24,
+                                68,
+                                1380,
+                                428
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        0,
+                        44,
+                        1428,
+                        1146
+                    ],
+                    "visible_bbox": [
+                        0,
+                        44,
+                        1428,
+                        1146
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXButton",
+                    "description": "Show History",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        1336,
+                        1202,
+                        30,
+                        30
+                    ],
+                    "visible_bbox": [
+                        1336,
+                        1202,
+                        30,
+                        30
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "1 Conversion",
+                    "children": [],
+                    "bbox": [
+                        656,
+                        1206,
+                        120,
+                        22
+                    ],
+                    "visible_bbox": [
+                        656,
+                        1206,
+                        120,
+                        22
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXButton",
+                    "description": "Clear Finished Conversions",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        1290,
+                        1202,
+                        30,
+                        30
+                    ],
+                    "visible_bbox": [
+                        1290,
+                        1202,
+                        30,
+                        30
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXButton",
+                    "description": "Contact Support",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        1382,
+                        1202,
+                        30,
+                        30
+                    ],
+                    "visible_bbox": [
+                        1382,
+                        1202,
+                        30,
+                        30
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXButton",
+                    "description": "Open",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        16,
+                        1200,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        16,
+                        1200,
+                        28,
+                        32
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXButton",
+                    "description": "Permute's Workshop",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        58,
+                        1204,
+                        28,
+                        28
+                    ],
+                    "visible_bbox": [
+                        58,
+                        1204,
+                        28,
+                        28
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                0,
+                1428,
+                1246
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                1428,
+                1246
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "close button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                14,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                14,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "full screen button",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXGroup",
+                            "description": "None",
+                            "role_description": "group",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                94,
+                                12,
+                                28,
+                                32
+                            ],
+                            "visible_bbox": [
+                                94,
+                                12,
+                                28,
+                                32
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        94,
+                        12,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        94,
+                        12,
+                        28,
+                        32
+                    ]
+                }
+            ],
+            "bbox": [
+                94,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                94,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "minimize button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                54,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                54,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Permute",
+            "children": [],
+            "bbox": [
+                654,
+                10,
+                118,
+                32
+            ],
+            "visible_bbox": [
+                654,
+                10,
+                118,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1428,
+        1246
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1428,
+        1246
+    ]
+}

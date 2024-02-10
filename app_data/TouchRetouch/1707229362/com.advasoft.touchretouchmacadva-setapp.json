@@ -1,0 +1,1354 @@
+{
+    "name": "TouchRetouch - 1.png",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "standard window",
+    "value": "None",
+    "children": [
+        {
+            "name": "None",
+            "role": "AXScrollArea",
+            "description": "None",
+            "role_description": "scroll area",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXSlider",
+                    "description": "None",
+                    "role_description": "slider",
+                    "value": "0.0",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXValueIndicator",
+                            "description": "None",
+                            "role_description": "value indicator",
+                            "value": "0.0",
+                            "children": [],
+                            "bbox": [
+                                2744,
+                                714,
+                                38,
+                                38
+                            ],
+                            "visible_bbox": [
+                                2744,
+                                714,
+                                38,
+                                38
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        2570,
+                        714,
+                        386,
+                        46
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        714,
+                        386,
+                        46
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Exposure",
+                    "children": [],
+                    "bbox": [
+                        2570,
+                        676,
+                        220,
+                        32
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        676,
+                        220,
+                        32
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "0.00",
+                    "children": [],
+                    "bbox": [
+                        2866,
+                        680,
+                        90,
+                        28
+                    ],
+                    "visible_bbox": [
+                        2866,
+                        680,
+                        90,
+                        28
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXSlider",
+                    "description": "None",
+                    "role_description": "slider",
+                    "value": "0.0",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXValueIndicator",
+                            "description": "None",
+                            "role_description": "value indicator",
+                            "value": "0.0",
+                            "children": [],
+                            "bbox": [
+                                2744,
+                                432,
+                                38,
+                                38
+                            ],
+                            "visible_bbox": [
+                                2744,
+                                432,
+                                38,
+                                38
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        2570,
+                        432,
+                        386,
+                        46
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        432,
+                        386,
+                        46
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Temperature",
+                    "children": [],
+                    "bbox": [
+                        2570,
+                        394,
+                        220,
+                        32
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        394,
+                        220,
+                        32
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "0",
+                    "children": [],
+                    "bbox": [
+                        2854,
+                        398,
+                        102,
+                        28
+                    ],
+                    "visible_bbox": [
+                        2854,
+                        398,
+                        102,
+                        28
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXSlider",
+                    "description": "None",
+                    "role_description": "slider",
+                    "value": "0.0",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXValueIndicator",
+                            "description": "None",
+                            "role_description": "value indicator",
+                            "value": "0.0",
+                            "children": [],
+                            "bbox": [
+                                2744,
+                                524,
+                                38,
+                                38
+                            ],
+                            "visible_bbox": [
+                                2744,
+                                524,
+                                38,
+                                38
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        2570,
+                        524,
+                        386,
+                        46
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        524,
+                        386,
+                        46
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Tint",
+                    "children": [],
+                    "bbox": [
+                        2570,
+                        486,
+                        220,
+                        32
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        486,
+                        220,
+                        32
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "0",
+                    "children": [],
+                    "bbox": [
+                        2866,
+                        490,
+                        90,
+                        28
+                    ],
+                    "visible_bbox": [
+                        2866,
+                        490,
+                        90,
+                        28
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXImage",
+                    "description": "tr adjust wb normal",
+                    "role_description": "image",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        2574,
+                        320,
+                        46,
+                        36
+                    ],
+                    "visible_bbox": [
+                        2574,
+                        320,
+                        46,
+                        36
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Tone",
+                    "children": [],
+                    "bbox": [
+                        2632,
+                        608,
+                        324,
+                        34
+                    ],
+                    "visible_bbox": [
+                        2632,
+                        608,
+                        324,
+                        34
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXImage",
+                    "description": "tr adjust tone normal",
+                    "role_description": "image",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        2574,
+                        608,
+                        46,
+                        36
+                    ],
+                    "visible_bbox": [
+                        2574,
+                        608,
+                        46,
+                        36
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXSlider",
+                    "description": "None",
+                    "role_description": "slider",
+                    "value": "0.0",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXValueIndicator",
+                            "description": "None",
+                            "role_description": "value indicator",
+                            "value": "0.0",
+                            "children": [],
+                            "bbox": [
+                                2744,
+                                806,
+                                38,
+                                38
+                            ],
+                            "visible_bbox": [
+                                2744,
+                                806,
+                                38,
+                                38
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        2570,
+                        806,
+                        386,
+                        46
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        806,
+                        386,
+                        46
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Contrast",
+                    "children": [],
+                    "bbox": [
+                        2570,
+                        768,
+                        220,
+                        32
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        768,
+                        220,
+                        32
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "0",
+                    "children": [],
+                    "bbox": [
+                        2866,
+                        772,
+                        90,
+                        28
+                    ],
+                    "visible_bbox": [
+                        2866,
+                        772,
+                        90,
+                        28
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXSlider",
+                    "description": "None",
+                    "role_description": "slider",
+                    "value": "0.0",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXValueIndicator",
+                            "description": "None",
+                            "role_description": "value indicator",
+                            "value": "0.0",
+                            "children": [],
+                            "bbox": [
+                                2744,
+                                898,
+                                38,
+                                38
+                            ],
+                            "visible_bbox": [
+                                2744,
+                                898,
+                                38,
+                                38
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        2570,
+                        898,
+                        386,
+                        46
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        898,
+                        386,
+                        46
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Highlights",
+                    "children": [],
+                    "bbox": [
+                        2570,
+                        860,
+                        220,
+                        32
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        860,
+                        220,
+                        32
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "0",
+                    "children": [],
+                    "bbox": [
+                        2866,
+                        864,
+                        90,
+                        28
+                    ],
+                    "visible_bbox": [
+                        2866,
+                        864,
+                        90,
+                        28
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXSlider",
+                    "description": "None",
+                    "role_description": "slider",
+                    "value": "0.0",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXValueIndicator",
+                            "description": "None",
+                            "role_description": "value indicator",
+                            "value": "0.0",
+                            "children": [],
+                            "bbox": [
+                                2744,
+                                986,
+                                38,
+                                38
+                            ],
+                            "visible_bbox": [
+                                2744,
+                                986,
+                                38,
+                                38
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        2570,
+                        986,
+                        386,
+                        46
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        986,
+                        386,
+                        46
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Shadows",
+                    "children": [],
+                    "bbox": [
+                        2570,
+                        952,
+                        220,
+                        28
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        952,
+                        220,
+                        28
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "0",
+                    "children": [],
+                    "bbox": [
+                        2866,
+                        956,
+                        90,
+                        28
+                    ],
+                    "visible_bbox": [
+                        2866,
+                        956,
+                        90,
+                        28
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Color",
+                    "children": [],
+                    "bbox": [
+                        2632,
+                        1070,
+                        324,
+                        34
+                    ],
+                    "visible_bbox": [
+                        2632,
+                        1070,
+                        324,
+                        34
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXImage",
+                    "description": "tr adjust color normal",
+                    "role_description": "image",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        2574,
+                        1070,
+                        46,
+                        36
+                    ],
+                    "visible_bbox": [
+                        2574,
+                        1070,
+                        46,
+                        36
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXSlider",
+                    "description": "None",
+                    "role_description": "slider",
+                    "value": "0.0",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXValueIndicator",
+                            "description": "None",
+                            "role_description": "value indicator",
+                            "value": "0.0",
+                            "children": [],
+                            "bbox": [
+                                2744,
+                                1176,
+                                38,
+                                38
+                            ],
+                            "visible_bbox": [
+                                2744,
+                                1176,
+                                38,
+                                38
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        2570,
+                        1176,
+                        386,
+                        46
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        1176,
+                        386,
+                        46
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Vibrance",
+                    "children": [],
+                    "bbox": [
+                        2570,
+                        1138,
+                        220,
+                        32
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        1138,
+                        220,
+                        32
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "0",
+                    "children": [],
+                    "bbox": [
+                        2866,
+                        1142,
+                        90,
+                        28
+                    ],
+                    "visible_bbox": [
+                        2866,
+                        1142,
+                        90,
+                        28
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXSlider",
+                    "description": "None",
+                    "role_description": "slider",
+                    "value": "0.0",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXValueIndicator",
+                            "description": "None",
+                            "role_description": "value indicator",
+                            "value": "0.0",
+                            "children": [],
+                            "bbox": [
+                                2744,
+                                1272,
+                                38,
+                                38
+                            ],
+                            "visible_bbox": [
+                                2744,
+                                1272,
+                                38,
+                                38
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        2570,
+                        1272,
+                        386,
+                        46
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        1272,
+                        386,
+                        46
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Saturation",
+                    "children": [],
+                    "bbox": [
+                        2570,
+                        1234,
+                        220,
+                        32
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        1234,
+                        220,
+                        32
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "0",
+                    "children": [],
+                    "bbox": [
+                        2866,
+                        1234,
+                        90,
+                        28
+                    ],
+                    "visible_bbox": [
+                        2866,
+                        1234,
+                        90,
+                        28
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXSlider",
+                    "description": "None",
+                    "role_description": "slider",
+                    "value": "0.0",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXValueIndicator",
+                            "description": "None",
+                            "role_description": "value indicator",
+                            "value": "0.0",
+                            "children": [],
+                            "bbox": [
+                                2744,
+                                1368,
+                                38,
+                                38
+                            ],
+                            "visible_bbox": [
+                                2744,
+                                1368,
+                                38,
+                                38
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        2570,
+                        1368,
+                        386,
+                        46
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        1368,
+                        386,
+                        46
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Clarity",
+                    "children": [],
+                    "bbox": [
+                        2570,
+                        1330,
+                        220,
+                        32
+                    ],
+                    "visible_bbox": [
+                        2570,
+                        1330,
+                        220,
+                        32
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "0",
+                    "children": [],
+                    "bbox": [
+                        2866,
+                        1330,
+                        90,
+                        28
+                    ],
+                    "visible_bbox": [
+                        2866,
+                        1330,
+                        90,
+                        28
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "White balance",
+                    "children": [],
+                    "bbox": [
+                        2632,
+                        320,
+                        324,
+                        34
+                    ],
+                    "visible_bbox": [
+                        2632,
+                        320,
+                        324,
+                        34
+                    ]
+                }
+            ],
+            "bbox": [
+                2526,
+                140,
+                474,
+                1460
+            ],
+            "visible_bbox": [
+                2526,
+                140,
+                474,
+                1460
+            ]
+        },
+        {
+            "name": "Open",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                0,
+                44,
+                140,
+                96
+            ],
+            "visible_bbox": [
+                0,
+                44,
+                140,
+                96
+            ]
+        },
+        {
+            "name": "History",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                2720,
+                44,
+                140,
+                96
+            ],
+            "visible_bbox": [
+                2720,
+                44,
+                140,
+                96
+            ]
+        },
+        {
+            "name": "Redo",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                2580,
+                44,
+                140,
+                96
+            ],
+            "visible_bbox": [
+                2580,
+                44,
+                140,
+                96
+            ]
+        },
+        {
+            "name": "Undo",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                2440,
+                44,
+                140,
+                96
+            ],
+            "visible_bbox": [
+                2440,
+                44,
+                140,
+                96
+            ]
+        },
+        {
+            "name": "Compare",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                2300,
+                44,
+                140,
+                96
+            ],
+            "visible_bbox": [
+                2300,
+                44,
+                140,
+                96
+            ]
+        },
+        {
+            "name": "Quick Repair",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                1358,
+                44,
+                140,
+                96
+            ],
+            "visible_bbox": [
+                1358,
+                44,
+                140,
+                96
+            ]
+        },
+        {
+            "name": "Object Removal_short",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                1216,
+                44,
+                140,
+                96
+            ],
+            "visible_bbox": [
+                1216,
+                44,
+                140,
+                96
+            ]
+        },
+        {
+            "name": "Line Removal_short",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                1500,
+                44,
+                140,
+                96
+            ],
+            "visible_bbox": [
+                1500,
+                44,
+                140,
+                96
+            ]
+        },
+        {
+            "name": "Clone Stamp",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                1642,
+                44,
+                140,
+                96
+            ],
+            "visible_bbox": [
+                1642,
+                44,
+                140,
+                96
+            ]
+        },
+        {
+            "name": "Export",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                2860,
+                44,
+                140,
+                96
+            ],
+            "visible_bbox": [
+                2860,
+                44,
+                140,
+                96
+            ]
+        },
+        {
+            "name": "",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                844,
+                74,
+                50,
+                36
+            ],
+            "visible_bbox": [
+                844,
+                74,
+                50,
+                36
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXSlider",
+            "description": "None",
+            "role_description": "slider",
+            "value": "102.5999984741211",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXValueIndicator",
+                    "description": "None",
+                    "role_description": "value indicator",
+                    "value": "102.5999984741211",
+                    "children": [],
+                    "bbox": [
+                        664,
+                        74,
+                        38,
+                        38
+                    ],
+                    "visible_bbox": [
+                        664,
+                        74,
+                        38,
+                        38
+                    ]
+                }
+            ],
+            "bbox": [
+                528,
+                68,
+                300,
+                56
+            ],
+            "visible_bbox": [
+                528,
+                68,
+                300,
+                56
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "126%",
+            "children": [],
+            "bbox": [
+                640,
+                106,
+                74,
+                22
+            ],
+            "visible_bbox": [
+                640,
+                106,
+                74,
+                22
+            ]
+        },
+        {
+            "name": "",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                462,
+                74,
+                50,
+                36
+            ],
+            "visible_bbox": [
+                462,
+                74,
+                50,
+                36
+            ]
+        },
+        {
+            "name": "Tone & Color",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                1900,
+                44,
+                140,
+                96
+            ],
+            "visible_bbox": [
+                1900,
+                44,
+                140,
+                96
+            ]
+        },
+        {
+            "name": "Crop",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                2040,
+                44,
+                140,
+                96
+            ],
+            "visible_bbox": [
+                2040,
+                44,
+                140,
+                96
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "close button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                14,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                14,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "full screen button",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXGroup",
+                            "description": "None",
+                            "role_description": "group",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                94,
+                                12,
+                                28,
+                                32
+                            ],
+                            "visible_bbox": [
+                                94,
+                                12,
+                                28,
+                                32
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        94,
+                        12,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        94,
+                        12,
+                        28,
+                        32
+                    ]
+                }
+            ],
+            "bbox": [
+                94,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                94,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "minimize button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                54,
+                12,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                54,
+                12,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "TouchRetouch - 1.png",
+            "children": [],
+            "bbox": [
+                1354,
+                10,
+                290,
+                32
+            ],
+            "visible_bbox": [
+                1354,
+                10,
+                290,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        3000,
+        1600
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        3000,
+        1600
+    ]
+}

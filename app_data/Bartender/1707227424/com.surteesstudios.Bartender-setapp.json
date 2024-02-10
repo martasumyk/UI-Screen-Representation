@@ -1,0 +1,585 @@
+{
+    "name": "Window",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "standard window",
+    "value": "None",
+    "children": [
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Bartender needs your permission to manage menu bar items. Follow these steps to grant access:",
+            "children": [],
+            "bbox": [
+                36,
+                180,
+                1530,
+                36
+            ],
+            "visible_bbox": [
+                36,
+                180,
+                1530,
+                36
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "macOS Permissions for Bartender",
+            "children": [],
+            "bbox": [
+                368,
+                70,
+                868,
+                68
+            ],
+            "visible_bbox": [
+                368,
+                70,
+                868,
+                68
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXGroup",
+            "description": "None",
+            "role_description": "group",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXImage",
+                            "description": "AppIcon",
+                            "role_description": "image",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                714,
+                                1066,
+                                50,
+                                50
+                            ],
+                            "visible_bbox": [
+                                714,
+                                1066,
+                                50,
+                                50
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "Bartender 5",
+                            "children": [],
+                            "bbox": [
+                                804,
+                                1072,
+                                152,
+                                32
+                            ],
+                            "visible_bbox": [
+                                804,
+                                1072,
+                                152,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "switch",
+                            "value": "1",
+                            "children": [],
+                            "bbox": [
+                                1380,
+                                1076,
+                                56,
+                                32
+                            ],
+                            "visible_bbox": [
+                                1380,
+                                1076,
+                                56,
+                                32
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "role": "AXButton",
+                            "description": "None",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                678,
+                                1044,
+                                796,
+                                82
+                            ],
+                            "visible_bbox": [
+                                678,
+                                1044,
+                                796,
+                                82
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        630,
+                        1030,
+                        892,
+                        112
+                    ],
+                    "visible_bbox": [
+                        630,
+                        1030,
+                        892,
+                        112
+                    ]
+                }
+            ],
+            "bbox": [
+                676,
+                1048,
+                800,
+                88
+            ],
+            "visible_bbox": [
+                676,
+                1048,
+                800,
+                88
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "If the checkbox is disabled, click the \udbc0\udfa0 and enter your password.",
+            "children": [],
+            "bbox": [
+                672,
+                1152,
+                880,
+                52
+            ],
+            "visible_bbox": [
+                672,
+                1152,
+                880,
+                52
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "This is how correctly set permissions should look:",
+            "children": [],
+            "bbox": [
+                50,
+                1068,
+                636,
+                48
+            ],
+            "visible_bbox": [
+                50,
+                1068,
+                636,
+                48
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXStaticText",
+            "description": "None",
+            "role_description": "text",
+            "value": "Having problems with permissions:",
+            "children": [],
+            "bbox": [
+                50,
+                1204,
+                1516,
+                48
+            ],
+            "visible_bbox": [
+                50,
+                1204,
+                1516,
+                48
+            ]
+        },
+        {
+            "name": "Solutions for Permissons Issues",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                486,
+                1192,
+                628,
+                64
+            ],
+            "visible_bbox": [
+                486,
+                1192,
+                628,
+                64
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXGroup",
+            "description": "None",
+            "role_description": "group",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Accessibility",
+                    "children": [],
+                    "bbox": [
+                        38,
+                        282,
+                        1526,
+                        52
+                    ],
+                    "visible_bbox": [
+                        38,
+                        282,
+                        1526,
+                        52
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Bartender requires accessibility access so that it can:",
+                    "children": [],
+                    "bbox": [
+                        38,
+                        372,
+                        1518,
+                        64
+                    ],
+                    "visible_bbox": [
+                        38,
+                        372,
+                        1518,
+                        64
+                    ]
+                },
+                {
+                    "name": "Open macOS Accessibility Settings",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        520,
+                        494,
+                        552,
+                        64
+                    ],
+                    "visible_bbox": [
+                        520,
+                        494,
+                        552,
+                        64
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "\u2022 Arrange your menu bar items.\n\u2022 Show and hide menu bar items.",
+                    "children": [],
+                    "bbox": [
+                        474,
+                        408,
+                        880,
+                        80
+                    ],
+                    "visible_bbox": [
+                        474,
+                        408,
+                        880,
+                        80
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Then in System Settings check Bartender to grant access.",
+                    "children": [],
+                    "bbox": [
+                        38,
+                        560,
+                        1518,
+                        50
+                    ],
+                    "visible_bbox": [
+                        38,
+                        560,
+                        1518,
+                        50
+                    ]
+                },
+                {
+                    "name": "Find out why Bartender needs this",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        1038,
+                        290,
+                        482,
+                        36
+                    ],
+                    "visible_bbox": [
+                        1038,
+                        290,
+                        482,
+                        36
+                    ]
+                }
+            ],
+            "bbox": [
+                40,
+                266,
+                1522,
+                360
+            ],
+            "visible_bbox": [
+                40,
+                266,
+                1522,
+                360
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXGroup",
+            "description": "None",
+            "role_description": "group",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Screen Recording",
+                    "children": [],
+                    "bbox": [
+                        40,
+                        676,
+                        1526,
+                        52
+                    ],
+                    "visible_bbox": [
+                        40,
+                        676,
+                        1526,
+                        52
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Bartender requires Screen Recording access on your Mac so that it can: ",
+                    "children": [],
+                    "bbox": [
+                        40,
+                        764,
+                        1518,
+                        50
+                    ],
+                    "visible_bbox": [
+                        40,
+                        764,
+                        1518,
+                        50
+                    ]
+                },
+                {
+                    "name": "Open macOS Screen Recording Settings",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        490,
+                        880,
+                        616,
+                        64
+                    ],
+                    "visible_bbox": [
+                        490,
+                        880,
+                        616,
+                        64
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "\u2022 Get a list of the menu items in your menu bar to control them. \n\u2022 Capture images of menu bar items for display in Settings, Bartender Bar, Search etc.",
+                    "children": [],
+                    "bbox": [
+                        362,
+                        796,
+                        1086,
+                        76
+                    ],
+                    "visible_bbox": [
+                        362,
+                        796,
+                        1086,
+                        76
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXStaticText",
+                    "description": "None",
+                    "role_description": "text",
+                    "value": "Then in System Settings check Bartender to grant access.",
+                    "children": [],
+                    "bbox": [
+                        40,
+                        942,
+                        1518,
+                        50
+                    ],
+                    "visible_bbox": [
+                        40,
+                        942,
+                        1518,
+                        50
+                    ]
+                },
+                {
+                    "name": "Find out why Bartender needs this",
+                    "role": "AXButton",
+                    "description": "None",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        1040,
+                        684,
+                        482,
+                        36
+                    ],
+                    "visible_bbox": [
+                        1040,
+                        684,
+                        482,
+                        36
+                    ]
+                }
+            ],
+            "bbox": [
+                42,
+                658,
+                1522,
+                356
+            ],
+            "visible_bbox": [
+                42,
+                658,
+                1522,
+                356
+            ]
+        },
+        {
+            "name": "Open System Preferences",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                1192,
+                1304,
+                380,
+                80
+            ],
+            "visible_bbox": [
+                1192,
+                1304,
+                380,
+                80
+            ]
+        },
+        {
+            "name": "Quit Bartender",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                26,
+                1322,
+                246,
+                64
+            ],
+            "visible_bbox": [
+                26,
+                1322,
+                246,
+                64
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1600,
+        1400
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1600,
+        1400
+    ]
+}

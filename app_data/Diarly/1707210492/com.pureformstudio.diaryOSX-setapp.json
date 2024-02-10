@@ -1,0 +1,202 @@
+{
+    "name": "Welcome",
+    "role": "AXWindow",
+    "description": null,
+    "role_description": "standard window",
+    "value": null,
+    "children": [
+        {
+            "name": null,
+            "role": "AXScrollArea",
+            "description": null,
+            "role_description": "scroll area",
+            "value": null,
+            "children": [
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "Choose the main purpose of your journal for a personalized experience:",
+                    "children": [],
+                    "bbox": [
+                        66,
+                        192,
+                        912,
+                        120
+                    ],
+                    "visible_bbox": [
+                        66,
+                        192,
+                        912,
+                        120
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "\ud83c\udf31 Foster self-improvement and self-discovery.",
+                    "children": [],
+                    "bbox": [
+                        120,
+                        370,
+                        714,
+                        42
+                    ],
+                    "visible_bbox": [
+                        120,
+                        370,
+                        714,
+                        42
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "\ud83e\uddd8 Practice mindfulness and live in the present.",
+                    "children": [],
+                    "bbox": [
+                        120,
+                        468,
+                        712,
+                        42
+                    ],
+                    "visible_bbox": [
+                        120,
+                        468,
+                        712,
+                        42
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "\ud83d\udcd3 Document your everyday moments and thoughts.",
+                    "children": [],
+                    "bbox": [
+                        120,
+                        566,
+                        792,
+                        42
+                    ],
+                    "visible_bbox": [
+                        120,
+                        566,
+                        792,
+                        42
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "\ud83d\ude0c Reflect and cultivate mental health.",
+                    "children": [],
+                    "bbox": [
+                        120,
+                        664,
+                        578,
+                        42
+                    ],
+                    "visible_bbox": [
+                        120,
+                        664,
+                        578,
+                        42
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "\ud83c\udf0d Capture memories and experiences from your journeys.",
+                    "children": [],
+                    "bbox": [
+                        120,
+                        762,
+                        880,
+                        42
+                    ],
+                    "visible_bbox": [
+                        120,
+                        762,
+                        880,
+                        42
+                    ]
+                },
+                {
+                    "name": null,
+                    "role": "AXStaticText",
+                    "description": null,
+                    "role_description": "text",
+                    "value": "\u2705 Set, track, and celebrate your progress.",
+                    "children": [],
+                    "bbox": [
+                        120,
+                        860,
+                        634,
+                        42
+                    ],
+                    "visible_bbox": [
+                        120,
+                        860,
+                        634,
+                        42
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                192,
+                1120,
+                764
+            ],
+            "visible_bbox": [
+                0,
+                192,
+                1120,
+                764
+            ]
+        },
+        {
+            "name": "Continue",
+            "role": "AXButton",
+            "description": null,
+            "role_description": "button",
+            "value": null,
+            "children": [],
+            "bbox": [
+                808,
+                1214,
+                246,
+                80
+            ],
+            "visible_bbox": [
+                808,
+                1214,
+                246,
+                80
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1120,
+        1360
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1120,
+        1360
+    ]
+}

@@ -1,0 +1,1716 @@
+{
+    "name": "Calendar",
+    "role": "AXWindow",
+    "description": "None",
+    "role_description": "standard window",
+    "value": "None",
+    "children": [
+        {
+            "name": "None",
+            "role": "AXSplitGroup",
+            "description": "None",
+            "role_description": "split group",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXSplitter",
+                    "description": "None",
+                    "role_description": "splitter",
+                    "value": "-1.0",
+                    "children": [],
+                    "bbox": [
+                        -2,
+                        76,
+                        2,
+                        1120
+                    ],
+                    "visible_bbox": null
+                },
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "Day Calendar Area",
+                    "role_description": "group",
+                    "value": "2024-02-05 23:06:51 +0000",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXList",
+                            "description": "Tuesday",
+                            "role_description": "list",
+                            "value": "2024-02-05 23:00:00 +0000",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "New Event. Starts on 6 February 2024 at 12:00 and ends at 14:00.",
+                                    "role_description": "Event",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        114,
+                                        626,
+                                        906,
+                                        148
+                                    ],
+                                    "visible_bbox": [
+                                        114,
+                                        626,
+                                        906,
+                                        148
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                116,
+                                -286,
+                                906,
+                                1824
+                            ],
+                            "visible_bbox": [
+                                116,
+                                0,
+                                906,
+                                1196
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                1108,
+                                366,
+                                392,
+                                0
+                            ],
+                            "visible_bbox": null
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXGrid",
+                            "description": "February",
+                            "role_description": "grid",
+                            "value": "None",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Monday",
+                                    "role_description": "text",
+                                    "value": "29",
+                                    "children": [],
+                                    "bbox": [
+                                        1108,
+                                        144,
+                                        56,
+                                        38
+                                    ],
+                                    "visible_bbox": [
+                                        1108,
+                                        144,
+                                        56,
+                                        38
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Tuesday",
+                                    "role_description": "text",
+                                    "value": "30",
+                                    "children": [],
+                                    "bbox": [
+                                        1164,
+                                        144,
+                                        56,
+                                        38
+                                    ],
+                                    "visible_bbox": [
+                                        1164,
+                                        144,
+                                        56,
+                                        38
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Wednesday",
+                                    "role_description": "text",
+                                    "value": "31",
+                                    "children": [],
+                                    "bbox": [
+                                        1220,
+                                        144,
+                                        56,
+                                        38
+                                    ],
+                                    "visible_bbox": [
+                                        1220,
+                                        144,
+                                        56,
+                                        38
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Thursday",
+                                    "role_description": "text",
+                                    "value": "1",
+                                    "children": [],
+                                    "bbox": [
+                                        1276,
+                                        144,
+                                        56,
+                                        38
+                                    ],
+                                    "visible_bbox": [
+                                        1276,
+                                        144,
+                                        56,
+                                        38
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Friday",
+                                    "role_description": "text",
+                                    "value": "2",
+                                    "children": [],
+                                    "bbox": [
+                                        1332,
+                                        144,
+                                        56,
+                                        38
+                                    ],
+                                    "visible_bbox": [
+                                        1332,
+                                        144,
+                                        56,
+                                        38
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Saturday",
+                                    "role_description": "text",
+                                    "value": "3",
+                                    "children": [],
+                                    "bbox": [
+                                        1388,
+                                        144,
+                                        56,
+                                        38
+                                    ],
+                                    "visible_bbox": [
+                                        1388,
+                                        144,
+                                        56,
+                                        38
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Sunday",
+                                    "role_description": "text",
+                                    "value": "4",
+                                    "children": [],
+                                    "bbox": [
+                                        1444,
+                                        144,
+                                        56,
+                                        38
+                                    ],
+                                    "visible_bbox": [
+                                        1444,
+                                        144,
+                                        56,
+                                        38
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Monday",
+                                    "role_description": "text",
+                                    "value": "5",
+                                    "children": [],
+                                    "bbox": [
+                                        1108,
+                                        182,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1108,
+                                        182,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Today, Tuesday",
+                                    "role_description": "text",
+                                    "value": "6",
+                                    "children": [],
+                                    "bbox": [
+                                        1164,
+                                        182,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1164,
+                                        182,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Wednesday",
+                                    "role_description": "text",
+                                    "value": "7",
+                                    "children": [],
+                                    "bbox": [
+                                        1220,
+                                        182,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1220,
+                                        182,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Thursday",
+                                    "role_description": "text",
+                                    "value": "8",
+                                    "children": [],
+                                    "bbox": [
+                                        1276,
+                                        182,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1276,
+                                        182,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Friday",
+                                    "role_description": "text",
+                                    "value": "9",
+                                    "children": [],
+                                    "bbox": [
+                                        1332,
+                                        182,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1332,
+                                        182,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Saturday",
+                                    "role_description": "text",
+                                    "value": "10",
+                                    "children": [],
+                                    "bbox": [
+                                        1388,
+                                        182,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1388,
+                                        182,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Sunday",
+                                    "role_description": "text",
+                                    "value": "11",
+                                    "children": [],
+                                    "bbox": [
+                                        1444,
+                                        182,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1444,
+                                        182,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Monday",
+                                    "role_description": "text",
+                                    "value": "12",
+                                    "children": [],
+                                    "bbox": [
+                                        1108,
+                                        218,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1108,
+                                        218,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Tuesday",
+                                    "role_description": "text",
+                                    "value": "13",
+                                    "children": [],
+                                    "bbox": [
+                                        1164,
+                                        218,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1164,
+                                        218,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Wednesday",
+                                    "role_description": "text",
+                                    "value": "14",
+                                    "children": [],
+                                    "bbox": [
+                                        1220,
+                                        218,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1220,
+                                        218,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Thursday",
+                                    "role_description": "text",
+                                    "value": "15",
+                                    "children": [],
+                                    "bbox": [
+                                        1276,
+                                        218,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1276,
+                                        218,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Friday",
+                                    "role_description": "text",
+                                    "value": "16",
+                                    "children": [],
+                                    "bbox": [
+                                        1332,
+                                        218,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1332,
+                                        218,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Saturday",
+                                    "role_description": "text",
+                                    "value": "17",
+                                    "children": [],
+                                    "bbox": [
+                                        1388,
+                                        218,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1388,
+                                        218,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Sunday",
+                                    "role_description": "text",
+                                    "value": "18",
+                                    "children": [],
+                                    "bbox": [
+                                        1444,
+                                        218,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1444,
+                                        218,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Monday",
+                                    "role_description": "text",
+                                    "value": "19",
+                                    "children": [],
+                                    "bbox": [
+                                        1108,
+                                        254,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1108,
+                                        254,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Tuesday",
+                                    "role_description": "text",
+                                    "value": "20",
+                                    "children": [],
+                                    "bbox": [
+                                        1164,
+                                        254,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1164,
+                                        254,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Wednesday",
+                                    "role_description": "text",
+                                    "value": "21",
+                                    "children": [],
+                                    "bbox": [
+                                        1220,
+                                        254,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1220,
+                                        254,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Thursday",
+                                    "role_description": "text",
+                                    "value": "22",
+                                    "children": [],
+                                    "bbox": [
+                                        1276,
+                                        254,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1276,
+                                        254,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Friday",
+                                    "role_description": "text",
+                                    "value": "23",
+                                    "children": [],
+                                    "bbox": [
+                                        1332,
+                                        254,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1332,
+                                        254,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Saturday",
+                                    "role_description": "text",
+                                    "value": "24",
+                                    "children": [],
+                                    "bbox": [
+                                        1388,
+                                        254,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1388,
+                                        254,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Sunday",
+                                    "role_description": "text",
+                                    "value": "25",
+                                    "children": [],
+                                    "bbox": [
+                                        1444,
+                                        254,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1444,
+                                        254,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Monday",
+                                    "role_description": "text",
+                                    "value": "26",
+                                    "children": [],
+                                    "bbox": [
+                                        1108,
+                                        290,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1108,
+                                        290,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Tuesday",
+                                    "role_description": "text",
+                                    "value": "27",
+                                    "children": [],
+                                    "bbox": [
+                                        1164,
+                                        290,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1164,
+                                        290,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Wednesday",
+                                    "role_description": "text",
+                                    "value": "28",
+                                    "children": [],
+                                    "bbox": [
+                                        1220,
+                                        290,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1220,
+                                        290,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Thursday",
+                                    "role_description": "text",
+                                    "value": "29",
+                                    "children": [],
+                                    "bbox": [
+                                        1276,
+                                        290,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1276,
+                                        290,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Friday",
+                                    "role_description": "text",
+                                    "value": "1",
+                                    "children": [],
+                                    "bbox": [
+                                        1332,
+                                        290,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1332,
+                                        290,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Saturday",
+                                    "role_description": "text",
+                                    "value": "2",
+                                    "children": [],
+                                    "bbox": [
+                                        1388,
+                                        290,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1388,
+                                        290,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Sunday",
+                                    "role_description": "text",
+                                    "value": "3",
+                                    "children": [],
+                                    "bbox": [
+                                        1444,
+                                        290,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1444,
+                                        290,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Monday",
+                                    "role_description": "text",
+                                    "value": "4",
+                                    "children": [],
+                                    "bbox": [
+                                        1108,
+                                        326,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1108,
+                                        326,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Tuesday",
+                                    "role_description": "text",
+                                    "value": "5",
+                                    "children": [],
+                                    "bbox": [
+                                        1164,
+                                        326,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1164,
+                                        326,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Wednesday",
+                                    "role_description": "text",
+                                    "value": "6",
+                                    "children": [],
+                                    "bbox": [
+                                        1220,
+                                        326,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1220,
+                                        326,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Thursday",
+                                    "role_description": "text",
+                                    "value": "7",
+                                    "children": [],
+                                    "bbox": [
+                                        1276,
+                                        326,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1276,
+                                        326,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Friday",
+                                    "role_description": "text",
+                                    "value": "8",
+                                    "children": [],
+                                    "bbox": [
+                                        1332,
+                                        326,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1332,
+                                        326,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Saturday",
+                                    "role_description": "text",
+                                    "value": "9",
+                                    "children": [],
+                                    "bbox": [
+                                        1388,
+                                        326,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1388,
+                                        326,
+                                        56,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "Sunday",
+                                    "role_description": "text",
+                                    "value": "10",
+                                    "children": [],
+                                    "bbox": [
+                                        1444,
+                                        326,
+                                        56,
+                                        36
+                                    ],
+                                    "visible_bbox": [
+                                        1444,
+                                        326,
+                                        56,
+                                        36
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                -966,
+                                1624,
+                                392,
+                                256
+                            ],
+                            "visible_bbox": null
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXTextField",
+                            "description": "None",
+                            "role_description": "text field",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                1116,
+                                408,
+                                558,
+                                40
+                            ],
+                            "visible_bbox": [
+                                1116,
+                                408,
+                                558,
+                                40
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXPopUpButton",
+                            "description": "None",
+                            "role_description": "pop-up button",
+                            "value": "Home",
+                            "children": [],
+                            "bbox": [
+                                1672,
+                                404,
+                                182,
+                                56
+                            ],
+                            "visible_bbox": [
+                                1672,
+                                404,
+                                182,
+                                56
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXTextField",
+                            "description": "None",
+                            "role_description": "text field",
+                            "value": "",
+                            "children": [],
+                            "bbox": [
+                                1116,
+                                464,
+                                654,
+                                34
+                            ],
+                            "visible_bbox": [
+                                1116,
+                                464,
+                                654,
+                                34
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXPopUpButton",
+                            "description": "None",
+                            "role_description": "pop-up button",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                1760,
+                                460,
+                                94,
+                                50
+                            ],
+                            "visible_bbox": [
+                                1760,
+                                460,
+                                94,
+                                50
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXButton",
+                            "description": "Tuesday, 6 Feb  12:00 to 14:00",
+                            "role_description": "button",
+                            "value": "Tuesday, 6 Feb",
+                            "children": [],
+                            "bbox": [
+                                1116,
+                                550,
+                                546,
+                                34
+                            ],
+                            "visible_bbox": [
+                                1116,
+                                550,
+                                546,
+                                34
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "12:00 to 14:00",
+                            "children": [],
+                            "bbox": [
+                                1654,
+                                550,
+                                194,
+                                34
+                            ],
+                            "visible_bbox": [
+                                1654,
+                                550,
+                                194,
+                                34
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXButton",
+                            "description": "Add Alert, Repeat or Travel Time",
+                            "role_description": "button",
+                            "value": "Add Alert, Repeat or Travel Time",
+                            "children": [],
+                            "bbox": [
+                                1116,
+                                592,
+                                734,
+                                34
+                            ],
+                            "visible_bbox": [
+                                1116,
+                                592,
+                                734,
+                                34
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXButton",
+                            "description": "Edit Attendees",
+                            "role_description": "button",
+                            "value": "None",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXStaticText",
+                                    "description": "None",
+                                    "role_description": "text",
+                                    "value": "",
+                                    "children": [],
+                                    "bbox": [
+                                        1116,
+                                        686,
+                                        166,
+                                        34
+                                    ],
+                                    "visible_bbox": [
+                                        1116,
+                                        686,
+                                        166,
+                                        34
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                1100,
+                                676,
+                                762,
+                                58
+                            ],
+                            "visible_bbox": [
+                                1100,
+                                676,
+                                762,
+                                58
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXButton",
+                            "description": "Add Notes, URL or Attachments",
+                            "role_description": "button",
+                            "value": "Add Notes, URL or Attachments",
+                            "children": [],
+                            "bbox": [
+                                1116,
+                                768,
+                                734,
+                                34
+                            ],
+                            "visible_bbox": [
+                                1116,
+                                768,
+                                734,
+                                34
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXStaticText",
+                            "description": "None",
+                            "role_description": "text",
+                            "value": "Tuesday",
+                            "children": [],
+                            "bbox": [
+                                26,
+                                176,
+                                154,
+                                48
+                            ],
+                            "visible_bbox": [
+                                26,
+                                176,
+                                154,
+                                48
+                            ]
+                        },
+                        {
+                            "name": "None",
+                            "role": "AXGroup",
+                            "description": "None",
+                            "role_description": "group",
+                            "value": "None",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "previous day",
+                                    "role_description": "button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        1624,
+                                        104,
+                                        50,
+                                        48
+                                    ],
+                                    "visible_bbox": [
+                                        1624,
+                                        104,
+                                        50,
+                                        48
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "Today",
+                                    "role_description": "button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        1674,
+                                        104,
+                                        128,
+                                        48
+                                    ],
+                                    "visible_bbox": [
+                                        1674,
+                                        104,
+                                        128,
+                                        48
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXButton",
+                                    "description": "next day",
+                                    "role_description": "button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        1802,
+                                        104,
+                                        48,
+                                        48
+                                    ],
+                                    "visible_bbox": [
+                                        1802,
+                                        104,
+                                        48,
+                                        48
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                1624,
+                                104,
+                                226,
+                                48
+                            ],
+                            "visible_bbox": [
+                                1624,
+                                104,
+                                226,
+                                48
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        0,
+                        76,
+                        1870,
+                        1120
+                    ],
+                    "visible_bbox": [
+                        0,
+                        76,
+                        1870,
+                        1120
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXSplitter",
+                    "description": "None",
+                    "role_description": "splitter",
+                    "value": "935.0",
+                    "children": [],
+                    "bbox": [
+                        1870,
+                        76,
+                        2,
+                        1120
+                    ],
+                    "visible_bbox": null
+                }
+            ],
+            "bbox": [
+                0,
+                0,
+                1870,
+                1196
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                1870,
+                1196
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXToolbar",
+            "description": "None",
+            "role_description": "toolbar",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXRadioGroup",
+                            "description": "Calendars",
+                            "role_description": "radio group",
+                            "value": "None",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXRadioButton",
+                                    "description": "Calendars",
+                                    "role_description": "radio button",
+                                    "value": "0",
+                                    "children": [],
+                                    "bbox": [
+                                        158,
+                                        14,
+                                        60,
+                                        50
+                                    ],
+                                    "visible_bbox": [
+                                        158,
+                                        14,
+                                        60,
+                                        50
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXRadioButton",
+                                    "description": "Inbox",
+                                    "role_description": "radio button",
+                                    "value": "0",
+                                    "children": [],
+                                    "bbox": [
+                                        218,
+                                        14,
+                                        62,
+                                        50
+                                    ],
+                                    "visible_bbox": [
+                                        218,
+                                        14,
+                                        62,
+                                        50
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                158,
+                                14,
+                                122,
+                                50
+                            ],
+                            "visible_bbox": [
+                                158,
+                                14,
+                                122,
+                                50
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        152,
+                        0,
+                        134,
+                        76
+                    ],
+                    "visible_bbox": [
+                        152,
+                        0,
+                        134,
+                        76
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXButton",
+                    "description": "Add Event",
+                    "role_description": "button",
+                    "value": "None",
+                    "children": [],
+                    "bbox": [
+                        286,
+                        0,
+                        92,
+                        76
+                    ],
+                    "visible_bbox": [
+                        286,
+                        0,
+                        92,
+                        76
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXRadioGroup",
+                            "description": "View Switcher",
+                            "role_description": "radio group",
+                            "value": "<AXUIElement 0x1187773d0> {pid=64679}",
+                            "children": [
+                                {
+                                    "name": "None",
+                                    "role": "AXRadioButton",
+                                    "description": "Day",
+                                    "role_description": "radio button",
+                                    "value": "1",
+                                    "children": [],
+                                    "bbox": [
+                                        674,
+                                        14,
+                                        132,
+                                        50
+                                    ],
+                                    "visible_bbox": [
+                                        674,
+                                        14,
+                                        132,
+                                        50
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXRadioButton",
+                                    "description": "Week",
+                                    "role_description": "radio button",
+                                    "value": "0",
+                                    "children": [],
+                                    "bbox": [
+                                        806,
+                                        14,
+                                        130,
+                                        50
+                                    ],
+                                    "visible_bbox": [
+                                        806,
+                                        14,
+                                        130,
+                                        50
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXRadioButton",
+                                    "description": "Month",
+                                    "role_description": "radio button",
+                                    "value": "0",
+                                    "children": [],
+                                    "bbox": [
+                                        936,
+                                        14,
+                                        130,
+                                        50
+                                    ],
+                                    "visible_bbox": [
+                                        936,
+                                        14,
+                                        130,
+                                        50
+                                    ]
+                                },
+                                {
+                                    "name": "None",
+                                    "role": "AXRadioButton",
+                                    "description": "Year",
+                                    "role_description": "radio button",
+                                    "value": "0",
+                                    "children": [],
+                                    "bbox": [
+                                        1066,
+                                        14,
+                                        130,
+                                        50
+                                    ],
+                                    "visible_bbox": [
+                                        1066,
+                                        14,
+                                        130,
+                                        50
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                674,
+                                14,
+                                522,
+                                50
+                            ],
+                            "visible_bbox": [
+                                674,
+                                14,
+                                522,
+                                50
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        668,
+                        0,
+                        534,
+                        76
+                    ],
+                    "visible_bbox": [
+                        668,
+                        0,
+                        534,
+                        76
+                    ]
+                },
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXTextField",
+                            "description": "Search",
+                            "role_description": "search text field",
+                            "value": "None",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "role": "AXButton",
+                                    "description": "Search",
+                                    "role_description": "button",
+                                    "value": "None",
+                                    "children": [],
+                                    "bbox": [
+                                        1456,
+                                        16,
+                                        50,
+                                        44
+                                    ],
+                                    "visible_bbox": [
+                                        1456,
+                                        16,
+                                        50,
+                                        44
+                                    ]
+                                }
+                            ],
+                            "bbox": [
+                                1452,
+                                14,
+                                404,
+                                50
+                            ],
+                            "visible_bbox": [
+                                1452,
+                                14,
+                                404,
+                                50
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        1446,
+                        0,
+                        416,
+                        76
+                    ],
+                    "visible_bbox": [
+                        1446,
+                        0,
+                        416,
+                        76
+                    ]
+                }
+            ],
+            "bbox": [
+                0,
+                0,
+                1870,
+                76
+            ],
+            "visible_bbox": [
+                0,
+                0,
+                1870,
+                76
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "close button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                24,
+                22,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                24,
+                22,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "full screen button",
+            "value": "None",
+            "children": [
+                {
+                    "name": "None",
+                    "role": "AXGroup",
+                    "description": "None",
+                    "role_description": "group",
+                    "value": "None",
+                    "children": [
+                        {
+                            "name": "None",
+                            "role": "AXGroup",
+                            "description": "None",
+                            "role_description": "group",
+                            "value": "None",
+                            "children": [],
+                            "bbox": [
+                                104,
+                                22,
+                                28,
+                                32
+                            ],
+                            "visible_bbox": [
+                                104,
+                                22,
+                                28,
+                                32
+                            ]
+                        }
+                    ],
+                    "bbox": [
+                        104,
+                        22,
+                        28,
+                        32
+                    ],
+                    "visible_bbox": [
+                        104,
+                        22,
+                        28,
+                        32
+                    ]
+                }
+            ],
+            "bbox": [
+                104,
+                22,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                104,
+                22,
+                28,
+                32
+            ]
+        },
+        {
+            "name": "None",
+            "role": "AXButton",
+            "description": "None",
+            "role_description": "minimise button",
+            "value": "None",
+            "children": [],
+            "bbox": [
+                64,
+                22,
+                28,
+                32
+            ],
+            "visible_bbox": [
+                64,
+                22,
+                28,
+                32
+            ]
+        }
+    ],
+    "bbox": [
+        0,
+        0,
+        1870,
+        1196
+    ],
+    "visible_bbox": [
+        0,
+        0,
+        1870,
+        1196
+    ]
+}
