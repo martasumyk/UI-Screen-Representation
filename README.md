@@ -2,7 +2,9 @@
 
 Problem: represent image in text format understandable for LLMs (ChatGPT) 
 
-Detecting the elements on the picture to json format using pre-trained UIED model.
+Solution:
+
+Step 1: Detecting the elements on the picture to json format using pre-trained UIED model.
 
 Example of usage:
 
