@@ -1,0 +1,429 @@
+{
+    "img_shape": [
+        1448,
+        1080,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "General",
+            "column_min": 130,
+            "row_min": 115,
+            "column_max": 211,
+            "row_max": 132,
+            "width": 81,
+            "height": 17
+        },
+        {
+            "id": 1,
+            "content": "Document",
+            "column_min": 240,
+            "row_min": 116,
+            "column_max": 347,
+            "row_max": 131,
+            "width": 107,
+            "height": 15
+        },
+        {
+            "id": 2,
+            "content": "Links",
+            "column_min": 390,
+            "row_min": 115,
+            "column_max": 444,
+            "row_max": 132,
+            "width": 54,
+            "height": 17
+        },
+        {
+            "id": 3,
+            "content": "Colors :",
+            "column_min": 334,
+            "row_min": 206,
+            "column_max": 419,
+            "row_max": 226,
+            "width": 85,
+            "height": 20
+        },
+        {
+            "id": 4,
+            "content": "Controls :",
+            "column_min": 310,
+            "row_min": 395,
+            "column_max": 419,
+            "row_max": 414,
+            "width": 109,
+            "height": 19
+        },
+        {
+            "id": 5,
+            "content": "Scaling :",
+            "column_min": 324,
+            "row_min": 692,
+            "column_max": 421,
+            "row_max": 718,
+            "width": 97,
+            "height": 26
+        },
+        {
+            "id": 6,
+            "content": "Font :",
+            "column_min": 359,
+            "row_min": 882,
+            "column_max": 420,
+            "row_max": 902,
+            "width": 61,
+            "height": 20
+        },
+        {
+            "id": 7,
+            "content": "Line Height :",
+            "column_min": 273,
+            "row_min": 1080,
+            "column_max": 419,
+            "row_max": 1107,
+            "width": 146,
+            "height": 27
+        },
+        {
+            "id": 8,
+            "content": "Row Spacing :",
+            "column_min": 255,
+            "row_min": 1136,
+            "column_max": 420,
+            "row_max": 1164,
+            "width": 165,
+            "height": 28
+        },
+        {
+            "id": 9,
+            "content": "Animation :",
+            "column_min": 291,
+            "row_min": 1277,
+            "column_max": 419,
+            "row_max": 1299,
+            "width": 128,
+            "height": 22
+        },
+        {
+            "id": 10,
+            "content": "Editor",
+            "column_min": 502,
+            "row_min": 16,
+            "column_max": 578,
+            "row_max": 36,
+            "width": 76,
+            "height": 20
+        },
+        {
+            "id": 11,
+            "content": "AI",
+            "column_min": 505,
+            "row_min": 66,
+            "column_max": 549,
+            "row_max": 106,
+            "width": 44,
+            "height": 40
+        },
+        {
+            "id": 12,
+            "content": "abc",
+            "column_min": 629,
+            "row_min": 65,
+            "column_max": 692,
+            "row_max": 95,
+            "width": 63,
+            "height": 30
+        },
+        {
+            "id": 13,
+            "content": "Editor",
+            "column_min": 499,
+            "row_min": 114,
+            "column_max": 561,
+            "row_max": 133,
+            "width": 62,
+            "height": 19
+        },
+        {
+            "id": 14,
+            "content": "Autocorrect",
+            "column_min": 597,
+            "row_min": 115,
+            "column_max": 723,
+            "row_max": 132,
+            "width": 126,
+            "height": 17
+        },
+        {
+            "id": 15,
+            "content": "Sandbox",
+            "column_min": 749,
+            "row_min": 115,
+            "column_max": 839,
+            "row_max": 132,
+            "width": 90,
+            "height": 17
+        },
+        {
+            "id": 16,
+            "content": "License",
+            "column_min": 870,
+            "row_min": 114,
+            "column_max": 949,
+            "row_max": 133,
+            "width": 79,
+            "height": 19
+        },
+        {
+            "id": 17,
+            "content": "Foreground",
+            "column_min": 529,
+            "row_min": 206,
+            "column_max": 667,
+            "row_max": 230,
+            "width": 138,
+            "height": 24
+        },
+        {
+            "id": 18,
+            "content": "Background",
+            "column_min": 529,
+            "row_min": 254,
+            "column_max": 672,
+            "row_max": 278,
+            "width": 143,
+            "height": 24
+        },
+        {
+            "id": 19,
+            "content": "Reset Colors",
+            "column_min": 457,
+            "row_min": 305,
+            "column_max": 612,
+            "row_max": 324,
+            "width": 155,
+            "height": 19
+        },
+        {
+            "id": 20,
+            "content": "Font Size : H +",
+            "column_min": 301,
+            "row_min": 1034,
+            "column_max": 463,
+            "row_max": 1054,
+            "width": 162,
+            "height": 20
+        },
+        {
+            "id": 21,
+            "content": "Mark current line",
+            "column_min": 477,
+            "row_min": 394,
+            "column_max": 681,
+            "row_max": 415,
+            "width": 204,
+            "height": 21
+        },
+        {
+            "id": 22,
+            "content": "Hide guide lines",
+            "column_min": 477,
+            "row_min": 442,
+            "column_max": 671,
+            "row_max": 466,
+            "width": 194,
+            "height": 24
+        },
+        {
+            "id": 23,
+            "content": "Hide focus arrows",
+            "column_min": 477,
+            "row_min": 489,
+            "column_max": 695,
+            "row_max": 513,
+            "width": 218,
+            "height": 24
+        },
+        {
+            "id": 24,
+            "content": "Hide unloaded controls when typing",
+            "column_min": 477,
+            "row_min": 536,
+            "column_max": 910,
+            "row_max": 562,
+            "width": 433,
+            "height": 26
+        },
+        {
+            "id": 25,
+            "content": "Unloaded controls are the dimmed ones that don't",
+            "column_min": 437,
+            "row_min": 585,
+            "column_max": 963,
+            "row_max": 602,
+            "width": 526,
+            "height": 17
+        },
+        {
+            "id": 26,
+            "content": "indicate hidden rows .",
+            "column_min": 436,
+            "row_min": 611,
+            "column_max": 659,
+            "row_max": 632,
+            "width": 223,
+            "height": 21
+        },
+        {
+            "id": 27,
+            "content": "Enable font scaling",
+            "column_min": 477,
+            "row_min": 691,
+            "column_max": 704,
+            "row_max": 718,
+            "width": 227,
+            "height": 27
+        },
+        {
+            "id": 28,
+            "content": "When enabled and text wrap is enabled the outline font is",
+            "column_min": 435,
+            "row_min": 740,
+            "column_max": 1039,
+            "row_max": 762,
+            "width": 604,
+            "height": 22
+        },
+        {
+            "id": 29,
+            "content": "scaled to better fit the window width . For example , font",
+            "column_min": 436,
+            "row_min": 767,
+            "column_max": 1015,
+            "row_max": 790,
+            "width": 579,
+            "height": 23
+        },
+        {
+            "id": 30,
+            "content": "size increases when you enter full screen mode .",
+            "column_min": 436,
+            "row_min": 795,
+            "column_max": 943,
+            "row_max": 818,
+            "width": 507,
+            "height": 23
+        },
+        {
+            "id": 31,
+            "content": "System",
+            "column_min": 452,
+            "row_min": 879,
+            "column_max": 539,
+            "row_max": 905,
+            "width": 87,
+            "height": 26
+        },
+        {
+            "id": 32,
+            "content": "Bike works well using the System font . If you use another",
+            "column_min": 437,
+            "row_min": 932,
+            "column_max": 1033,
+            "row_max": 955,
+            "width": 596,
+            "height": 23
+        },
+        {
+            "id": 33,
+            "content": "font make sure that it has bold and italic variants if you",
+            "column_min": 434,
+            "row_min": 961,
+            "column_max": 1007,
+            "row_max": 982,
+            "width": 573,
+            "height": 21
+        },
+        {
+            "id": 34,
+            "content": "wish to see bold and italic formatting .",
+            "column_min": 436,
+            "row_min": 989,
+            "column_max": 829,
+            "row_max": 1009,
+            "width": 393,
+            "height": 20
+        },
+        {
+            "id": 35,
+            "content": "14pt )",
+            "column_min": 760,
+            "row_min": 1034,
+            "column_max": 815,
+            "row_max": 1056,
+            "width": 55,
+            "height": 22
+        },
+        {
+            "id": 36,
+            "content": "1.3x",
+            "column_min": 760,
+            "row_min": 1087,
+            "column_max": 802,
+            "row_max": 1107,
+            "width": 42,
+            "height": 20
+        },
+        {
+            "id": 37,
+            "content": "0.0x",
+            "column_min": 760,
+            "row_min": 1139,
+            "column_max": 804,
+            "row_max": 1159,
+            "width": 44,
+            "height": 20
+        },
+        {
+            "id": 38,
+            "content": "Reset Typography",
+            "column_min": 457,
+            "row_min": 1185,
+            "column_max": 677,
+            "row_max": 1214,
+            "width": 220,
+            "height": 29
+        },
+        {
+            "id": 39,
+            "content": "Enable animations",
+            "column_min": 477,
+            "row_min": 1278,
+            "column_max": 696,
+            "row_max": 1298,
+            "width": 219,
+            "height": 20
+        },
+        {
+            "id": 40,
+            "content": "Enable typing animations",
+            "column_min": 477,
+            "row_min": 1326,
+            "column_max": 778,
+            "row_max": 1350,
+            "width": 301,
+            "height": 24
+        },
+        {
+            "id": 41,
+            "content": "1.5x speed",
+            "column_min": 761,
+            "row_min": 1377,
+            "column_max": 870,
+            "row_max": 1402,
+            "width": 109,
+            "height": 25
+        }
+    ]
+}
