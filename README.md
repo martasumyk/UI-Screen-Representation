@@ -17,3 +17,6 @@ Step 2: Using Visual Language model
 
 Goal: To detemine the logic of the web-page
 
+Example of usage:
+![photo_5352884811670344050_y (1)](https://github.com/martasumyk/UI-Screen-Representation/assets/116710765/16ea7648-1bcb-4aeb-b7d6-b8dd91d0e5ed)
+
