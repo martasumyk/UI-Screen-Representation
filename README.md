@@ -4,7 +4,7 @@ Problem: represent image in text format understandable for LLMs (ChatGPT)
 
 Solution:
 
-Step 1: Detecting the elements on the picture to json format using pre-trained UIED model.(https://github.com/martasumyk/UI-Screen-Representation/files/14231903/LA-sem-4-2022.2.pdf)
+Step 1: Detecting the elements on the picture to json format using pre-trained UIED model.
 
 
 Goal: To determine the location of the emenents on the screen.
